@@ -1,0 +1,2142 @@
+dialogue_id,turn,Model,words,sentences,quest_mark,whq,imper_quest,places_services,simple_quest,sensitive_data,interjections,conditional_vb
+1_00000,I am feeling hungry so I would like to find a place to eat.,1,14,1,0,0,0,0,0,0,0,1
+1_00000,I would like for it to be in San Jose.,1,10,1,0,0,0,1,0,0,0,1
+1_00000,I usually like eating the American type of food.,1,9,1,0,0,0,1,0,0,0,0
+1_00000,Can you give me the address of this restaurant.,0,9,1,0,0,0,0,0,0,0,0
+1_00000,Can you give me the phone number that I can contact them with?,0,13,1,1,0,0,0,0,0,0,0
+1_00000,Is there some other restaurant which you can suggest?,0,9,1,1,0,0,0,0,0,0,0
+1_00000,Do you have another restaurant matching my needs? For example a restaurant which is economical and is located in Palo Alto.,1,21,2,1,0,1,1,0,0,0,0
+1_00000,"Alright, that seems good. I would like to make a booking at this restaurant.",1,14,2,0,0,0,0,0,0,0,1
+1_00000,I will be eating there at 11:30 am so make it for then.,1,13,1,0,0,0,0,0,1,0,0
+1_00000,That suits me well. Can you tell me if they feature live music?,1,13,2,1,0,0,0,0,0,0,0
+1_00000,Will I be able to find liquor there? Can you give me the address of their location?,1,17,2,1,0,0,0,0,0,0,0
+1_00000,I appreciate it very much. That would be all.,1,9,2,0,0,0,0,0,0,0,1
+1_00002,Help me find a good restaurant.,0,6,1,0,0,1,0,0,0,0,0
+1_00002,Find me Ethiopian cuisine in Berkeley.,0,6,1,0,0,1,1,0,0,0,0
+1_00002,Do they have live music?,0,5,1,1,0,1,0,1,0,0,0
+1_00002,That's okay. I'd like to reserve a table for the 4th.,1,13,2,0,0,0,0,0,1,0,1
+1_00002,Reserve the table for the 2nd of this month at 17:15.,0,11,1,0,0,1,0,0,1,0,0
+1_00002,That's right. Do they serve alcohol? And how expensive is the place?,1,13,3,1,1,1,0,0,0,0,0
+1_00002,Can you check if a table is available at 17:30?,0,10,1,1,0,0,0,0,1,0,0
+1_00002,That's correct.,0,3,1,0,0,0,0,0,0,0,0
+1_00002,Thank you. That's all I need for now.,1,9,2,0,0,0,0,0,0,0,0
+1_00003,I'm looking for a place to eat.,1,8,1,0,0,0,0,0,0,0,0
+1_00003,Some Freshwater fish kind of food in Palo Alto would be perfect.,1,12,1,0,0,0,1,0,0,0,1
+1_00003,Could you suggest any other restaurant?,1,6,1,1,0,0,0,1,0,0,1
+1_00003,"Yes, that works for me.",1,5,1,0,0,0,0,0,0,0,0
+1_00003,"Yes, I want to make a reservation for one. Make it at half past 6 in the evening.",0,18,2,0,0,1,0,0,1,0,0
+1_00003,"Yes, that works for me. How pricey are they? What is their contact number?",1,14,3,1,1,0,0,0,0,0,0
+1_00003,Thank you very much.,1,4,1,0,0,0,0,0,0,1,0
+1_00003,"No, thank you very much.",1,5,1,0,0,0,0,0,0,1,0
+1_00004,I'd like to find a place to eat.,1,9,1,0,0,0,0,0,0,0,1
+1_00004,Lobster sounds great. Please search in San Mateo.,1,8,2,0,0,0,1,0,0,1,0
+1_00004,What's their phone number?,0,5,1,1,1,0,0,1,0,0,0
+1_00004,Any other suggestions?,0,3,1,1,0,0,0,1,0,0,0
+1_00004,Do they have live music?,0,5,1,1,0,1,0,1,0,0,0
+1_00004,Any other suggestions?,0,3,1,1,0,0,0,1,0,0,0
+1_00004,That would work great. I would like to make a reservation there at evening 5:30 on March 14th.,1,18,2,0,0,0,1,0,1,1,1
+1_00004,"Yes, that would be great. Do they serve liquor or have live music?",1,13,2,1,0,1,0,0,0,1,1
+1_00004,Thanks so much!,1,3,1,0,0,0,0,0,0,0,0
+1_00004,"Nope, that'll be all. Thanks!",1,6,2,0,0,0,0,0,0,0,0
+1_00005,I'm looking for a Filipino place to eat.,0,9,1,0,0,0,1,0,0,0,0
+1_00005,I want to eat in San Bruno,0,7,1,0,0,0,1,0,0,0,0
+1_00005,Any other suggestions?,0,3,1,1,0,0,0,1,0,0,0
+1_00005,How cheap is it and how much does it cost?,1,10,1,1,1,0,0,0,0,0,0
+1_00005,Please can you make the reservation,1,6,1,0,0,0,0,0,0,1,0
+1_00005,On the 12th at six pm,0,6,1,0,0,0,0,0,1,0,0
+1_00005,That's good. Do they serve liquor and what is there number?,1,12,2,1,1,1,0,0,0,0,0
+1_00005,Thanks a lot,1,3,1,0,0,0,0,0,0,0,0
+1_00006,Can you help find a place to eat?,0,8,1,1,0,0,0,0,0,0,0
+1_00006,I would like Freshwater fish.,1,5,1,0,0,0,0,0,0,0,1
+1_00006,The city is San Jose.,0,5,1,0,0,0,1,0,0,0,0
+1_00006,Yes that is fine.,1,4,1,0,0,0,0,0,0,0,0
+1_00006,Yes make it for March 10th.,0,6,1,0,0,0,1,0,1,0,0
+1_00006,Reserve for six in the evening.,0,6,1,0,0,1,0,0,0,0,0
+1_00006,Yes what is the address and do they have live music?,1,11,1,1,1,0,0,0,0,0,0
+1_00006,Thank you for all.,1,4,1,0,0,0,0,0,0,1,0
+1_00006,"No, that is all.",0,4,1,0,0,0,0,0,0,0,0
+1_00007,My friend and I are looking for a place to eat.,1,11,1,0,0,0,0,0,0,0,0
+1_00007,My family and I are in San Jose and the perfect place would have pizza and pasta. We don't have a price preference.,1,24,2,0,0,0,1,0,0,0,1
+1_00007,Is there any other restaurant that you can suggest?,0,9,1,1,0,0,0,0,0,0,0
+1_00007,Can I please have the address and contact number?,1,9,1,1,0,0,0,0,0,1,0
+1_00007,Is there any other restaurant that you can suggest?,0,9,1,1,0,0,0,0,0,0,0
+1_00007,That restaurant will work can you please make a reservation for 12:30.,1,12,1,0,0,0,0,0,1,1,0
+1_00007,"Yes, thank you that is correct.",1,6,1,0,0,0,0,0,0,0,0
+1_00007,Thank you so much for setting that up.,1,8,1,0,0,0,0,0,0,1,0
+1_00007,That is all thank you so much.,1,7,1,0,0,0,0,0,0,1,0
+1_00008,Can you find me something economical to eat in Pleasanton.,0,10,1,0,0,0,1,0,0,0,0
+1_00008,I would like some Italian food.,1,6,1,0,0,0,1,0,0,0,1
+1_00008,Can you provide the address and do they have live music?,1,11,1,1,0,0,0,0,0,0,0
+1_00008,Any other recommendation?,0,3,1,1,0,0,0,1,0,0,0
+1_00008,Can you provide more options?,0,5,1,1,0,0,0,1,0,0,0
+1_00008,That sounds like a good choice for me.,1,8,1,0,0,0,0,0,0,0,0
+1_00008,"Yes, make a reservation at the restaurant.",0,7,1,0,0,0,0,0,0,0,0
+1_00008,I'll reach there at 1:30 pm.,1,7,1,0,0,0,0,0,1,0,0
+1_00008,"No, change the time to 7 pm and for one person only.",0,12,1,0,0,0,0,0,1,0,0
+1_00008,"No, change it on next friday.",0,6,1,0,0,0,0,0,0,0,0
+1_00008,Yes. Sounds good.,1,3,2,0,0,0,0,0,0,0,0
+1_00008,What is the address of the restaurant and do the have live music?,1,13,1,1,1,0,0,0,0,0,0
+1_00008,"Alright, Thank you.",1,3,1,0,0,0,0,0,0,0,0
+1_00010,I'm starving! Can you help me find a restaurant that serves Breakfast in Fairfield?,1,15,2,1,0,0,1,0,0,0,0
+1_00010,Is there a band playing there?,0,6,1,1,0,0,0,1,0,0,0
+1_00010,That's okay. It will work anyway.,1,7,2,0,0,0,0,0,0,0,0
+1_00010,"Yes, I'll need to make a reservation for a table for 2.",0,13,1,0,0,0,0,0,1,0,0
+1_00010,Please make it for half past 5 in the evening.,1,10,1,0,0,0,0,0,1,1,0
+1_00010,"I'm sorry, I need to change that. I'd like it on the 9th and it will be for 3 people.",1,22,2,0,0,0,0,0,1,1,1
+1_00010,I'm sorry. I need to make it on Monday next week at half past 12 in the afternoon.,1,19,2,0,0,0,0,0,1,1,0
+1_00010,"Yes, I'm sorry for the confusion. Can you tell me their phone number please?",1,15,2,1,0,0,0,0,0,1,0
+1_00010,Great! Thank you so much for your help.,1,8,2,0,0,0,0,0,0,1,0
+1_00011,Can you help me find a place to eat at?,0,10,1,1,0,0,0,0,0,0,0
+1_00011,"Cupertino, please.",1,2,1,0,0,0,1,0,0,1,0
+1_00011,Malaysian sounds good right now.,1,5,1,0,0,0,1,0,0,0,0
+1_00011,What's the other one?,0,5,1,1,1,0,0,1,0,0,0
+1_00011,Does the restaurant have live music?,0,6,1,1,0,0,0,1,0,0,0
+1_00011,Sounds fine to me. Can you help me make a reservation?,1,11,2,1,0,0,0,0,0,0,0
+1_00011,"A quarter past 5 in the evening, please.",1,8,1,0,0,0,0,0,1,1,0
+1_00011,"No, I'd like it on March 13th.",1,8,1,0,0,0,1,0,1,0,1
+1_00011,"No, I'd like it at half past 12 in the afternoon.",1,12,1,0,0,0,0,0,1,0,1
+1_00011,"Yes, sounds good.",1,3,1,0,0,0,0,0,0,0,0
+1_00011,Does the restaurant serve alcohol?,0,5,1,1,0,0,0,1,0,0,0
+1_00011,"Thank you, that's all I need.",1,7,1,0,0,0,0,0,0,0,0
+1_00012,"Hello, could you help me search for a place to dine in?",1,12,1,1,0,0,0,0,0,0,1
+1_00012,I would prefer a restaurant which serves up Cambodian food in SF.,1,12,1,0,0,0,1,0,0,0,1
+1_00012,Are there any alternative restaurants?,0,5,1,1,0,0,0,1,0,0,0
+1_00012,"Sure, that sounds great!",1,4,1,0,0,0,0,0,0,1,0
+1_00012,"Yes, please do so.",1,4,1,0,0,0,0,0,0,1,0
+1_00012,I would prefer to dine in at 19:15.,1,8,1,0,0,0,0,0,1,0,1
+1_00012,"Sorry, could you change the booking to 18:30 for 3 people?",1,11,1,1,0,0,0,0,1,1,1
+1_00012,That's fine for me. May I know where they are located at?,1,13,2,1,1,0,0,0,0,0,0
+1_00012,"No, thank you anyway.",1,4,1,0,0,0,0,0,0,0,0
+1_00014,I want to find a restaurant in Albany.,0,8,1,0,0,0,1,0,0,0,0
+1_00014,Barbecue is the best.,1,4,1,0,0,0,0,0,0,0,0
+1_00014,What is the other option?,0,5,1,1,1,0,0,1,0,0,0
+1_00014,Yes that sounds good.,1,4,1,0,0,0,0,0,0,0,0
+1_00014,Yes please reserve me a table for the 13th of March.,1,11,1,0,0,0,1,0,1,1,0
+1_00014,"5 o""clock in the evening please.",1,8,1,0,0,0,0,0,1,1,0
+1_00014,Yes is great.,1,3,1,0,0,0,0,0,0,1,0
+1_00014,Thanks for your help.,1,4,1,0,0,0,0,0,0,0,0
+1_00014,No that will be all.,1,5,1,0,0,0,0,0,0,0,0
+1_00015,Can you pull up a list of places to eat?,0,10,1,1,0,0,0,0,0,0,0
+1_00015,Search San Francisco for Asian Fusion food,0,7,1,0,0,1,0,0,0,0,0
+1_00015,Is there live music?,0,4,1,1,0,0,0,1,0,0,0
+1_00015,Do they serve alcohol? And what's their phone number?,1,10,2,1,1,1,0,0,0,0,0
+1_00015,Okay great. Please make a reservation for a party of six.,1,11,2,0,0,0,0,0,0,1,0
+1_00015,half past 5 in the evening please.,1,7,1,0,0,0,0,0,1,1,0
+1_00015,That's correct. What's the address?,0,7,2,1,1,0,0,0,0,0,0
+1_00015,I want a reservation at this restaurant. Can you make it for twelve pm? For four people.,1,17,3,1,0,0,0,0,0,0,0
+1_00015,"Yes, thank you. How's the pricing? Low priced?",1,9,3,1,1,0,0,0,0,0,0
+1_00015,"Thank you, that is all.",1,5,1,0,0,0,0,0,0,0,0
+1_00016,"I'm looking for a good place to get something to eat, can you help?",1,15,1,1,0,0,0,0,0,0,0
+1_00016,"Oh, I'm in Oakland. Please find an American restaurant.",1,10,2,0,0,0,1,0,0,1,0
+1_00016,Are their prices extravagant? How can I contact them.,1,9,2,1,1,0,0,0,0,0,0
+1_00016,"Okay, that sounds good. Can you reserve a table for me?",1,11,2,1,0,0,0,0,0,0,0
+1_00016,Please reserve it for six pm.,1,6,1,0,0,0,0,0,0,1,0
+1_00016,Yes that's perfect. What's their address? Do they have a live band?,1,14,3,1,1,1,0,0,0,0,0
+1_00016,Okay thanks. That'll be all.,1,6,2,0,0,0,0,0,0,0,0
+1_00019,Are there any Mexican places in Rohnert Park?,0,8,1,1,0,0,1,0,0,0,0
+1_00019,Is it an inexpensive restaurant?,0,5,1,1,0,0,0,1,0,0,0
+1_00019,What's their phone number?,0,5,1,1,1,0,0,1,0,0,0
+1_00019,Are there any other restaurants? Something like Ramen would be good. I want something that is not very costly.,1,19,3,1,0,0,0,0,0,0,1
+1_00019,That would be great!,1,4,1,0,0,0,0,0,0,1,1
+1_00019,Make a reservation this morning 11:15 for three people.,0,9,1,0,0,1,0,0,1,0,0
+1_00019,That's correct. What's their address?,1,7,2,1,1,0,0,0,0,0,0
+1_00019,Is their music live?,0,4,1,1,0,0,0,1,0,0,0
+1_00019,Okay. That was all I needed.,1,6,2,0,0,0,0,0,0,0,0
+1_00020,I'm getting pretty hungry and need to find a place to eat.,1,13,1,0,0,0,0,0,0,0,0
+1_00020,I would like something that I can pick-up in San Fran at any price range.,1,15,1,0,0,0,0,0,0,0,1
+1_00020,Do they have music or entertainment? Can I have their phone number?,1,12,2,1,0,1,0,0,0,0,0
+1_00020,I am on a budget so I would like something that is inexpensive but serves alcohol. Can you suggest another restaurant with these qualities?,1,24,2,1,0,0,0,0,0,0,1
+1_00020,"Yes, that sounds like what I'm looking for.",1,9,1,0,0,0,0,0,0,0,0
+1_00020,"Yes, can you make the reservation for two people?",0,9,1,1,0,0,0,0,0,0,0
+1_00020,Please make the reservation for the 13th of this month at afternoon 12.,1,13,1,0,0,0,0,0,1,1,0
+1_00020,Yes that sounds great. What is the address of the restaurant?,1,11,2,1,1,0,0,0,0,1,0
+1_00020,Thank you for all your help.,1,6,1,0,0,0,0,0,0,1,0
+1_00020,"No, that was all I needed but thank you.",1,9,1,0,0,0,0,0,0,0,0
+1_00021,Can you help me find a restaurant?,0,7,1,1,0,0,0,0,0,0,0
+1_00021,I prefer Redwood City.,0,4,1,0,0,0,1,0,0,0,0
+1_00021,"I would like Spanish food, economical pricing preferred.",1,8,1,0,0,0,1,0,0,0,1
+1_00021,That sounds good.,1,3,1,0,0,0,0,0,0,0,0
+1_00021,Yes please make a reservation for four.,1,7,1,0,0,0,0,0,0,1,0
+1_00021,Early evening 5:45 pm.,0,4,1,0,0,0,0,0,1,0,0
+1_00021,Yes that is correct. Do you have their phone number?,1,10,2,1,0,1,0,0,0,0,0
+1_00021,Thank you. That is all for now.,0,7,2,0,0,0,0,0,0,0,0
+1_00022,I am looking for a place to eat. Can you find restaurants specializing in Singaporean cuisine near me?,1,18,2,1,0,0,1,0,0,0,0
+1_00022,I am looking for restaurants located in Millbrae.,0,8,1,0,0,0,1,0,0,0,0
+1_00022,"Great, thanks. What is their phone number? Do they serve alcohol?",1,11,3,1,1,1,0,0,0,0,0
+1_00022,"Okay, sounds good.",1,3,1,0,0,0,0,0,0,0,0
+1_00022,"Sure, that would be great.",1,5,1,0,0,0,0,0,0,1,1
+1_00022,"Eleven in the morning, please.",1,5,1,0,0,0,0,0,0,1,0
+1_00022,Yes- that's perfect.,1,4,1,0,0,0,0,0,0,0,0
+1_00022,Wonderful. Thanks for your help.,1,5,2,0,0,0,0,0,0,0,0
+1_00023,Can you help me find an afforadable place to eat?,0,10,1,1,0,0,0,0,0,0,0
+1_00023,Please look for a place in Calistoga.,1,7,1,0,0,0,0,0,0,1,0
+1_00023,I'm in the mood for Cambodian food.,1,8,1,0,0,0,1,0,0,0,0
+1_00023,"Do you have any other suggestions? Actually, I think I'd prefer Barbecue.",1,13,2,1,0,1,0,0,0,0,1
+1_00023,"Yeah, that does work for me.",1,6,1,0,0,0,0,0,0,0,0
+1_00023,"Yeah, please make me a reservation.",1,6,1,0,0,0,0,0,0,1,0
+1_00023,"It should be half past 12 in the afternoon. Oh, and make it for two.",1,15,2,0,0,0,0,0,1,0,1
+1_00023,"Wait no, it's just 1 person.",1,7,1,0,0,1,0,0,1,0,0
+1_00023,"Yeah, also do they have live music and liquor there?",1,10,1,1,0,0,0,0,0,0,0
+1_00023,"Okay, thanks. I don't need any more help.",1,9,2,0,0,0,0,0,0,0,0
+1_00024,I will be going to eat with a friend what expensive restaurants do you recommend?,1,15,1,1,1,0,0,0,0,0,0
+1_00024,I want something with Fish but make it an average priced restaurant.,1,12,1,0,0,0,0,0,0,0,0
+1_00024,I want to eat in Burlingame.,0,6,1,0,0,0,1,0,0,0,0
+1_00024,That sounds great. Please make a reservation.,1,7,2,0,0,0,0,0,0,1,0
+1_00024,At quarter to 1 in the afternoon.,0,7,1,0,0,0,0,0,1,0,0
+1_00024,"Yes, that is correct. Do you have the phone number?",1,10,2,1,0,1,0,0,0,0,0
+1_00024,"Thanks a lot, that would be all.",1,7,1,0,0,0,0,0,0,0,1
+1_00025,I am tired of eating my cooking. I want to eat out tonight.,1,13,2,0,0,0,0,0,0,0,0
+1_00025,I am in the mood for Izakaya cuisine.,1,8,1,0,0,0,0,0,0,0,0
+1_00025,I want something in Rohnert Park,0,6,1,0,0,0,1,0,0,0,0
+1_00025,That does not seems close by. Where is it located?,1,10,2,1,1,0,0,0,0,0,0
+1_00025,Is there anything else? I want to go somewhere close to Pleasant Hill.,1,13,2,1,0,0,1,0,0,0,0
+1_00025,Where is it located?,0,4,1,1,1,0,0,1,0,0,0
+1_00025,It is closer and would work out perfectly for me.,1,10,1,0,0,0,0,0,0,0,1
+1_00025,"Yes, reserve it for me.",0,5,1,0,0,0,0,0,0,0,0
+1_00025,"8 in the night, for 1 person",0,7,1,0,0,0,0,0,1,0,0
+1_00025,Great. Is there live music? Is it a costly restaurant?,1,10,3,1,0,0,0,0,0,1,0
+1_00025,Try again to book a table for 2,0,8,1,0,0,1,0,0,1,0,0
+1_00025,I would like a table for 11:45 in the morning.,1,10,1,0,0,0,0,0,1,0,1
+1_00025,That would be great.,1,4,1,0,0,0,0,0,0,1,1
+1_00025,That would be great.,1,4,1,0,0,0,0,0,0,1,1
+1_00025,I appreciate your assistance.,1,4,1,0,0,0,0,0,0,0,0
+1_00025,"No, you have be most helpful.",1,6,1,0,0,0,0,0,0,0,0
+1_00026,I am looking for an inexpensive place to eat that has live music.,1,13,1,0,0,0,0,0,0,0,0
+1_00026,"I'd like some soup, and I'm looking in San Ramon.",1,12,1,0,0,0,1,0,0,0,1
+1_00026,What is their address and contact number?,0,7,1,1,1,0,0,0,0,0,0
+1_00026,"Yes, that would work.",1,4,1,0,0,0,0,0,0,0,1
+1_00026,"Yes, please make the reservation for 7:30 pm.",1,8,1,0,0,0,0,0,1,1,0
+1_00026,"Yes, that's great. Do they serve liquor?",1,8,2,1,0,1,0,0,0,1,0
+1_00026,"Thank you, that is all I need.",1,7,1,0,0,0,0,0,0,0,0
+1_00027,Can you help me find somewhere to eat?,0,8,1,1,0,0,0,0,0,0,0
+1_00027,Search in Cupertino for Dumplings.,0,5,1,0,0,1,1,0,0,0,0
+1_00027,"Is it expensive, and do they serve alcohol?",0,8,1,1,0,0,0,0,0,0,0
+1_00027,Can you look for another place to eat in Santa Clara?,0,11,1,1,0,0,1,0,0,0,0
+1_00027,Can you suggest something in the moderate price range?,0,9,1,1,0,0,0,0,0,0,0
+1_00027,"Great, can you make a reservation on the 7th of this month?",1,12,1,1,0,0,0,0,1,1,0
+1_00027,How about 7:30 pm.,0,4,1,0,0,0,0,0,1,0,0
+1_00027,"Yes, that's right. Do they serve alcohol?",0,8,2,1,0,1,0,0,0,0,0
+1_00027,"Great, thanks, that's all I need.",1,7,1,0,0,0,0,0,0,0,0
+1_00028,Hey! Today feeling so tired... Wish to have some food outside in a good restaurant... Can you find me one?,1,22,3,1,0,1,0,0,0,0,0
+1_00028,I would love to taste some Seafood in San Mateo. Please find some good hotels.,1,15,2,0,0,0,1,0,0,1,1
+1_00028,How much they charge? Can I have their street address?,0,10,2,1,1,0,0,0,0,0,0
+1_00028,"Yup, that works. Please can you reserve at this restaurant?",1,10,2,1,0,0,0,0,0,1,0
+1_00028,Probably at quarter past 1 in the afternoon.,0,8,1,0,0,0,0,0,1,0,0
+1_00028,Yup! sounds good. I've a question... Did liquor is provided at this restaurant?,1,15,3,1,0,0,0,0,0,0,0
+1_00028,Thanks for your time.,1,4,1,0,0,0,0,0,0,0,0
+1_00028,"Nope, thanks a lot.",1,4,1,0,0,0,0,0,0,0,0
+1_00029,I'm looking for somewhere in Dublin to have a meal and a drink.,0,14,1,0,0,0,1,0,0,0,0
+1_00029,I feel like a burger.,1,5,1,0,0,0,0,0,0,0,0
+1_00029,Do you have anything else?,0,5,1,1,0,1,0,1,0,0,0
+1_00029,Do they have live music? What's the price range?,0,10,2,1,1,1,0,0,0,0,0
+1_00029,Oh okay. Yeah sure that's fine.,1,7,2,0,0,0,0,0,0,0,0
+1_00029,I'd like to make a reservation.,1,7,1,0,0,0,0,0,0,0,1
+1_00029,5 pm please. There's 3 people in the group.,1,10,2,0,0,0,0,0,1,1,0
+1_00029,Yeah that works fine. What's their address and phone number?,1,11,2,1,1,0,0,0,0,0,0
+1_00029,Thanks a lot!,1,3,1,0,0,0,0,0,0,0,0
+1_00029,"No thanks, that's all.",1,5,1,0,0,0,0,0,0,0,0
+1_00030,"I am bored of eating food from home , i need a change . Will you find me a place to eat? It can be costly priced and i am very fond of it",1,32,3,1,0,0,0,0,0,0,0
+1_00030,I need Pizza kind of food and i wish to eat in city Napa.,1,14,1,0,0,0,1,0,0,0,0
+1_00030,Will you specify restaurant address and whether they have live music ?,0,11,1,1,0,0,0,0,0,0,0
+1_00030,"Ok its fine , i prefer the same.",1,7,1,0,0,0,0,0,0,0,0
+1_00030,"Yes sure, Please make a reservation and number of people is 2",1,12,1,0,0,0,0,0,1,1,0
+1_00030,Please fix it at 11:30 am,1,6,1,0,0,0,0,0,1,1,0
+1_00030,sorry make the reservation time as Morning 11:45,1,8,1,0,0,0,0,0,1,1,0
+1_00030,ok its great and sounds good .Please inform me the contact number of that restaurant?,1,15,1,1,0,0,0,0,0,1,0
+1_00030,Whether they serve liquor?,0,4,1,1,0,0,0,1,0,0,0
+1_00030,ok thanks a lot for your kind help,1,8,1,0,0,0,0,0,0,0,0
+1_00031,I'm starting to get hungry. I want to go eat at a nice restaurant.,1,15,2,0,0,0,0,0,0,0,0
+1_00031,Milpitas.,0,1,1,0,0,0,1,0,0,0,0
+1_00031,I feel like Cambodian tonight.,1,5,1,0,0,0,1,0,0,0,0
+1_00031,That's exactly what I'm looking for.,1,8,1,0,0,0,0,0,0,0,0
+1_00031,"Yes, I'd like to try this place out.",1,9,1,0,0,0,0,0,0,0,1
+1_00031,6:30 pm. Please make the reservation for four people.,1,9,2,0,0,0,0,0,1,1,0
+1_00031,Perfect. What are the prices at Anh Hong like?,0,9,2,1,1,0,0,0,0,0,0
+1_00031,Thanks. You've been a big help.,1,7,2,0,0,0,0,0,0,0,0
+1_00032,I'm planning on going out to eat later on. Can you help me find a place to eat at?,1,20,2,1,0,0,0,0,0,0,0
+1_00032,I'd like to go to a restaurant in Martinez that serves Thai food.,1,14,1,0,0,0,1,0,0,0,1
+1_00032,What's their phone number and do they serve alcohol?,0,10,1,1,1,0,0,0,0,0,0
+1_00032,"Okay, great. I want to make a reservation please.",1,9,2,0,0,0,0,0,0,1,0
+1_00032,Make the reservation for 7 pm.,0,6,1,0,0,1,0,0,1,0,0
+1_00032,"No, make it for 1 person on next Monday please.",1,10,1,0,0,0,0,0,1,1,0
+1_00032,"Yup, that's right. Can you tell me if they have a live band?",1,14,2,1,0,0,0,0,0,0,0
+1_00032,Do you know if their menu is inexpensive and what their address is?,1,13,1,1,1,1,0,0,0,0,0
+1_00032,"Great, thanks!",1,2,1,0,0,0,0,0,0,1,0
+1_00032,No thanks. That's all I needed help with.,1,9,2,0,0,0,0,0,0,0,0
+1_00033,I am looking for an intermediate priced eating place in the nearby area.,0,13,1,0,0,0,0,0,0,0,0
+1_00033,Any place in Pleasanton which serves Ramen kind of food and also alcohol will be ideal.,1,16,1,0,0,0,1,0,0,0,0
+1_00033,That is good a good choice. Please make a reservation for six people for 3rd of March.,1,17,2,0,0,0,1,0,1,1,0
+1_00033,Reserve it for Twelve pm.,0,5,1,0,0,1,0,0,0,0,0
+1_00033,Yes that is good.,0,4,1,0,0,0,0,0,0,0,0
+1_00033,Thank you.,1,2,1,0,0,0,0,0,0,0,0
+1_00033,No. This should be enough for now.,1,7,2,0,0,0,0,0,0,0,1
+1_00034,I would like to it in a place in Pleasanton.,1,10,1,0,0,0,1,0,0,0,1
+1_00034,I would love some Noodles,1,5,1,0,0,0,0,0,0,0,1
+1_00034,Can you tell me the phone number?,0,7,1,1,0,0,0,0,0,0,0
+1_00034,Sounds good,1,2,1,0,0,0,0,0,0,0,0
+1_00034,Yes make it for 2 people,0,6,1,0,0,0,0,0,1,0,0
+1_00034,I want to be at 6:45 in the evening,0,9,1,0,0,0,0,0,1,0,0
+1_00034,No make it please at 12:45 for 4 people,1,9,1,0,0,0,0,0,1,1,0
+1_00034,Yes is good.Tell me please if they serve Liquor and if they have a price range average priced,1,18,1,0,0,0,0,0,0,1,0
+1_00034,Yes is ok,0,3,1,0,0,0,0,0,0,0,0
+1_00034,Thank you very much that s all I need,1,9,1,0,0,0,0,0,0,1,0
+1_00035,I'd like to find a place to eat.,1,9,1,0,0,0,0,0,0,0,1
+1_00035,I'd like a Barbecue food restaurant in Campbell.,1,9,1,0,0,0,1,0,0,0,1
+1_00035,Is Liquor available? Where are they located?,0,7,2,1,1,0,0,0,0,0,0
+1_00035,Do you have any other suggestions that are also affordable?,0,10,1,1,0,1,0,0,0,0,0
+1_00035,I'd like another kind of restaurant. I'd like Sushi.,1,11,2,0,0,0,0,0,0,0,1
+1_00035,That's great.,1,3,1,0,0,0,0,0,0,1,0
+1_00035,Yes I'd like to make a reservation.,1,8,1,0,0,0,0,0,0,0,1
+1_00035,Please can you book it for 7:15 pm.,1,8,1,0,0,0,0,0,1,1,0
+1_00035,"No, I'd like to book for March 14th.",1,9,1,0,0,0,1,0,1,0,1
+1_00035,Perfect.,0,1,1,0,0,0,0,0,0,0,0
+1_00035,Do they serve alcohol? what is their phone number?,0,9,2,1,1,1,0,0,0,0,0
+1_00035,That's great. I don't need anything else right now.,1,11,2,0,0,0,0,0,0,1,0
+1_00036,Will you find me a place to eat?,0,8,1,1,0,0,0,0,0,0,0
+1_00036,Palo Alto.,0,2,1,0,0,0,1,0,0,0,0
+1_00036,Brazilian.,0,1,1,0,0,0,1,0,0,0,0
+1_00036,Great. Please make a reservation.,1,5,2,0,0,0,0,0,0,1,0
+1_00036,Quarter past 5 in the evening.,0,6,1,0,0,0,0,0,1,0,0
+1_00036,"No, change it to evening 6:15.",0,6,1,0,0,0,0,0,1,0,0
+1_00036,Great. How pricey? What's their number?,1,7,3,1,1,0,0,0,0,1,0
+1_00036,Thanks.,1,1,1,0,0,0,0,0,0,0,0
+1_00036,"No, thanks.",1,2,1,0,0,0,0,0,0,0,0
+1_00037,Will you find me somewhere to eat?,0,7,1,1,0,0,0,0,0,0,0
+1_00037,"I really need good pasta, I'm underweight.",1,8,1,0,0,0,0,0,0,0,0
+1_00037,"Campbell please, thanks.",1,3,1,0,0,0,1,0,0,1,0
+1_00037,I need someplace cheaper. I want to eat a lot for not very costly.,1,14,2,0,0,0,0,0,0,0,0
+1_00037,Where are they located?,0,4,1,1,1,0,0,1,0,0,0
+1_00037,What's the situation with live music there?,0,8,1,1,1,0,0,0,0,0,0
+1_00037,Please give a better choice.,1,5,1,0,0,0,0,0,0,1,0
+1_00037,You have found a winner.,1,5,1,0,0,0,0,0,0,0,0
+1_00037,Please do that.,1,3,1,0,0,0,0,0,0,1,0
+1_00037,5:30 pm should be prime pasta time.,1,7,1,0,0,0,0,0,1,0,1
+1_00037,Do they have been and liquor?,0,6,1,1,0,1,0,1,0,0,0
+1_00037,"Great, I want to toast the victory of the team.",1,10,1,0,0,0,0,0,0,1,0
+1_00037,Nothing much. I'm good.,1,5,2,0,0,0,0,0,0,0,0
+1_00038,"I want to eat out at an intermediate priced location, can you find me some options?",1,16,1,1,0,0,0,0,0,0,0
+1_00038,I want to go to Milpitas. Spicy Indian food sounds perfect.,1,11,2,0,0,0,1,0,0,0,0
+1_00038,Is there live music? What's the contact number?,0,9,2,1,1,0,0,0,0,0,0
+1_00038,"Well, it works for me, can you make a reservation for 4 people at 1 o""clock in the afternoon?",1,21,1,1,0,0,0,0,1,0,0
+1_00038,"No, actually I want it for 3 people, and at evening 7:45.",0,12,1,0,0,0,0,0,1,0,0
+1_00038,"Yes, that sounds good.",1,4,1,0,0,0,0,0,0,0,0
+1_00038,"No, thanks a lot.",1,4,1,0,0,0,0,0,0,0,0
+1_00039,I am planning to go out for dinner. Can you find me restaurants nearby?,1,14,2,1,0,0,0,0,0,0,0
+1_00039,I would like to eat in Milpitas and the restaurant should be in the moderate price range.,1,17,1,0,0,0,1,0,0,0,1
+1_00039,I am looking for restaurants that offer Take-out.,0,8,1,0,0,0,0,0,0,0,0
+1_00039,What is the other restaurant you mentioned?,0,7,1,1,1,0,0,0,0,0,0
+1_00039,Where are they located?,0,4,1,1,1,0,0,1,0,0,0
+1_00039,I like that location. I would like to make a reservation at Red Chillies The Malabar Cuisine.,1,17,2,0,0,0,0,0,0,0,1
+1_00039,The reservation needs to be at 11 am.,0,8,1,0,0,0,0,0,1,0,0
+1_00039,The reservation should be for March 14th.,0,7,1,0,0,0,1,0,1,0,1
+1_00039,Please make the reservation for 18:00.,1,6,1,0,0,0,0,0,1,1,0
+1_00039,"Yes, that is correct.",1,4,1,0,0,0,0,0,0,0,0
+1_00039,Does the restaurant have any live entertainment? Is their contact information available?,0,12,2,1,0,0,0,0,0,0,0
+1_00039,I greatly appreciate your time.,1,5,1,0,0,0,0,0,0,0,0
+1_00039,No. Thank you again.,1,4,2,0,0,0,0,0,0,0,0
+1_00040,"I'm feeling hungry, do you know of any places that average priced?",1,13,1,1,0,0,0,0,0,0,0
+1_00040,I'm feeling a craving for Noodles.,1,7,1,0,0,0,0,0,0,0,0
+1_00040,Look for a place in Dublin.,0,6,1,0,0,1,1,0,0,0,0
+1_00040,"Yeah, I like the sound of that.",1,7,1,0,0,0,0,0,0,0,0
+1_00040,"Yeah, reserve me a table for one person please.",1,9,1,0,0,0,0,0,0,1,0
+1_00040,I want it on the 7th of March at 13:00.,0,10,1,0,0,0,1,0,1,0,0
+1_00040,"Sorry, it's actually for the 8th of March.",1,9,1,0,0,0,1,0,1,1,0
+1_00040,"Yeah, you got it. Do they have liquor over there?",1,10,2,1,0,1,0,0,0,0,0
+1_00040,"Thank you, you're great. That'll be all.",1,9,2,0,0,0,0,0,0,1,0
+1_00041,"I'm looking for somewhere to eat with my girlfriend, do you know of any good restaurants?",1,17,1,1,0,0,0,0,0,0,0
+1_00041,I want something with a moderate priced in Petaluma. It also needs to serve alcohol.,0,15,2,0,0,0,1,0,0,0,0
+1_00041,"Some type of curry would be great, so Indian or Thai maybe.",1,12,1,0,0,0,1,0,0,1,1
+1_00041,"Yeah, that's great!",1,4,1,0,0,0,0,0,0,1,0
+1_00041,"Yes, I'd like to book a table.",1,8,1,0,0,0,0,0,0,0,1
+1_00041,How about 11 in the morning?,0,6,1,1,1,0,0,1,1,0,0
+1_00041,"No, just for 1 person.",0,5,1,0,0,0,0,0,1,0,0
+1_00041,"Yep, that's perfect. What's the restaurant's address?",1,10,2,1,1,0,0,0,0,0,0
+1_00041,Thanks so much!,1,3,1,0,0,0,0,0,0,0,0
+1_00041,No thank you.,1,3,1,0,0,0,0,0,0,0,0
+1_00044,Can you find a place to eat?,0,7,1,1,0,0,0,0,0,0,0
+1_00044,Some Sichuan food would be good.,1,6,1,0,0,0,0,0,0,0,1
+1_00044,Look in Mountain View.,0,4,1,0,0,1,1,0,0,0,0
+1_00044,Is the restaurant inexpensive?`,0,4,1,1,0,0,0,1,0,0,0
+1_00044,Can you suggest a restaurant with inexpensive pricing?,0,8,1,1,0,0,0,0,0,0,0
+1_00044,What is the address? Do they have live music?,0,9,2,1,1,1,0,0,0,0,0
+1_00044,"Yes, that's perfect. I want to reserve a table for 4.",1,12,2,0,0,0,0,0,1,0,0
+1_00044,6 in the evening.,0,4,1,0,0,0,0,0,1,0,0
+1_00044,That works for me. What is the restaurant's phone number?,1,11,2,1,1,0,0,0,0,0,0
+1_00044,Do they serve alcohol?,0,4,1,1,0,1,0,1,0,0,0
+1_00044,Thanks. That's all I need.,1,6,2,0,0,0,0,0,0,0,0
+1_00045,I would like to find a Chinese food restaurant.,1,9,1,0,0,0,1,0,0,0,1
+1_00045,Search in San Mateo.,0,4,1,0,0,1,1,0,0,0,0
+1_00045,How expensive are they?,0,4,1,1,1,0,0,1,0,0,0
+1_00045,Can you suggest other restaurants in SF?,0,7,1,1,0,0,0,0,0,0,0
+1_00045,Can you suggest another restaurant?,0,5,1,1,0,0,0,1,0,0,0
+1_00045,What is the address?,0,4,1,1,1,0,0,1,0,0,0
+1_00045,"Ok, make a reservation at 12 o""clock in the afternoon.",0,12,1,0,0,0,0,0,1,0,0
+1_00045,"Yes, how expensive are they?",0,5,1,1,1,0,0,1,0,0,0
+1_00045,"Thank you, that's everything.",1,5,1,0,0,0,0,0,0,0,0
+1_00047,I am searching for a eating place with a intermediate priced,0,11,1,0,0,0,0,0,0,0,0
+1_00047,Some Izakaya kind of food good in Foster City,0,9,1,0,0,0,1,0,0,0,0
+1_00047,Can you tell me other restaurant names?,0,7,1,1,0,0,0,0,0,0,0
+1_00047,Are there any live music?,0,5,1,1,0,0,0,1,0,0,0
+1_00047,Ok. that is perfect for me and want to reserve that restaurant on March 4th.,1,15,1,0,0,0,1,0,1,0,0
+1_00047,Do the reservation at evening 6:30,0,6,1,0,0,1,0,0,1,0,0
+1_00047,This is perfect. what is the address and contact number?,1,10,2,1,1,0,0,0,0,0,0
+1_00047,Thanks a lot. That is all i want.,1,8,2,0,0,0,0,0,0,0,0
+1_00048,i am meeting my friend after a long time and i wish to eat along with him. Will you find a place to eat and i don't have a price preference.,1,32,2,0,0,0,0,0,0,0,0
+1_00048,I like Pizza and Pasta kind of food and the place should be in San Francisco.,1,16,1,0,0,0,1,0,0,0,1
+1_00048,I need their contact number? Please provide me,1,8,2,1,0,0,0,0,0,1,0
+1_00048,"Ok, that great and sound good to me.",1,8,1,0,0,0,0,0,0,1,0
+1_00048,Yes i wank to make a reservation at 6 in the evening.,0,12,1,0,0,0,0,0,1,0,0
+1_00048,"Ok, very perfect. Book it. Do they have live music?",1,10,3,1,0,1,0,0,0,0,0
+1_00048,Tell me their address?,0,4,1,1,0,1,0,1,0,0,0
+1_00048,Thanks a lot and thanks for your help,1,8,1,0,0,0,0,0,0,0,0
+1_00048,"No, thank a lot",1,4,1,0,0,0,0,0,0,0,0
+1_00049,Can you help me locate a place to eat?,0,9,1,1,0,0,0,0,0,0,0
+1_00049,Some Punjabi food would be great. Please look in Pleasanton.,1,10,2,0,0,0,1,0,0,1,1
+1_00049,Do they have live music?,0,5,1,1,0,1,0,1,0,0,0
+1_00049,That is fine. Please make a reservation.,1,7,2,0,0,0,0,0,0,1,0
+1_00049,Please make if at 12:15.,1,5,1,0,0,0,0,0,1,1,0
+1_00049,"Yes, that is correct. What is their address and phone number?",1,11,2,1,1,0,0,0,0,0,0
+1_00049,No thank you.,1,3,1,0,0,0,0,0,0,0,0
+1_00052,I'd like to find somewhere to eat. Someplace intermediate priced.,1,11,2,0,0,0,0,0,0,0,1
+1_00052,Something Southern in the San Jose area would be great.,1,10,1,0,0,0,1,0,0,1,1
+1_00052,Do you have any other suggestions? Maybe someplace with live music that also serves alcohol.,1,15,2,1,0,1,0,0,0,0,0
+1_00052,What's their number?,0,4,1,1,1,0,0,1,0,0,0
+1_00052,And their address?,0,3,1,1,0,0,0,1,0,0,0
+1_00052,Do you have anymore restaurant suggestions?,0,6,1,1,0,1,0,1,0,0,0
+1_00052,Sounds great.,1,2,1,0,0,0,0,0,0,1,0
+1_00052,Yes. Make it for a quarter to 12 in the morning.,0,11,2,0,0,1,0,0,1,0,0
+1_00052,"Yes, that's perfect. What's their address and phone number again?",1,12,2,1,1,0,0,0,0,0,0
+1_00052,Thank you so much for all of your help.,1,9,1,0,0,0,0,0,0,1,0
+1_00053,Please search for an economical priced place to eat that serves alcohol.,1,12,1,0,0,0,0,0,0,1,0
+1_00053,I prefer it in Oakland. I am craving Pizza.,0,9,2,0,0,0,1,0,0,0,0
+1_00053,Do they happen to have live music? What is their phone number?,0,12,2,1,1,1,0,0,0,0,0
+1_00053,Are there other restaurant options?,0,5,1,1,0,0,0,1,0,0,0
+1_00053,That will do.,1,3,1,0,0,0,0,0,0,0,0
+1_00053,I want to make a restaurant reservation.,0,7,1,0,0,0,0,0,0,0,0
+1_00053,I would like it to be half past 11 in the morning.,1,12,1,0,0,0,0,0,1,0,1
+1_00053,Its actually a party of 4.,1,6,1,0,0,0,0,0,1,0,0
+1_00053,That will do.,1,3,1,0,0,0,0,0,0,0,0
+1_00053,Can you tell me what their address is?,0,8,1,1,1,0,0,0,0,0,0
+1_00053,Thank you. That is all.,1,5,2,0,0,0,0,0,0,0,0
+1_00055,I would like to look for a place where I could eat.,1,12,1,0,0,0,0,0,0,0,1
+1_00055,"Please look in Dublin, a burger is perfect to have now.",1,11,1,0,0,0,1,0,0,1,0
+1_00055,I want a restaurant with music.,0,6,1,0,0,0,0,0,0,0,0
+1_00055,"Alright, please make a reservation for me at this evening 7:15.",1,11,1,0,0,0,0,0,1,1,0
+1_00055,Please make it at 7 pm.,1,6,1,0,0,0,0,0,1,1,0
+1_00055,Actually its for 3 people on 14th of March.,0,9,1,0,0,0,1,0,1,0,0
+1_00055,"Yes, that's right. How about the price range, is it very fancy?",1,13,2,1,1,0,0,0,0,0,0
+1_00055,"Thank you, that's all for now.",1,7,1,0,0,0,0,0,0,0,0
+1_00056,My husband and I want to have dinner out. Are there any good places to eat around here?,1,18,2,1,0,0,0,0,0,0,0
+1_00056,I would like to stay around Milpitas.,1,7,1,0,0,0,1,0,0,0,1
+1_00056,I would really like some Latin American food.,1,8,1,0,0,0,0,0,0,0,1
+1_00056,"That's great, are there any other restaurants, maybe in Santa Clara?",1,12,1,1,0,0,1,0,0,1,0
+1_00056,How expensive are they?,0,4,1,1,1,0,0,1,0,0,0
+1_00056,Do you have any other suggestions?,0,6,1,1,0,1,0,1,0,0,0
+1_00056,"Great, that's the one I want.",1,7,1,0,0,0,0,0,0,1,0
+1_00056,"Yes, please. I want to eat there.",1,7,2,0,0,0,0,0,0,1,0
+1_00056,How about 12:30 in the afternoon?,0,6,1,1,1,0,0,1,1,0,0
+1_00056,"Yes, that is correct? Can you tell me their address and if they are having live music?",1,17,2,1,0,0,0,0,0,0,0
+1_00056,Thank you so much! That's everything.,1,7,2,0,0,0,0,0,0,1,0
+1_00057,Do you know of any places to eat in San Francisco?,0,11,1,1,0,1,1,0,0,0,0
+1_00057,American food would really hit the spot.,1,7,1,0,0,0,1,0,0,0,1
+1_00057,Do you have any other suggestions? I would prefer something with a moderate price range.,1,15,2,1,0,1,0,0,0,0,1
+1_00057,Do you have their phone number? And do they serve liquor?,0,11,2,1,0,1,0,0,0,0,0
+1_00057,"Okay, that works. Please make me a reservation for 12:45 pm.",1,11,2,0,0,0,0,0,1,1,0
+1_00057,"Yeah, that's it.",1,4,1,0,0,0,0,0,0,0,0
+1_00057,Thanks so much.,1,3,1,0,0,0,0,0,0,0,0
+1_00057,"No, thanks a lot.",1,4,1,0,0,0,0,0,0,0,0
+1_00059,I would like to find a place to eat.,1,9,1,0,0,0,0,0,0,0,1
+1_00059,Find me a sushi place in Alameda.,0,7,1,0,0,1,1,0,0,0,0
+1_00059,That works for me. I would like to make a reservation.,1,11,2,0,0,0,0,0,0,0,1
+1_00059,I would like it at afternoon 1:15.,1,7,1,0,0,0,0,0,1,0,1
+1_00059,"Yup, that's correct.",1,4,1,0,0,0,0,0,0,0,0
+1_00059,Thanks so much. That's all for today.,1,8,2,0,0,0,0,0,0,0,0
+1_00060,Hi I'm hungry and also need to let loose tonight. Can you find me a place to eat that serves alcohol?,1,22,2,1,0,0,0,0,0,0,0
+1_00060,"I'm in the mood for some Chinese food tonight, preferably in Millbrae.",1,13,1,0,0,0,1,0,0,0,0
+1_00060,That sounds good to me.,1,5,1,0,0,0,0,0,0,0,0
+1_00060,"Yes, that would be great. Please make a reservation.",1,9,2,0,0,0,0,0,0,1,1
+1_00060,I'd like to be there at evening 7:30.,1,9,1,0,0,0,0,0,1,0,1
+1_00060,That sounds great.,1,3,1,0,0,0,0,0,0,1,0
+1_00060,What is the address of the restaurant?,0,7,1,1,1,0,0,0,0,0,0
+1_00060,"Thanks for everything, that's all I needed.",1,8,1,0,0,0,0,0,0,0,0
+1_00061,I'd like to find a place to eat in this city.,1,12,1,0,0,0,0,0,0,0,1
+1_00061,Look for burger restaurants in Campbell.,0,6,1,0,0,1,1,0,0,0,0
+1_00061,What is Effie's address and do they serve drinks?,0,10,1,1,1,0,0,0,0,0,0
+1_00061,I'd like to make a reservation there.,1,8,1,0,0,0,0,0,0,0,1
+1_00061,Make it on the 4th of this month please in the evening 6:30.,0,13,1,0,0,1,0,0,1,1,0
+1_00061,No I'd like a reservation on the 1st.,1,9,1,0,0,0,0,0,1,0,1
+1_00061,No the reservation is for 3 people.,0,7,1,0,0,0,0,0,1,0,0
+1_00061,"Yes, sounds good.",1,3,1,0,0,0,0,0,0,0,0
+1_00061,Do they play live music and what is their phone number?,0,11,1,1,1,1,0,0,0,0,0
+1_00061,"Thanks, that's all.",1,4,1,0,0,0,0,0,0,0,0
+1_00062,What would be a good place to eat?,0,8,1,1,1,0,0,0,0,0,1
+1_00062,"I want some Noodles, and search in Berkeley.",0,8,1,0,0,0,1,0,0,0,0
+1_00062,Do you have their number? And do they have live music?,0,11,2,1,0,1,0,0,0,0,0
+1_00062,"I think that works out, make a reservation at the restaurant.",1,11,1,0,0,0,0,0,0,0,0
+1_00062,11:30 in the morning seems good.,1,6,1,0,0,0,0,0,1,0,0
+1_00062,"Yeah, that's good. Do they serve liquor, and what is their address?",1,13,2,1,1,1,0,0,0,0,0
+1_00062,"Okay, thank you very much.",1,5,1,0,0,0,0,0,0,1,0
+1_00062,"No, I do not. Thank you.",1,6,2,0,0,0,0,0,0,0,0
+1_00063,I am looking for somewhere to eat? Do you know of any good places?,1,14,2,1,0,1,0,0,0,0,0
+1_00063,I was thinking in Petaluma. Preferably a Pizza place.,0,9,2,0,0,0,1,0,0,0,0
+1_00063,Are there any others?,0,4,1,1,0,0,0,1,0,0,0
+1_00063,Any other suggestions?,0,3,1,1,0,0,0,1,0,0,0
+1_00063,Is it an inexpensive restaurant? What is the address?,0,9,2,1,1,0,0,0,0,0,0
+1_00063,That sounds like a good choice.,1,6,1,0,0,0,0,0,0,0,0
+1_00063,Yes. Reserve it for half past 1 in the afternoon.,0,10,2,0,0,1,0,0,1,0,0
+1_00063,That works for me. Do they serve alcohol?,0,8,2,1,0,1,0,0,0,0,0
+1_00063,What number can I reach them at? Do they have live music?,0,12,2,1,1,1,0,0,0,0,0
+1_00063,Thanks. That is all.,1,4,2,0,0,0,0,0,0,0,0
+1_00065,"I need to find somewhere to get a good meal in Pleasanton, can you help?",1,15,1,1,0,0,1,0,0,0,0
+1_00065,"I want Japanese food, my girlfriend is from Osaka, I'm trying to impress her.",1,15,1,0,0,0,1,0,0,0,0
+1_00065,Is there anything else? I want something a bit more afforadable.,1,11,2,1,0,0,0,0,0,0,0
+1_00065,Do they serve liquor and play live music?,0,8,1,1,0,1,0,0,0,0,0
+1_00065,"Okay, that'll be fine.",1,5,1,0,0,0,0,0,0,0,0
+1_00065,"Yes thanks, please book it.",1,5,1,0,0,0,0,0,0,1,0
+1_00065,7:45 in the evening please.,1,5,1,0,0,0,0,0,1,1,0
+1_00065,"Yes, that's perfect.",1,4,1,0,0,0,0,0,0,0,0
+1_00065,"Yeah, that's okay.",1,4,1,0,0,0,0,0,0,0,0
+1_00065,Thanks. Where are they? How can I call them?,1,9,3,1,1,0,0,0,0,0,0
+1_00065,"Okay, thanks. That's all for today.",1,7,2,0,0,0,0,0,0,0,0
+1_00066,Do you know a place to eat?,0,7,1,1,0,1,0,0,0,0,0
+1_00066,Do you know a place to eat in Petaluma?,0,9,1,1,0,1,1,0,0,0,0
+1_00066,I am looking for an Italian restaurant.,0,7,1,0,0,0,1,0,0,0,0
+1_00066,What's the number of the restaurant? Is there live music?,0,11,2,1,1,0,0,0,0,0,0
+1_00066,I would like to make a reservation for six at a restaurant.,0,12,1,0,0,0,0,0,0,0,1
+1_00066,At 5 pm.,0,3,1,0,0,0,0,0,1,0,0
+1_00066,Yes that's right. What's the address?,1,8,2,1,1,0,0,0,0,0,0
+1_00066,That's all. Thanks.,1,4,2,0,0,0,0,0,0,0,0
+1_00067,Hello! I am looking for a place to eat.,1,9,2,0,0,0,0,0,0,0,0
+1_00067,I would prefer to eat at Pleasanton.,1,7,1,0,0,0,1,0,0,0,1
+1_00067,I would like something on the lines of Izakaya food.,1,10,1,0,0,0,0,0,0,0,1
+1_00067,"Sure, that sounds great!",1,4,1,0,0,0,0,0,0,1,0
+1_00067,Sure! Please reserve a table for me at 12:30 pm.,1,10,2,0,0,0,0,0,1,1,0
+1_00067,"Yes, that's fine for me.",1,6,1,0,0,0,0,0,0,0,0
+1_00067,How about placing a reservation at 19:15 instead?,0,8,1,1,1,0,0,0,1,0,0
+1_00067,That is fine for me. What is their address and do they serve liquor?,1,14,2,1,1,0,0,0,0,0,0
+1_00067,"Sure, that sounds great!",1,4,1,0,0,0,0,0,0,1,0
+1_00067,"Thank you, that's all the help I need.",1,9,1,0,0,0,0,0,0,0,0
+1_00069,I have a friend visiting from out of town and need to find somewhere good for us to eat. Can you look up restaurants in San Jose?,1,27,2,1,0,0,1,0,0,0,0
+1_00069,Some kind of Freshwater fish would be great.,1,8,1,0,0,0,0,0,0,1,1
+1_00069,How expensive is it?,0,4,1,1,1,0,0,1,0,0,0
+1_00069,"Ok, that sounds good.",1,4,1,0,0,0,0,0,0,0,0
+1_00069,"Yes, please do.",1,3,1,0,0,0,0,0,0,1,0
+1_00069,Can you make it on the 10th of this month at a quarter to 7 in the evening?,0,18,1,1,0,0,0,0,1,0,0
+1_00069,"Yes, that's perfect.",1,4,1,0,0,0,0,0,0,0,0
+1_00069,Can you try making the reservation for 1 in the afternoon?,0,11,1,1,0,0,0,0,1,0,0
+1_00069,"No, actually, change that to Tuesday next week.",1,8,1,0,0,0,0,0,0,0,0
+1_00069,"Yes, that's perfect.",1,4,1,0,0,0,0,0,0,0,0
+1_00069,"Great, thank you!",1,3,1,0,0,0,0,0,0,1,0
+1_00069,"No, thank you.",1,3,1,0,0,0,0,0,0,0,0
+1_00070,I think dining out will be a wonderful thing. Look for a suitable place please.,1,15,2,0,0,1,0,0,0,1,0
+1_00070,It will be fine at San Francisco and pizza and pasta will cherish me.,1,14,1,0,0,0,1,0,0,0,0
+1_00070,"Great, make a reservation for me.",1,6,1,0,0,0,0,0,0,1,0
+1_00070,5:30 in the evening.,0,4,1,0,0,0,0,0,1,0,0
+1_00070,Please make it on March 3rd for 3 people.,1,9,1,0,0,0,1,0,1,1,0
+1_00070,will you make it at 11:30 am on 7th of March?,0,11,1,1,0,0,1,0,1,0,0
+1_00070,"Ok, its fine. thank you.",1,5,2,0,0,0,0,0,0,0,0
+1_00070,"Grateful, thank you.",1,3,1,0,0,0,0,0,0,0,0
+1_00071,I am meeting a friend for food later. Can you find me a pricey place nearby?,1,16,2,1,0,0,0,0,0,0,0
+1_00071,A place with pasta will be perfect?,0,7,1,1,0,0,0,0,0,0,0
+1_00071,We are meeting in San Francisco.,0,6,1,0,0,0,1,0,0,0,0
+1_00071,Are there any other nice restaurants in the area?,0,9,1,1,0,0,0,0,0,0,0
+1_00071,Do they serve liquor?,0,4,1,1,0,1,0,1,0,0,0
+1_00071,Can you suggest any Mexican food restaurants?,0,7,1,1,0,0,1,0,0,0,0
+1_00071,Do they serve liquor?,0,4,1,1,0,1,0,1,0,0,0
+1_00071,I want to make a reservation for Cala.,0,8,1,0,0,0,0,0,0,0,0
+1_00071,Make it for one in the afternoon on March 7th.,0,10,1,0,0,1,1,0,1,0,0
+1_00071,Please change it to a quarter past 12 in the afternoon.,0,11,1,0,0,0,0,0,1,1,0
+1_00071,"Yes, that is good. Do they have live music?",0,9,2,1,0,1,0,0,0,0,0
+1_00071,Yes that works.,1,3,1,0,0,0,0,0,0,0,0
+1_00071,Thank you very much.,1,4,1,0,0,0,0,0,0,1,0
+1_00071,"No, that is all.",1,4,1,0,0,0,0,0,0,0,0
+1_00072,I want to go out to eat in Milpitas.,0,9,1,0,0,0,1,0,0,0,0
+1_00072,I'm looking for take-out.,0,5,1,0,0,0,0,0,0,0,0
+1_00072,"Alright, what is their number? Do they have live music?",0,10,2,1,1,1,0,0,0,0,0
+1_00072,"Alright, that works.",1,3,1,0,0,0,0,0,0,0,0
+1_00072,"Yes, make a reservation for three people.",0,7,1,0,0,0,0,0,0,0,0
+1_00072,"At 1 pm, please.",1,4,1,0,0,0,0,0,1,1,0
+1_00072,Yes that's right.,1,4,1,0,0,0,0,0,0,0,0
+1_00072,Can you try booking again for 4 people?,0,8,1,1,0,0,0,0,1,0,0
+1_00072,"No, actually make it half past 6 in the evening.",0,10,1,0,0,0,0,0,1,0,0
+1_00072,Yes that works. Can I have the address? Also how expensive are they?,1,13,3,1,1,0,0,0,0,0,0
+1_00072,"Thanks, that's all I needed.",1,6,1,0,0,0,0,0,0,0,0
+1_00073,"I would like to eat at outside, can you find some nice place?",1,13,1,1,0,0,0,0,0,0,1
+1_00073,"Yes, some salad type food with low-cost will be perfect. Also I need live music there.",1,16,2,0,0,0,0,0,0,0,0
+1_00073,If I got any place in San Jose then it will be nice for me.,1,15,1,0,0,0,1,0,0,0,0
+1_00073,What is the address of that restaurant?,0,7,1,1,1,0,0,0,0,0,0
+1_00073,Do they have any liquor supply?,0,6,1,1,0,1,0,1,0,0,0
+1_00073,"That's okay, can you make me a reservation at this restaurant for day after tomorrow.",1,16,1,0,0,0,0,0,0,0,0
+1_00073,11:30 in the morning will be perfect.,0,7,1,0,0,0,0,0,1,0,0
+1_00073,Make it for one person.,0,5,1,0,0,1,0,0,0,0,0
+1_00073,"Sorry, please change it to 3 persons and the date will be 2nd of March.",1,15,1,0,0,0,1,0,1,1,0
+1_00073,"Yes, that is correct. continue.",1,5,2,0,0,1,0,0,0,0,0
+1_00073,"Thanks, that's all I want.",1,6,1,0,0,0,0,0,0,0,0
+1_00074,I am trying to find fancy place to eat. I'm willing to pay more for a nice meal.,1,19,2,0,0,0,0,0,0,0,0
+1_00074,I'm looking to have Korean Barbeque. I'm looking in Santa Clara.,0,13,2,0,0,0,1,0,0,0,0
+1_00074,Do they have alcohol?,0,4,1,1,0,1,0,1,0,0,0
+1_00074,That sounds great.,1,3,1,0,0,0,0,0,0,1,0
+1_00074,Yes. I would like to make a reservation for 20:00.,1,10,2,0,0,0,0,0,1,0,1
+1_00074,"That's correct. Will there be live music? Also, where is the restaurant?",0,13,3,1,1,0,0,0,0,0,0
+1_00074,"Yes, I'd like to make the reservation at 7 in the evening.",0,13,1,0,0,0,0,0,1,0,1
+1_00074,That sounds good.,1,3,1,0,0,0,0,0,0,0,0
+1_00074,Thank you!,1,2,1,0,0,0,0,0,0,0,0
+1_00074,Nope. That's all.,1,4,2,0,0,0,0,0,0,0,0
+1_00075,I want to find somewhere to eat. It needs to serve alcohol and it doesn't matter if it's pricey.,1,21,2,0,0,0,0,0,0,0,0
+1_00075,Look in SFO. I'm feeling Japanese food.,0,8,2,0,0,1,1,0,0,0,0
+1_00075,What's the address and number?,0,6,1,1,1,0,0,1,0,0,0
+1_00075,That sounds good.,1,3,1,0,0,0,0,0,0,0,0
+1_00075,Yes. Make it for evening 5:45.,0,6,2,0,0,1,0,0,1,0,0
+1_00075,"No, it's for 1 person. Let's do it on the 8th.",0,13,2,0,0,1,0,0,1,0,0
+1_00075,No. Make it for 3 people at 11:15.,0,8,2,0,0,1,0,0,1,0,0
+1_00075,"Yes, that's right. Do they have live music?",1,9,2,1,0,1,0,0,0,0,0
+1_00075,Thanks. That's it for now.,1,6,2,0,0,0,0,0,0,0,0
+1_00076,Where can I go to eat that also serves alcohol?,0,10,1,1,1,0,0,0,0,0,0
+1_00076,I want to go somewhere where I can get a reasonably priced burger.,0,13,1,0,0,0,0,0,0,0,0
+1_00076,I'd like to eat somewhere in Berkeley.,0,8,1,0,0,0,1,0,0,0,1
+1_00076,"Okay, please make a reservation.",1,5,1,0,0,0,0,0,0,1,0
+1_00076,Half past 1 in the afternoon will be fine.,0,9,1,0,0,0,0,0,1,0,0
+1_00076,That sounds great. Is there live music and where are they located.,1,12,2,0,0,0,0,0,0,1,0
+1_00076,Make a seven pm reservation at a restaurant.,0,8,1,0,0,1,0,0,0,0,0
+1_00076,"Yes, thanks.",1,2,1,0,0,0,0,0,0,0,0
+1_00076,"Ok, thank you.",1,3,1,0,0,0,0,0,0,0,0
+1_00077,Could you suggest a place to eat?,1,7,1,1,0,0,0,0,0,0,1
+1_00077,I think I'm craving Mexican food.,1,7,1,0,0,0,1,0,0,0,0
+1_00077,I want to eat in San Mateo.,0,7,1,0,0,0,1,0,0,0,0
+1_00077,That sounds great.,1,3,1,0,0,0,0,0,0,1,0
+1_00077,"Yes, I want to make one.",0,6,1,0,0,0,0,0,0,0,0
+1_00077,11:30 am is fine.,0,4,1,0,0,0,0,0,1,0,0
+1_00077,Correct. What is the phone number of the place and does it have live music?,0,15,2,1,1,1,0,0,0,0,0
+1_00077,Thank you. That's all.,1,5,2,0,0,0,0,0,0,0,0
+1_00079,Can you recommend me somewhere to eat?,0,7,1,1,0,0,0,0,0,0,0
+1_00079,It should be in SFO.,0,5,1,0,0,0,0,0,0,0,1
+1_00079,I'd like to get some Middle eastern food in Oakland.,1,11,1,0,0,0,1,0,0,0,1
+1_00079,How about something else? I'm looking for a meal on a budget.,0,13,2,1,1,0,0,0,0,0,0
+1_00079,What is the address?,0,4,1,1,1,0,0,1,0,0,0
+1_00079,"Okay, that sounds good.",1,4,1,0,0,0,0,0,0,0,0
+1_00079,"Yeah, make a reservation please.",1,5,1,0,0,0,0,0,0,1,0
+1_00079,I'd like it to be at 13:30.,1,8,1,0,0,0,0,0,1,0,1
+1_00079,"No, it is just for 1 person.",0,7,1,0,0,0,0,0,1,0,0
+1_00079,"Yes, that sounds good.",1,4,1,0,0,0,0,0,0,0,0
+1_00079,"Okay great, thanks.",1,3,1,0,0,0,0,0,0,1,0
+1_00079,"No, that's all thanks.",1,5,1,0,0,0,0,0,0,0,0
+1_00081,I have a date later and I am looking for a good place to eat.,1,15,1,0,0,0,0,0,0,0,0
+1_00081,I will be in Berkeley and am in the mood for some Breakfast type of food.,0,16,1,0,0,0,1,0,0,0,0
+1_00081,Can you give me their address?,0,6,1,1,0,0,0,1,0,0,0
+1_00081,That works out great.,1,4,1,0,0,0,0,0,0,1,0
+1_00081,Yes please. Go ahead and place the reservation.,1,8,2,0,0,1,0,0,0,1,0
+1_00081,It is for 1 person at 12:15 in the afternoon.,0,10,1,0,0,0,0,0,1,0,0
+1_00081,"Actually I changed my mind, make it at evening 6:45.",1,10,1,0,0,0,0,0,1,0,0
+1_00081,Yes that is what I want. Can I have a contact number?,0,12,2,1,1,0,0,0,0,0,0
+1_00081,Yes please.,1,2,1,0,0,0,0,0,0,1,0
+1_00081,I'm a little concerned about price. Would you say that the price range is not very costly.?,1,18,3,1,0,0,0,0,0,0,1
+1_00081,Thank you so much for your time.,1,7,1,0,0,0,0,0,0,1,0
+1_00081,"No, that is all. Thank you again.",1,7,2,0,0,0,0,0,0,0,0
+1_00082,Can you recommend a restaurant where I can go for a meal.,0,12,1,0,0,0,0,0,0,0,0
+1_00082,I would like a reasonably priced restaurant that serves Sushi in San Rafael.,1,13,1,0,0,0,1,0,0,0,1
+1_00082,Can you tell me their exact location.,0,7,1,0,0,0,0,0,0,0,0
+1_00082,Can you tell me the phone number for the restaurant? And I would like to know if they have live music as well.,1,23,2,1,0,0,0,0,0,0,1
+1_00082,"I would like the name of another restaurant, one that serves Sichuan food, please.",1,14,1,0,0,0,0,0,0,1,1
+1_00082,"Sure, that sounds good. I would like to go ahead and make a reservation for that restaurant.",1,17,2,0,0,0,0,0,0,0,1
+1_00082,I would like to reserve for 7 in the evening for Monday next week.,1,14,1,0,0,0,0,0,1,0,1
+1_00082,"Sure, that's perfect.",1,4,1,0,0,0,0,0,0,0,0
+1_00082,Great. Thanks,1,2,2,0,0,0,0,0,0,1,0
+1_00082,"No, all set. Thanks.",1,4,2,0,0,0,0,0,0,0,0
+1_00083,Please book me a restaurant in Cotati.,1,7,1,0,0,0,0,0,0,1,0
+1_00083,"I would like to eat tacos, if available.",1,8,1,0,0,0,0,0,0,0,1
+1_00083,Can you find me another restaurant in Cotati with live music?,0,11,1,1,0,0,0,0,0,0,0
+1_00083,Please tell me the address of the restaurant and their general prices.,1,12,1,0,0,0,0,0,0,1,0
+1_00083,That seems like a good fit.,1,6,1,0,0,0,0,0,0,0,0
+1_00083,I would like to reserve a table for two people tonight.,1,11,1,0,0,0,0,0,0,0,1
+1_00083,I would like to reserve a table at half past 6 in the evening.,1,14,1,0,0,0,0,0,1,0,1
+1_00083,"Yes, I confirm those details.",0,5,1,0,0,0,0,0,0,0,0
+1_00083,"Can you tell me if they serve alcohol, and their phone number?",0,12,1,1,0,0,0,0,0,0,0
+1_00083,Thank you for your assistance.,1,5,1,0,0,0,0,0,0,1,0
+1_00084,I am looking for a place to eat. I don't have a price preference.,0,15,2,0,0,0,0,0,0,0,0
+1_00084,Show me places to eat in San Francisco. I am looking for something afforadable priced.,0,15,2,0,0,1,1,0,0,0,0
+1_00084,Some Pizza and Pasta would be perfect.,1,7,1,0,0,0,0,0,0,0,1
+1_00084,"Yes, that works for me.",1,5,1,0,0,0,0,0,0,0,0
+1_00084,"Yes, I would like to make a reservation. Make a reservation for Sunday this week for 4 people.",0,18,2,0,0,1,0,0,1,0,1
+1_00084,Mate it at 17:30.,0,4,1,0,0,0,0,0,1,0,0
+1_00084,"No, I want it on Thursday next week.",0,8,1,0,0,0,0,0,0,0,0
+1_00084,No make it at 19:30 and make the reservation for five poeple.,0,12,1,0,0,0,0,0,1,0,0
+1_00084,Yes that works for me. Do they have live music.,1,10,2,0,0,1,0,0,0,0,0
+1_00084,Do they serve liquor? What is the address of the restaurant.,0,11,2,1,1,1,0,0,0,0,0
+1_00084,Thank you very much!,1,4,1,0,0,0,0,0,0,1,0
+1_00084,No. Thank you very much.,1,5,2,0,0,0,0,0,0,1,0
+1_00086,Give me a place to eat at.,0,7,1,0,0,1,0,0,0,0,0
+1_00086,"San Bruno, I am looking for low priced, Taiwanese food.",0,10,1,0,0,0,1,0,0,0,0
+1_00086,Whats the address?,0,3,1,1,0,0,0,1,0,0,0
+1_00086,Do they serve liquor?,0,4,1,1,0,1,0,1,0,0,0
+1_00086,Could you suggest another similar restaurant that serves alcohol?,1,9,1,1,0,0,0,0,0,0,1
+1_00086,Could you suggest another restaurant without the price limitation?,1,9,1,1,0,0,0,0,0,0,1
+1_00086,That works. I'd like to make a reservation at half past 12 in the afternoon for 6 people.,0,19,2,0,0,0,0,0,1,0,1
+1_00086,Correct. What is their address?,0,5,2,1,1,1,0,1,0,0,0
+1_00086,Make the reservation at eleven am.,0,6,1,0,0,1,0,0,0,0,0
+1_00086,Make the reservation for four people.,0,6,1,0,0,1,0,0,0,0,0
+1_00086,Yes! Do they have live music and serve liquor?,1,9,2,1,0,1,0,0,0,0,0
+1_00086,Thank you very much.,1,4,1,0,0,0,0,0,0,1,0
+1_00086,"No, thank you.",1,3,1,0,0,0,0,0,0,0,0
+1_00087,I am looking for a Greek place to eat please.,1,10,1,0,0,0,1,0,0,1,0
+1_00087,Please locate one in San Carlos.,1,6,1,0,0,0,1,0,0,1,0
+1_00087,Can you suggest any other restaurants? One that serves Spicy Noodles would be perfect.,1,14,2,1,0,0,0,0,0,0,1
+1_00087,Could you suggest any other ones? I'd like one that serves alcohol.,1,13,2,1,0,0,0,0,0,0,1
+1_00087,"Yes, that sounds good. Please make a reservation.",1,8,2,0,0,0,0,0,0,1,0
+1_00087,Please make if for 12:45.,1,5,1,0,0,0,0,0,1,1,0
+1_00087,"Yes, that is correct. Can you please provide me their phone number and address?",1,14,2,1,0,0,0,0,0,1,0
+1_00087,"Thank you very much, that is all I need.",1,9,1,0,0,0,0,0,0,1,0
+1_00088,Please help me find a restaurant.,1,6,1,0,0,0,0,0,0,1,0
+1_00088,I am looking for a restaurant in Petaluma.,0,8,1,0,0,0,1,0,0,0,0
+1_00088,Somewhere similar to Asian Fusion would be nice.,1,8,1,0,0,0,0,0,0,0,1
+1_00088,"Yes, please make a reservation for 5:15 in the evening, next Friday.",1,12,1,0,0,0,0,0,1,1,0
+1_00088,"No, it's only for 1 person. Please make the time quarter past 1 in the afternoon.",1,17,2,0,0,0,0,0,1,1,0
+1_00088,"Actually, no. Make it the 13th of this month for 3 people.",0,12,2,0,0,1,0,0,1,0,0
+1_00088,"Yes, that's correct. Does this restaurant serve liquor?",1,9,2,1,0,0,0,0,0,0,0
+1_00088,"No, that will not work.",0,5,1,0,0,0,0,0,0,0,0
+1_00088,"No, that will not be necessary.",0,6,1,0,0,0,0,0,0,0,0
+1_00090,I would like to find a restaurant please.,1,8,1,0,0,0,0,0,0,1,1
+1_00090,I would like a restaurant that serves alcohol in San Francisco. I'd like to eat in a Burgers restaurant please.,1,21,2,0,0,0,1,0,0,1,1
+1_00090,Can you please make another suggestion?,1,6,1,1,0,0,0,1,0,1,0
+1_00090,I'd like another suggestion please.,1,6,1,0,0,0,0,0,0,1,1
+1_00090,"Yes, I'm interested in that one.",0,7,1,0,0,0,0,0,0,0,0
+1_00090,"Yes, please. I would like a 13:30 reservation.",1,8,2,0,0,0,0,0,1,1,1
+1_00090,Yes that sounds wonderful.,1,4,1,0,0,0,0,0,0,0,0
+1_00090,I appreciate it very much. That's all I need right now.,1,12,2,0,0,0,0,0,0,0,0
+1_00091,"I want to get something to eat, something that's pricey, help me look for a place.",0,17,1,0,0,0,0,0,0,0,0
+1_00091,Search in Pleasanton.,0,3,1,0,0,1,1,0,0,0,0
+1_00091,"I'm looking for Barbecue, that would hit the spot.",1,10,1,0,0,0,0,0,0,0,1
+1_00091,What's their phone number? And is there live music there?,0,11,2,1,1,0,0,0,0,0,0
+1_00091,"Okay, that's fine. Make me a reservation for the restaurant.",0,11,2,0,0,1,0,0,0,0,0
+1_00091,I want it to be at 13:45.,0,7,1,0,0,0,0,0,1,0,0
+1_00091,"Yeah, that's correct. Also, what's their address, and do they serve liquor there?",0,15,2,1,1,0,0,0,0,0,0
+1_00091,"Yeah, that's fine.",1,4,1,0,0,0,0,0,0,0,0
+1_00091,"Thanks a lot, that's all the help I need.",1,10,1,0,0,0,0,0,0,0,0
+1_00092,"I'm hungry, do you have any recommendations on where to eat?",1,12,1,1,1,0,0,0,0,0,0
+1_00092,I'm craving some Sushi in San Francisco if possible.,1,10,1,0,0,0,1,0,0,0,0
+1_00092,Do you know the price range of the restaurant?,0,9,1,1,0,1,0,0,0,0,0
+1_00092,That sounds great. I want to make a reservation.,1,9,2,0,0,0,0,0,0,1,0
+1_00092,Make a reservation for one person at afternoon 12.,0,9,1,0,0,1,0,0,1,0,0
+1_00092,"No, I'm sorry. It's for three people.",1,9,2,0,0,0,0,0,0,1,0
+1_00092,In second though I want it to be at 12:30 in the afternoon.,1,13,1,0,0,0,0,0,1,0,0
+1_00092,That is correct. What is the address of the restaurant?,0,10,2,1,1,0,0,0,0,0,0
+1_00092,Do you know the phone number?,0,6,1,1,0,1,0,1,0,0,0
+1_00092,Thanks a lot.,1,3,1,0,0,0,0,0,0,0,0
+1_00092,"No, that would be all.",1,5,1,0,0,0,0,0,0,0,1
+1_00093,Is there a place to eat?,0,6,1,1,0,0,0,1,0,0,0
+1_00093,Antioch would be great.,1,4,1,0,0,0,1,0,0,1,1
+1_00093,I would love to eat some lobster.,1,7,1,0,0,0,0,0,0,0,1
+1_00093,That's great and it'll work for me.,1,9,1,0,0,0,0,0,0,1,0
+1_00093,I would love to make an appointment for one myself at 4:30 pm.,1,13,1,0,0,0,0,0,1,0,1
+1_00093,"That will be great. Also, I just wanted to now pricey is it.",1,13,2,0,0,0,0,0,0,1,0
+1_00093,"Instead of the previous time, can you make it at 18:00?",1,11,1,1,0,0,0,0,1,0,0
+1_00093,That works and fits my schedule.,0,6,1,0,0,0,0,0,0,0,0
+1_00093,Thanks. That will do it for me.,1,7,2,0,0,0,0,0,0,0,0
+1_00094,What's a good place to grab a bite?,1,9,1,1,1,0,0,0,0,0,0
+1_00094,I'm in the mood for a burger.,1,8,1,0,0,0,0,0,0,0,0
+1_00094,Find a place in Vallejo with live music.,0,8,1,0,0,1,1,0,0,0,0
+1_00094,Yes. Please book a table.,1,5,2,0,0,0,0,0,0,1,0
+1_00094,1 in the afternoon.,0,4,1,0,0,0,0,0,1,0,0
+1_00094,"Yes, that is correct.",0,4,1,0,0,0,0,0,0,0,0
+1_00094,Thanks. I'm done for now.,1,6,2,0,0,0,0,0,0,0,0
+1_00095,I'm searching for a place to dine at.,0,9,1,0,0,0,0,0,0,0,0
+1_00095,"I'd like for a moderate costing meal in Mountain View, preferably French.",1,13,1,0,0,0,1,0,0,0,1
+1_00095,Can you give me their phone number?,0,7,1,1,0,0,0,0,0,0,0
+1_00095,What is the restaurant's location?,0,6,1,1,1,0,0,1,0,0,0
+1_00095,"Is there any other restaurant you recommend, preferably in SF?",0,10,1,1,0,0,0,0,0,0,0
+1_00095,"Yeah, that's the one for me. I'd like to book a spot at that restaurant.",1,17,2,0,0,0,0,0,0,0,1
+1_00095,Put it for morning 10:30.,0,5,1,0,0,1,0,0,1,0,0
+1_00095,"Yeah, that's what I want. Can you give me their phone number?",1,13,2,1,1,0,0,0,0,0,0
+1_00095,I'd like to try making a reservation once more. Put it for eleven in the morning.,1,17,2,0,0,1,0,0,0,0,1
+1_00095,"Yeah, that's perfect for me. Do they possess live music?",0,11,2,1,0,1,0,0,0,0,0
+1_00095,Thank you for your assistance.,1,5,1,0,0,0,0,0,0,1,0
+1_00095,No. Thank you for your assistance.,1,6,2,0,0,0,0,0,0,1,0
+1_00096,I'm looking for a place to eat.,0,8,1,0,0,0,0,0,0,0,0
+1_00096,I am in San Francisco.,0,5,1,0,0,0,1,0,0,0,0
+1_00096,Something Russian would be great.,1,5,1,0,0,0,0,0,0,1,1
+1_00096,Do they have live music?,0,5,1,1,0,1,0,1,0,0,0
+1_00096,Do they serve alcohol? What's the address?,0,8,2,1,1,1,0,0,0,0,0
+1_00096,That sounds good. I'd like that one.,1,8,2,0,0,0,0,0,0,0,1
+1_00096,"Yes, please. I want to make a reservation for next Thursday.",1,11,2,0,0,0,0,0,0,1,0
+1_00096,Please reserve me at 6:15 in the evening.,1,8,1,0,0,0,0,0,1,1,0
+1_00096,"Yes, that's perfect.",1,4,1,0,0,0,0,0,0,0,0
+1_00096,"What is their contact number? Also, how expensive is their menu?",0,11,2,1,1,0,0,0,0,0,0
+1_00096,Thanks very much.,1,3,1,0,0,0,0,0,0,0,0
+1_00096,"No, that's it. Thanks.",1,5,2,0,0,0,0,0,0,0,0
+1_00098,I would like to find a place to eat in Santa Rosa.,1,12,1,0,0,0,1,0,0,0,1
+1_00098,Please find me a ramen restaurant.,1,6,1,0,0,0,0,0,0,1,0
+1_00098,Do they play live music? And what's their phone number?,0,11,2,1,1,1,0,0,0,0,0
+1_00098,Could you suggest a not very costly option?,1,8,1,1,0,0,0,0,0,0,1
+1_00098,That would work great.,1,4,1,0,0,0,0,0,0,1,1
+1_00098,"Yes, please make a reservation for me.",1,7,1,0,0,0,0,0,0,1,0
+1_00098,Please make it at 10:45 in the morning on the 4th of this month.,1,14,1,0,0,0,0,0,1,1,0
+1_00098,"Yes, that would be great. What's their address? And do they have live music?",1,15,3,1,1,0,0,0,0,1,1
+1_00098,"Yes, that would be great.",1,5,1,0,0,0,0,0,0,1,1
+1_00098,Thanks so much! That's all for now.,1,8,2,0,0,0,0,0,0,0,0
+1_00101,I am wondering if you find me a good dining to have my food.,1,14,1,0,0,0,0,0,0,0,0
+1_00101,I would love to have some kind of American food. Fairfield would be suitable to me.,1,16,2,0,0,0,1,0,0,0,1
+1_00101,Do they have bar? I would prefer one which serves alcohol too. Please can you find me some restaurant offering alcohol in addition to serving American food.,1,27,3,1,0,1,1,0,0,1,1
+1_00101,"Might be.... If you don't mind, still do you have suggestions for any other restaurant?",1,17,2,1,0,0,0,0,0,0,1
+1_00101,Is it a costlier restaurant or a cheaper one? What's their prices? What's the street address of the restaurant?,1,21,3,1,1,0,0,0,0,0,0
+1_00101,Awesome... I would like to have my food there. Please can I make a reservation for the table at the restaurant?,1,22,3,1,0,0,0,0,0,1,1
+1_00101,Please reserve in the morning at 11:15 am.,1,8,1,0,0,0,0,0,1,1,0
+1_00101,"Nope, please book it on 13th of this month.",1,9,1,0,0,0,0,0,1,1,0
+1_00101,Yup! That's works. Do you have phone number to reach out?,1,12,3,1,0,1,0,0,0,0,0
+1_00101,Thank you so much.,1,4,1,0,0,0,0,0,0,1,0
+1_00101,"Nope, thanks a lot.",1,4,1,0,0,0,0,0,0,0,0
+1_00102,I am looking for somewhere to eat.,0,7,1,0,0,0,0,0,0,0,0
+1_00102,I want a economical place that serves alcohol in Oakland.,0,10,1,0,0,0,1,0,0,0,0
+1_00102,Gastrobar food will be perfect.,1,5,1,0,0,0,0,0,0,0,0
+1_00102,"Do you know if they have live music? If so, where?",0,11,2,1,1,1,0,0,0,0,0
+1_00102,"Ok, that works for me!",1,5,1,0,0,0,0,0,0,0,0
+1_00102,Sure! I want to make a reservation for the 11th of March.,1,12,2,0,0,0,1,0,1,0,0
+1_00102,"Make it for 6 o""clock in the evening, for two people.",0,13,1,0,0,1,0,0,1,0,0
+1_00102,"Great, works for me! What is their number?",1,8,2,1,1,0,0,0,0,1,0
+1_00102,"Thanks so much, that's all I needed!",1,8,1,0,0,0,0,0,0,0,0
+1_00104,Can you find me a restaurant?,0,6,1,1,0,0,0,1,0,0,0
+1_00104,Look in Santa Clara. Any Southern restaurants?,0,7,2,1,0,1,1,0,0,0,0
+1_00104,Oh I've been meaning to try that,1,8,1,0,0,0,0,0,0,0,0
+1_00104,"Yes, book it",0,3,1,0,0,0,0,0,0,0,0
+1_00104,Do they have room for two at 18:45?,0,8,1,1,0,1,0,0,1,0,0
+1_00104,No. Let's try 11:30 am on the 8th instead,0,10,2,0,0,1,0,0,1,0,0
+1_00104,Yes that's right. Where are they? Any chance they have live music?,0,13,3,1,1,0,0,0,0,0,0
+1_00104,Thanks.,1,1,1,0,0,0,0,0,0,0,0
+1_00104,Nope not now,0,3,1,0,0,0,0,0,0,0,0
+1_00105,I am looking for a place to eat.,0,8,1,0,0,0,0,0,0,0,0
+1_00105,I want in Burlingame.,0,4,1,0,0,0,1,0,0,0,0
+1_00105,Some Barbecue will be prefect.,1,5,1,0,0,0,0,0,0,0,0
+1_00105,Do they serve liquor? How pricey are they?,0,8,2,1,1,1,0,0,0,0,0
+1_00105,Yes that sounds good. Make a reservation for me.,1,9,2,0,0,1,0,0,0,0,0
+1_00105,Make it at 1:15 pm,0,5,1,0,0,1,0,0,1,0,0
+1_00105,Do they have live music? What is the contact number?,0,10,2,1,1,1,0,0,0,0,0
+1_00105,No. That doesn't work for me,0,7,2,0,0,0,0,0,0,0,0
+1_00105,No. Thanks a lot,1,4,2,0,0,0,0,0,0,0,0
+1_00106,Will you find me a place to eat?,0,8,1,1,0,0,0,0,0,0,0
+1_00106,Italian food in Pleasanton.,0,4,1,0,0,0,1,0,0,0,0
+1_00106,Anything else?,0,2,1,1,0,0,0,1,0,0,0
+1_00106,What's the address and contact number?,0,7,1,1,1,0,0,0,0,0,0
+1_00106,Any other suggestions? Something affordable?,1,5,2,1,0,0,0,1,0,0,0
+1_00106,Great.,1,1,1,0,0,0,0,0,0,1,0
+1_00106,"Yes, please, on 10th of this month.",1,7,1,0,0,0,0,0,1,1,0
+1_00106,Afternoon 1:15.,0,2,1,0,0,0,0,0,1,0,0
+1_00106,Sounds good. What's the address?,1,6,2,1,1,0,0,1,0,0,0
+1_00106,Thanks.,1,1,1,0,0,0,0,0,0,0,0
+1_00106,"No, that's it. Thanks.",1,5,2,0,0,0,0,0,0,0,0
+1_00107,I'm looking for a place to eat,0,8,1,0,0,0,0,0,0,0,0
+1_00107,I'd like some Taiwanese food in SFO,1,8,1,0,0,0,1,0,0,0,1
+1_00107,"Can you suggest some more restaurants, I no preference on price.",0,11,1,0,0,0,0,0,0,0,0
+1_00107,Does that restaurant server liquor?,0,5,1,1,0,0,0,1,0,0,0
+1_00107,May I have their contact number and address?,0,8,1,1,0,0,0,0,0,0,0
+1_00107,Can you suggest other restaurants?,0,5,1,1,0,0,0,1,0,0,0
+1_00107,That one would be great!,1,5,1,0,0,0,0,0,0,1,1
+1_00107,Yes I'd like to make a reservation.,1,8,1,0,0,0,0,0,0,0,1
+1_00107,I'd like a reservation for three people at Half past 1 in the afternoon.,1,15,1,0,0,0,0,0,1,0,1
+1_00107,Yeah that sounds great.,1,4,1,0,0,0,0,0,0,1,0
+1_00107,Thanks.,1,1,1,0,0,0,0,0,0,0,0
+1_00107,"No, thats all thanks.",1,4,1,0,0,0,0,0,0,0,0
+1_00108,I'd like to find a place to eat in Oakland.,1,11,1,0,0,0,1,0,0,0,1
+1_00108,I would love to eat some African food.,1,8,1,0,0,0,0,0,0,0,1
+1_00108,Could you give another suggestion? I would love a place with live music.,1,13,2,1,0,0,0,0,0,0,1
+1_00108,Where are they located? And do they serve liquor?,0,9,2,1,1,0,0,0,0,0,0
+1_00108,That works for me. I'd like to make a reservation on the 12th.,0,14,2,0,0,0,0,0,1,0,1
+1_00108,Please schedule it at 11:15 in the morning.,1,8,1,0,0,0,0,0,1,1,0
+1_00108,That would be great.,1,4,1,0,0,0,0,0,0,1,1
+1_00108,"I want to try booking again, but this time on the 3rd of this month.",1,15,1,0,0,0,0,0,1,0,0
+1_00108,"Never mind, make it for 12:30.",0,6,1,0,0,0,0,0,1,0,0
+1_00108,"Yup, that would be great. Are the prices above average?",1,10,2,1,0,0,0,0,0,1,1
+1_00108,Thanks so much. That'll be all for today.,1,9,2,0,0,0,0,0,0,0,0
+1_00111,I would like to go to a restaurant.,1,8,1,0,0,0,0,0,0,0,1
+1_00111,"I want some Indian food, preferable curry. Is there any place in Newark.",0,13,2,0,0,0,1,0,0,0,0
+1_00111,That would be fine. I would like you a reservation.,1,10,2,0,0,0,0,0,0,0,1
+1_00111,I prefer 7:30 in the evening.,0,6,1,0,0,0,0,0,1,0,0
+1_00111,That sounds like a good plan.,1,6,1,0,0,0,0,0,0,0,0
+1_00111,Great. You have been helpful. I do not need anything else.,1,11,3,0,0,0,0,0,0,1,0
+1_00113,I am looking for a not very costly place to get a bite to eat and an alcoholic drink.,0,19,1,0,0,0,0,0,0,0,0
+1_00113,Thai food would be great.,1,5,1,0,0,0,1,0,0,1,1
+1_00113,I want Oriental food in Berkeley.,0,6,1,0,0,0,1,0,0,0,0
+1_00113,I would like a reservation for 1.,1,7,1,0,0,0,0,0,1,0,1
+1_00113,I want a reservation on the 13th at 12:30.,0,9,1,0,0,0,0,0,1,0,0
+1_00113,Yes that is correct.,0,4,1,0,0,0,0,0,0,0,0
+1_00113,Will there be live music?,0,5,1,1,0,0,0,1,0,0,0
+1_00113,What's the number and address?,0,6,1,1,1,0,0,1,0,0,0
+1_00113,Thanks! I appreciate at it!,1,5,2,0,0,0,0,0,0,0,0
+1_00113,"No thanks, I'm good.",1,5,1,0,0,0,0,0,0,0,0
+1_00115,"I need somewhere to get a bite to eat, can you hook me up?",0,14,1,1,0,0,0,0,0,0,0
+1_00115,"I want some ramen, I'm really craving it. Can you find me an afforadable place in Morgan Hill?",0,19,2,1,0,0,1,0,0,0,0
+1_00115,"Nah, I'd rather somewhere else. Do you have another one?",1,11,2,1,0,1,0,0,0,0,1
+1_00115,"Yeah, that'll be good for me.",1,7,1,0,0,0,0,0,0,0,0
+1_00115,"Yes, please book a table for two.",1,7,1,0,0,0,0,0,0,1,0
+1_00115,I'd like the table for afternoon 12:30 thanks.,1,9,1,0,0,0,0,0,1,0,1
+1_00115,"No actually, I want it for three people on the 12th instead.",0,12,1,0,0,0,0,0,1,0,0
+1_00115,Yeah that's perfect. Do they serve alcohol? Do they have live music?,1,13,3,1,0,1,0,0,0,0,0
+1_00115,Thanks a lot.,1,3,1,0,0,0,0,0,0,0,0
+1_00115,"No thanks, that's all.",1,5,1,0,0,0,0,0,0,0,0
+1_00117,I'm looking for a restaurant to go to. I'd prefer a place that specializes in fish.,0,18,2,0,0,0,0,0,0,0,1
+1_00117,"The location is Fremont, please.",0,5,1,0,0,0,1,0,0,1,0
+1_00117,What is their address and contact number?,0,7,1,1,1,0,0,0,0,0,0
+1_00117,That sounds good. I need a reservation made there for one person.,1,12,2,0,0,0,0,0,0,0,0
+1_00117,"12:30 would be good, please.",1,5,1,0,0,0,0,0,1,1,1
+1_00117,No. Actually I need it for three people on the 14th of March.,0,13,2,0,0,0,1,0,1,0,0
+1_00117,No. Can you change it to 1 pm on the 9th?,0,11,2,1,0,0,0,0,1,0,0
+1_00117,Yes. Can you tell me if the restaurant is costly and do they offer live music?,0,16,2,1,0,0,0,0,0,0,0
+1_00117,Thank you very much.,1,4,1,0,0,0,0,0,0,1,0
+1_00117,"No, I'm all set. Thank you.",1,7,2,0,0,0,0,0,0,0,0
+1_00119,I would like to find a place to eat.,1,9,1,0,0,0,0,0,0,0,1
+1_00119,I want to find one in South San Francisco.,0,9,1,0,0,0,0,0,0,0,0
+1_00119,Sushi would be perfect.,1,4,1,0,0,0,0,0,0,0,1
+1_00119,Can you find another restaurant? I am looking for some thing with afforadable prices in San Mateo.,0,17,2,1,0,0,1,0,0,0,0
+1_00119,Do you have any other sugggestions?,0,6,1,1,0,1,0,1,0,0,0
+1_00119,"Yes, that restaurant works for me. I would like to make a reservation for 2 people.",0,16,2,0,0,0,0,0,1,0,1
+1_00119,Place a reservation for 12:15.,0,5,1,0,0,1,0,0,1,0,0
+1_00119,No it is for 1 person at 10:45.,0,8,1,0,0,0,0,0,1,0,0
+1_00119,"Yes, that sounds good.",1,4,1,0,0,0,0,0,0,0,0
+1_00119,No. That was all I needed.,1,6,2,0,0,0,0,0,0,0,0
+1_00120,I am in SFO for business and looking for a place to eat.,0,13,1,0,0,0,0,0,0,0,0
+1_00120,Are there any Pakistani places?,0,5,1,1,0,0,1,1,0,0,0
+1_00120,"Sounds good, what is their address and do they have live music?",1,12,1,1,1,0,0,0,0,0,0
+1_00120,"ok, I guess that would work for me. I'd like to make a reservation, please.",1,16,2,0,0,0,0,0,0,1,1
+1_00120,"March 14th at 17:30, please.",1,5,1,0,0,0,1,0,1,1,0
+1_00120,Please make the reservation for three people.,1,7,1,0,0,0,0,0,0,1,0
+1_00120,"Thank you, that's perfect. Do they serve liquor?",1,9,2,1,0,1,0,0,0,0,0
+1_00120,What is their phone number?,0,5,1,1,1,0,0,1,0,0,0
+1_00120,Thank you very much for the help. That is all I need.,1,12,2,0,0,0,0,0,0,1,0
+1_00121,I need somewhere to take a friend out for dinner. I would prefer if it was To-go,1,17,2,0,0,0,0,0,0,0,1
+1_00121,I'd like it to be in San Jose,1,9,1,0,0,0,1,0,0,0,1
+1_00121,Is there anywhere else? I will be drinking so I'd prefer a place that serves alcohol,1,17,2,1,0,0,0,0,0,0,1
+1_00121,Does the restaurant have live music?,0,6,1,1,0,0,0,1,0,0,0
+1_00121,That's perfect! I need to book a reservation for 5 people on the 7th of March.,1,17,2,0,0,0,1,0,1,0,0
+1_00121,Book it for four people at 6 pm,0,8,1,0,0,1,0,0,1,0,0
+1_00121,"No, I actually want it on the 12th of this month at twelve pm.",0,14,1,0,0,0,0,0,1,0,0
+1_00121,Yes that's great,1,4,1,0,0,0,0,0,0,1,0
+1_00121,Thanks so much!,1,3,1,0,0,0,0,0,0,0,0
+1_00121,"No that's everything, thank you.",1,6,1,0,0,0,0,0,0,0,0
+1_00123,Hi. I'd like to find a place to eat.,1,10,2,0,0,0,0,0,0,0,1
+1_00123,I'd like the restaurant to be in Pleasanton. I'm in the mood for some Taiwanese food.,1,18,2,0,0,0,1,0,0,0,1
+1_00123,That's pretty expensive. I'm looking for a restaurant that's not very costly.,1,15,2,0,0,0,0,0,0,0,0
+1_00123,I went there once and it sucked. Is there anything else?,1,11,2,1,0,0,0,0,0,0,0
+1_00123,Do they serve liquor?,0,4,1,1,0,1,0,1,0,0,0
+1_00123,What's their address?,0,4,1,1,1,0,0,1,0,0,0
+1_00123,"All right, I'm willing to try them.",1,8,1,0,0,0,0,0,0,0,0
+1_00123,"Yes, please.",1,2,1,0,0,0,0,0,0,1,0
+1_00123,12 in the afternoon.,0,4,1,0,0,0,0,0,1,0,0
+1_00123,"No, it's for one person on the 6th.",0,9,1,0,0,0,0,0,1,0,0
+1_00123,"Oh, darn. My friends want dinner with me. Can we make it three people at 5:15 pm?",1,17,3,1,0,0,0,0,1,0,0
+1_00123,"Yes, great! What's their phone number? Also, do they play live music?",1,13,3,1,1,0,0,0,0,1,0
+1_00123,"Wow, what a waste. No, that'll be all.",1,9,2,0,0,0,0,0,0,0,0
+1_00124,Can you find me a place to eat?,0,8,1,1,0,0,0,0,0,0,0
+1_00124,I'd love some Izakaya type food.,1,7,1,0,0,0,0,0,0,0,1
+1_00124,"I'd like something in a moderate price range. How about Gastrobar type food, in St. Helena.",1,17,2,0,0,0,1,0,0,0,1
+1_00124,Do you have an address for the restaurant?,0,8,1,1,0,1,0,0,0,0,0
+1_00124,That would work for me.,1,5,1,0,0,0,0,0,0,0,1
+1_00124,"Yes, make the reservation.",1,4,1,0,0,0,0,0,0,0,0
+1_00124,Half past 12 in the afternoon would be good.,1,9,1,0,0,0,0,0,1,0,1
+1_00124,"No, make it for 4 people, at 17:00.",0,8,1,0,0,0,0,0,1,0,0
+1_00124,"No. I want the reservation on the 12th of March, for 6 people.",0,13,2,0,0,0,1,0,1,0,0
+1_00124,Yes. That is what I want.,1,6,2,0,0,0,0,0,0,0,0
+1_00124,No. Thank you.,1,3,2,0,0,0,0,0,0,0,0
+1_00126,Can you find me somewhere to eat in Dublin?,0,9,1,1,0,0,1,0,0,0,0
+1_00126,"Chinese food and not very costly, please.",1,7,1,0,0,0,1,0,0,1,0
+1_00126,Where is it located?,0,4,1,1,1,0,0,1,0,0,0
+1_00126,Do bands play there?,0,4,1,1,0,1,0,1,0,0,0
+1_00126,That sounds good.,1,3,1,0,0,0,0,0,0,0,0
+1_00126,"Yes, on the 7th for four people.",0,7,1,0,0,0,0,0,1,0,0
+1_00126,Please reserve the table for 14:00.,1,6,1,0,0,0,0,0,1,1,0
+1_00126,"Yes, that is perfect.",1,4,1,0,0,0,0,0,0,0,0
+1_00126,Can you make a restaurant reservation for 2 people?,0,9,1,1,0,0,0,0,1,0,0
+1_00126,Yes. What is the phone number? Can I buy alcohol there?,0,11,3,1,1,0,0,0,0,0,0
+1_00126,Can you make a reservation at a restaurant for March 9th?,0,11,1,1,0,0,1,0,1,0,0
+1_00126,Can you change it to afternoon 1:45?,0,7,1,1,0,0,0,0,1,0,0
+1_00126,Yes that isperfect.,1,3,1,0,0,0,0,0,0,0,0
+1_00126,"Thank you, I'm done.",1,5,1,0,0,0,0,0,0,0,0
+1_00127,"I am planning to eat in some nice place outside, can you help me to search for one place that suits me?",1,22,1,1,0,0,0,0,0,0,0
+1_00127,"Ya, I prefer Asian food which I am always dreaming to eat and please search for me in Pleasant Hill.",1,20,1,0,0,0,1,0,0,1,0
+1_00127,"Let me know the phone number and address of that restaurant, so that I can confirm.",1,16,1,0,0,1,0,0,0,0,0
+1_00127,"Yes, that is fine, please make me a reservation on Tuesday next week.",1,13,1,0,0,0,0,0,0,1,0
+1_00127,18:45 will be fine.,0,4,1,0,0,0,0,0,1,0,0
+1_00127,"yes, confirmed. Please check whether they offer any live music and also get the price details.",1,16,2,0,0,0,0,0,0,1,0
+1_00127,"No, not necessary. thanks. That's all.",1,7,3,0,0,0,0,0,0,0,0
+2_00000,I'm looking for a place to eat.,0,8,1,0,0,0,0,0,0,0,0
+2_00001,I am looking for a restaurant.,0,6,1,0,0,0,0,0,0,0,0
+2_00001,I am looking for affordable priced African food.,0,8,1,0,0,0,0,0,0,0,0
+2_00001,I am in Oakland.,0,4,1,0,0,0,1,0,0,0,0
+2_00001,"That is perfect, and I want to make a reservation.",1,10,1,0,0,0,0,0,0,0,0
+2_00001,There will be four of us eating at afternoon 12:30.,0,10,1,0,0,0,0,0,1,0,0
+2_00001,"Actually, I need the reservation on the 3rd of this month for three people.",0,14,1,0,0,0,0,0,1,0,0
+2_00001,"Actually, I want to make the reservation for the 14th of March at evening 5:30.",0,15,1,0,0,0,1,0,1,0,0
+2_00001,That is correct. Do they have alcohol?,0,7,2,1,0,1,0,0,0,0,0
+2_00001,"No, that will be all.",1,5,1,0,0,0,0,0,0,0,0
+2_00003,I would like to find a place to eat.,1,9,1,0,0,0,0,0,0,0,1
+2_00003,I want Izakaya food in Santa Rosa.,0,7,1,0,0,0,1,0,0,0,0
+2_00003,Could you suggest another?,0,4,1,1,0,0,0,1,0,0,1
+2_00003,Could you suggest another?,0,4,1,1,0,0,0,1,0,0,1
+2_00003,"Yes, that sounds good.",1,4,1,0,0,0,0,0,0,0,0
+2_00003,"Yes, I would like to reserve a table for today.",1,10,1,0,0,0,0,0,0,0,1
+2_00003,"Reserve it for 7 o""clock in the evening.",0,10,1,0,0,1,0,0,1,0,0
+2_00003,"No, it is for 3 people at 1 pm.",0,9,1,0,0,0,0,0,1,0,0
+2_00003,"No, it is for four people on the 9th.",0,9,1,0,0,0,0,0,1,0,0
+2_00003,Yes that works.,1,3,1,0,0,0,0,0,0,0,0
+2_00003,"Thank you, that is all I needed.",1,7,1,0,0,0,0,0,0,0,0
+2_00004,I'm looking for an Oriental resturant in San Anselmo.,0,10,1,0,0,0,0,0,0,0,0
+2_00004,Is there live music?,0,4,1,1,0,0,0,1,0,0,0
+2_00004,Okay that works for me.,1,5,1,0,0,0,0,0,0,0,0
+2_00004,Yes I would.,1,3,1,0,0,0,0,0,0,0,1
+2_00004,Make the reservation for one in the afternoon.,0,8,1,0,0,1,0,0,0,0,0
+2_00004,No it is for five people and on the 14th of this month.,0,13,1,0,0,0,0,0,1,0,0
+2_00004,Thats right. Is it affordable? Do they serve liquor?,1,9,3,1,0,1,0,0,0,0,0
+2_00004,Thanks.,0,1,1,0,0,0,0,0,0,0,0
+2_00004,No thats all.,1,3,1,0,0,0,0,0,0,0,0
+2_00005,I'm literally starving to death right now. Find me a place that serves like fries and maybe a burger.,1,20,2,0,0,1,0,0,0,0,0
+2_00005,Danville. And hurry up.,1,4,2,0,0,0,1,0,0,0,0
+2_00005,What else is there.,0,4,1,0,0,0,0,0,0,0,0
+2_00005,"Yea, gotta love Dana's. Make me a reservation for just one.",1,13,2,0,0,1,0,0,0,0,0
+2_00005,Make it for quarter past 12 in the afternoon.,0,9,1,0,0,1,0,0,1,0,0
+2_00005,"Actually, I think i'll just make something at home for lunch. Make the reservation for 6:30 pm at March 9th.",1,21,2,0,0,1,1,0,1,0,0
+2_00005,"Oops, did I say March 9th earlier? Make it March 8th.",1,11,2,1,0,1,1,0,1,0,0
+2_00005,"Yea, that sounds great. Is Dana's expensive?",1,8,2,1,0,0,0,0,0,1,0
+2_00005,"I'm not even sure where they're located, I might need that info. Also do you know if they have live music?",1,23,2,1,1,0,0,0,0,0,1
+2_00005,"Great, thanks a bunch.",1,4,1,0,0,0,0,0,0,0,0
+2_00005,"No, but thanks I guess.",1,5,1,0,0,0,0,0,0,0,0
+2_00007,Can you find me a restaurant?,0,6,1,1,0,0,0,1,0,0,0
+2_00007,I am looking for Indian food in Oakland.,0,8,1,0,0,0,1,0,0,0,0
+2_00007,That is good for me.,1,5,1,0,0,0,0,0,0,0,0
+2_00007,"Yes, I'd like a reservation for 17:30.",1,8,1,0,0,0,0,0,1,0,1
+2_00007,Please change it to half past 7 in the evening.,1,10,1,0,0,0,0,0,1,1,0
+2_00007,Make it the 7th of March instead.,0,7,1,0,0,1,1,0,1,0,0
+2_00007,"Yes, that is good. Is alcohol served? What is their phone number?",1,12,3,1,1,0,0,0,0,0,0
+2_00007,That is it. Thank you so much.,1,7,2,0,0,0,0,0,0,1,0
+2_00008,I'm searching for Italian food.,0,6,1,0,0,0,1,0,0,0,0
+2_00008,"Santa Rosa, please.",0,3,1,0,0,0,1,0,0,1,0
+2_00008,What's their number and is liquor available?,1,8,1,1,1,0,0,0,0,0,0
+2_00008,"Great, make a reservation for the 11th of March.",0,9,1,0,0,0,1,0,1,1,0
+2_00008,afternoon 2.,0,2,1,0,0,0,0,0,1,0,0
+2_00008,Correct.,0,1,1,0,0,1,0,0,0,0,0
+2_00008,"No, I need to rebook. Make it for six pm.",0,10,2,0,0,1,0,0,0,0,0
+2_00008,"No, that's not right. I need it for the 4th of this month.",1,14,2,0,0,0,0,0,1,0,0
+2_00008,"Perfect, that works. Where is this located and how much?",1,10,2,1,1,0,0,0,0,0,0
+2_00008,"Perfect, thanks for your help. That's all.",1,8,2,0,0,0,0,0,0,0,0
+2_00009,Let's search places to eat please.,1,7,1,0,0,1,0,0,0,1,0
+2_00009,Search in Albany for take-out food please.,1,7,1,0,0,1,1,0,0,1,0
+2_00009,Find out if they have live music. Also how expensive is this restaurant?,1,13,2,1,1,1,0,0,0,0,0
+2_00009,"Yeah, that will do just fine.",1,6,1,0,0,0,0,0,0,0,0
+2_00009,Yes go ahead and make reservations.,0,6,1,0,0,0,0,0,0,0,0
+2_00009,Please make it for seven pm.,1,6,1,0,0,0,0,0,0,1,0
+2_00009,No wait. This is for 1 person. Also update it to the 13th of March.,1,15,3,0,0,0,1,0,1,0,0
+2_00009,"No, Make it for four people on the 10th please.",1,10,1,0,0,0,0,0,1,1,0
+2_00009,Yep. What's the phone number of the restaurant please?,1,10,2,1,1,0,0,0,0,1,0
+2_00009,Lets try a different time to book the reservation. Try for five in the evening.,1,15,2,0,0,1,0,0,0,0,0
+2_00009,"Yes, perfect. Go ahead and book it",1,7,2,0,0,1,0,0,0,0,0
+2_00009,Thanks. that will be all.,1,5,2,0,0,0,0,0,0,0,0
+2_00009,No. thats it!,1,3,2,0,0,0,0,0,0,0,0
+2_00010,I'd like to find a place to eat.,1,9,1,0,0,0,0,0,0,0,1
+2_00010,I'd like to find a place in Sunnyvale for non meat food.,1,13,1,0,0,0,1,0,0,0,1
+2_00010,Great. I'd like to make a reservation.,1,8,2,0,0,0,0,0,0,1,1
+2_00010,I'd like the reservation at one pm.,1,8,1,0,0,0,0,0,0,0,1
+2_00010,It's actually for 1 person.,0,6,1,0,0,0,0,0,1,0,0
+2_00010,"Sure, sounds good. Do they have live music?",1,8,2,1,0,1,0,0,0,0,0
+2_00010,"No, thank you.",0,3,1,0,0,0,0,0,0,0,0
+2_00011,I would like to find a place to eat,1,9,1,0,0,0,0,0,0,0,1
+2_00011,Some Freshwater fish would be good in san francisco,1,9,1,0,0,0,0,0,0,0,1
+2_00011,"I am looking for a pricey price place, can u recommend something else",0,13,1,0,0,0,0,0,0,0,0
+2_00011,Do they have live music? What is there address,1,9,2,1,1,1,0,0,0,0,0
+2_00011,Can i make a reservation for it,0,7,1,0,0,0,0,0,0,0,0
+2_00011,Can i make it half past 5 in the evening,0,10,1,0,0,0,0,0,1,0,0
+2_00011,No can u make it at 19:00,0,7,1,0,0,0,0,0,1,0,0
+2_00011,No can i get it on the 5th of this month for five people,0,14,1,0,0,0,0,0,1,0,0
+2_00011,Do they serve liquor?,0,4,1,1,0,1,0,1,0,0,0
+2_00011,No,0,1,1,0,0,0,0,0,0,0,0
+2_00011,No thank u,0,3,1,0,0,0,0,0,0,0,0
+2_00012,I do not want to step into the kitchen today. Can you recommend somewhere nice to eat out?,1,18,2,1,0,0,0,0,0,0,0
+2_00012,I am in San Francisco. Burmese found seems appealing to me now.,1,12,2,0,0,0,1,0,0,0,0
+2_00012,Where is it located? Does it cost a lot?,1,9,2,1,1,0,0,0,0,0,0
+2_00012,Is there anything else you might recommend?,0,7,1,1,0,0,0,0,0,0,1
+2_00012,That would be fine.,1,4,1,0,0,0,0,0,0,0,1
+2_00012,"Yes, I want a reservation.",0,5,1,0,0,0,0,0,0,0,0
+2_00012,7 pm on Thursday next week.,0,6,1,0,0,0,0,0,1,0,0
+2_00012,I want a reservation for 4 persons.,0,7,1,0,0,0,0,0,1,0,0
+2_00012,That's would be excellent.,1,5,1,0,0,0,0,0,0,0,1
+2_00012,"I almost forgot to ask, but where is the restaurant located?",1,11,1,1,1,0,0,0,0,0,0
+2_00012,I appreciate your assistance.,1,4,1,0,0,0,0,0,0,0,0
+2_00012,"No, you have been most helpful already.",1,7,1,0,0,0,0,0,0,0,0
+2_00013,"I'd like to go to a place to eat, I love live music, do you have any suggestions?",1,19,1,1,0,0,0,0,0,0,1
+2_00013,I'd like to go to Oakland.,1,7,1,0,0,0,1,0,0,0,1
+2_00013,I think a breakfast & brunch place would be perfect.,1,9,1,0,0,0,0,0,0,0,1
+2_00013,Is it pricy? What's their address?,1,7,2,1,1,0,0,0,0,0,0
+2_00013,That sounds great!,1,3,1,0,0,0,0,0,0,1,0
+2_00013,Yes I'd love one.,1,5,1,0,0,0,0,0,0,0,1
+2_00013,Make it for 12:30 in the afternoon.,0,7,1,0,0,1,0,0,1,0,0
+2_00013,"Yes, do they serve liquor?",0,5,1,1,0,0,0,1,0,0,0
+2_00013,Thank you very much! That's all I need.,1,9,2,0,0,0,0,0,0,1,0
+2_00015,Can you tell me a four star restaurant nearby?,0,9,1,1,0,0,0,0,0,0,0
+2_00015,Malaysian in Burlingame would be great.,0,6,1,0,0,0,1,0,0,1,1
+2_00015,What is the contact info? Will there be live music?,1,10,2,1,1,0,0,0,0,0,0
+2_00015,That'll work just fine,1,5,1,0,0,0,0,0,0,0,0
+2_00015,"Yes please, make a reservation",1,5,1,0,0,0,0,0,0,1,0
+2_00015,I'd like a table at 11 in the morning on the 9th.,1,13,1,0,0,0,0,0,1,0,1
+2_00015,Yep that works,1,3,1,0,0,0,0,0,0,0,0
+2_00015,What is the price range and address?,0,7,1,1,1,0,0,0,0,0,0
+2_00015,"Thanks, that's perfect",1,4,1,0,0,0,0,0,0,0,0
+2_00016,I would like to look for a place where I could eat in Vacaville.,1,14,1,0,0,0,1,0,0,0,1
+2_00016,I think I am craving for sushi.,0,7,1,0,0,0,0,0,0,0,0
+2_00016,I prefer a restaurant with a live music and by the way how's the price?,1,16,1,1,1,0,0,0,0,0,0
+2_00016,"Okay, I still make it a go. Please make a reservation for me at 13:30.",1,15,2,0,0,0,0,0,1,1,0
+2_00016,"Confirming all the details are correct. But how about the contact number, do you have it? and one more question, please. Are they serving alcoholic beverages?",1,26,4,1,1,0,0,0,0,1,0
+2_00016,"Alright, thank you.",0,3,1,0,0,0,0,0,0,0,0
+2_00016,"No, thank you!",0,3,1,0,0,0,0,0,0,0,0
+2_00017,I'd like to find somewhere to eat.,1,8,1,0,0,0,0,0,0,0,1
+2_00017,I want some kind of Southern food in Sausalito.,0,9,1,0,0,0,0,0,0,0,0
+2_00017,Is there liquor? What is the budget like?,0,8,2,1,1,0,0,0,0,0,0
+2_00017,Sounds good. Make a reservation at 13:30 at the restaurant.,1,10,2,0,0,1,0,0,1,0,0
+2_00017,"Yes, that sounds fine.",1,4,1,0,0,0,0,0,0,0,0
+2_00017,Please make a reservation at a restaurant for one in the afternoon.,1,12,1,0,0,0,0,0,0,1,0
+2_00017,"Yes, that sounds good. What is the phone number?",1,9,2,1,1,0,0,0,0,0,0
+2_00017,"Okay, thank you.",0,3,1,0,0,0,0,0,0,0,0
+2_00017,"No, that will be all.",1,5,1,0,0,0,0,0,0,0,0
+2_00018,I would like to find a restaurant in Oakland.,1,9,1,0,0,0,1,0,0,0,1
+2_00018,I would like some Pasta.,1,5,1,0,0,0,0,0,0,0,1
+2_00018,What is another restaurant?,0,4,1,1,1,0,0,1,0,0,0
+2_00018,What is another restaurant?,0,4,1,1,1,0,0,1,0,0,0
+2_00018,"Yes, reservation for two people please.",1,6,1,0,0,0,0,0,0,1,0
+2_00018,Make it at 11:45 in the morning.,0,7,1,0,0,1,0,0,1,0,0
+2_00018,"Yes, that works thank you.",1,5,1,0,0,0,0,0,0,0,0
+2_00018,"Yes, that time works.",1,4,1,0,0,0,0,0,0,0,0
+2_00018,Can I have their phone number?,0,6,1,1,0,0,0,1,0,0,0
+2_00018,What is their location?,0,4,1,1,1,0,0,1,0,0,0
+2_00018,Thank you very much.,1,4,1,0,0,0,0,0,0,1,0
+2_00018,"No, thank you very much.",1,5,1,0,0,0,0,0,0,1,0
+2_00019,I'm taking a friend out to dinner. Can you recommend a place to eat nearby?,1,16,2,1,0,0,0,0,0,0,0
+2_00019,The perfect place would serve Parisian food.,1,7,1,0,0,0,0,0,0,0,1
+2_00019,I would like to eat in San Francisco.,1,8,1,0,0,0,1,0,0,0,1
+2_00019,What is the price range there? Can you find their number?,1,11,2,1,1,0,0,0,0,0,0
+2_00019,That's perfect! I would like to make a reservation.,1,10,2,0,0,0,0,0,0,0,1
+2_00019,We want to eat in the morning 11.,0,8,1,0,0,0,0,0,1,0,0
+2_00019,"Yes, thank you.",0,3,1,0,0,0,0,0,0,0,0
+2_00019,Do they have a bar there?,0,6,1,1,0,1,0,1,0,0,0
+2_00019,Where is the restaurant located? Is there live music scheduled to play?,1,12,2,1,1,0,0,0,0,0,0
+2_00019,Thanks!,0,1,1,0,0,0,0,0,0,0,0
+2_00019,"No, thank you.",0,3,1,0,0,0,0,0,0,0,0
+2_00021,Please find me a restaurant at which I can eat.,1,10,1,0,0,0,0,0,0,1,0
+2_00021,I want to have Taiwanese food in San Fran.,0,9,1,0,0,0,1,0,0,0,0
+2_00021,Please find other restaurants.,1,4,1,0,0,0,0,0,0,1,0
+2_00021,Please suggest other restaurants.,1,4,1,0,0,0,0,0,0,1,0
+2_00021,That sounds like a good choice.,1,6,1,0,0,0,0,0,0,0,0
+2_00021,"Yes, I want to book a table.",0,7,1,0,0,0,0,0,0,0,0
+2_00021,I would like to reserve a table at 14:00.,1,9,1,0,0,0,0,0,1,0,1
+2_00021,"Yes, please reserve the table.",1,5,1,0,0,0,0,0,0,1,0
+2_00021,Please try reserving again at 11:45.,1,6,1,0,0,0,0,0,1,1,0
+2_00021,Yes. Please reserve the table.,1,5,2,0,0,0,0,0,0,1,0
+2_00021,No thank you.,0,3,1,0,0,0,0,0,0,0,0
+2_00022,Find me a good restaurant.,0,5,1,0,0,1,0,0,0,0,0
+2_00022,If like to have a light meal in Benicia.,1,9,1,0,0,0,1,0,0,0,0
+2_00022,Do they have live music?,0,5,1,1,0,1,0,1,0,0,0
+2_00022,What's their location? Do they serve liquor?,1,8,2,1,1,1,0,0,0,0,0
+2_00022,That's great. I'd like to reserve a table there.,1,11,2,0,0,0,0,0,0,1,1
+2_00022,My plan is to be there by 1:30 in the afternoon.,1,11,1,0,0,0,0,0,1,0,0
+2_00022,Hold on. Make it 11:30 in the morning and it is for just 1 person.,1,15,2,0,0,1,0,0,1,0,0
+2_00022,That's absolutely right.,1,4,1,0,0,0,0,0,0,0,0
+2_00022,Yes. That works for me.,1,5,2,0,0,0,0,0,0,0,0
+2_00022,Thank you. That's all I need for now.,1,9,2,0,0,0,0,0,0,0,0
+2_00023,I want to find a place to eat.,0,8,1,0,0,0,0,0,0,0,0
+2_00023,I want to find Asian Fusion in San Francisco.,0,9,1,0,0,0,1,0,0,0,0
+2_00023,Is liquor served?,0,3,1,1,0,0,0,1,0,0,0
+2_00023,Are there any other restaurants?,0,5,1,1,0,0,0,1,0,0,0
+2_00023,What is the address and phone number?,0,7,1,1,1,0,0,0,0,0,0
+2_00023,"Yes, sounds good.",1,3,1,0,0,0,0,0,0,0,0
+2_00023,"Yes, make a reservation, please.",1,5,1,0,0,0,0,0,0,1,0
+2_00023,Make it for 7:30 pm.,0,5,1,0,0,1,0,0,1,0,0
+2_00023,"Yes, that sounds great.",1,4,1,0,0,0,0,0,0,1,0
+2_00023,Try again for a reservation at 18:00.,1,7,1,0,0,1,0,0,1,0,0
+2_00023,"Yes, sounds great. Do they serve liquor at the restaurant?",1,10,2,1,0,1,0,0,0,1,0
+2_00023,Thanks so much.,1,3,1,0,0,0,0,0,0,0,0
+2_00023,No. That will be all.,1,5,2,0,0,0,0,0,0,0,0
+2_00025,I'd like to find a place to eat please.,1,10,1,0,0,0,0,0,0,1,1
+2_00025,Mexican food sounds good.,0,4,1,0,0,0,1,0,0,0,0
+2_00025,I will be in San Mateo.,0,6,1,0,0,0,1,0,0,0,0
+2_00025,Do you know if they have live music?,0,8,1,1,0,1,0,0,0,0,0
+2_00025,"Ok, that will be fine.",0,5,1,0,0,0,0,0,0,0,0
+2_00025,"Yes, please.",1,2,1,0,0,0,0,0,0,1,0
+2_00025,"On the 8th, at 11 in the morning if possible.",0,10,1,0,0,0,0,0,1,0,0
+2_00025,"Yep, sounds good!",1,3,1,0,0,0,0,0,0,0,0
+2_00025,"Perfect, thank you so much!",1,5,1,0,0,0,0,0,0,1,0
+2_00027,I want to find a restaurant.,0,6,1,0,0,0,0,0,0,0,0
+2_00027,Asian Fusion sounds nice.,1,4,1,0,0,0,0,0,0,0,0
+2_00027,Santa Clara,0,2,1,0,0,0,1,0,0,0,0
+2_00027,That sounds good. I want to reserve a table.,1,9,2,0,0,0,0,0,0,0,0
+2_00027,at 18:45 for 2 people/,0,5,1,0,0,0,0,0,1,0,0
+2_00027,Yes it great.,0,3,1,0,0,0,0,0,0,1,0
+2_00027,Where is it located?,0,4,1,1,1,0,0,1,0,0,0
+2_00027,Do they have live music and serve Alcoholic drinks?,0,9,1,1,0,1,0,0,0,0,0
+2_00027,Thanks that will be all.,1,5,1,0,0,0,0,0,0,0,0
+2_00028,Do you know a place where I can get some food?,1,11,1,1,1,1,0,0,0,0,0
+2_00028,I'd like to eat some Afghan food in Oakland.,1,10,1,0,0,0,1,0,0,0,1
+2_00028,Can you give their contact number and address?,0,8,1,1,0,0,0,0,0,0,0
+2_00028,"Yes, that will work for me.",1,6,1,0,0,0,0,0,0,0,0
+2_00028,"Yes, I'd like to make a reservation.",1,8,1,0,0,0,0,0,0,0,1
+2_00028,Reserve me a place for 5:30 in the evening.,0,9,1,0,0,1,0,0,1,0,0
+2_00028,"Yes, that works for me. Do they play live music? Is the price range lavish?",1,15,3,1,0,1,0,0,0,0,0
+2_00028,"Thank you, that will be all.",1,6,1,0,0,0,0,0,0,0,0
+2_00029,I am looking for a place to eat in Oakland.,0,10,1,0,0,0,1,0,0,0,0
+2_00029,"I would like Jamaican if you can find any place. Also, I want somewhere that has live music.",1,18,2,0,0,0,1,0,0,0,1
+2_00029,How expensive is their menu?,0,5,1,1,1,0,0,1,0,0,0
+2_00029,"Yes, that works for me.",1,5,1,0,0,0,0,0,0,0,0
+2_00029,"Yes, please.",1,2,1,0,0,0,0,0,0,1,0
+2_00029,Please make it at twelve pm.,1,6,1,0,0,0,0,0,0,1,0
+2_00029,"No, sorry, change of plans. I would like the 3rd of March instead.",1,13,2,0,0,0,1,0,1,1,1
+2_00029,"No, sorry, please make it March 4th instead.",1,8,1,0,0,0,1,0,1,1,0
+2_00029,"Yes, that works for me. What is their address? Do they serve alcohol?",1,13,3,1,1,1,0,0,0,0,0
+2_00029,I want to try booking again. Is there anything available at 7:30 pm?,0,13,2,1,0,0,0,0,1,0,0
+2_00029,"Yes, please.",1,2,1,0,0,0,0,0,0,1,0
+2_00029,"No, thanks. That's all.",1,5,2,0,0,0,0,0,0,0,0
+2_00030,I'd like to find a place to eat with Szcheuan food.,1,12,1,0,0,0,0,0,0,0,1
+2_00030,I would like Santa Rosa.,1,5,1,0,0,0,1,0,0,0,1
+2_00030,Tell me the address.,0,4,1,0,0,1,0,0,0,0,0
+2_00030,That works for me and I'd like to make a reservation at the restaurant.,1,15,1,0,0,0,0,0,0,0,1
+2_00030,Make the reservation at 5:30 pm.,0,6,1,0,0,1,0,0,1,0,0
+2_00030,That will work. Is there live music and liquor?,1,9,2,1,0,0,0,0,0,0,0
+2_00030,Thanks so much. That's all that is needed.,1,9,2,0,0,0,0,0,0,0,0
+2_00031,I am looking for somewhere to eat in Alamo.,0,9,1,0,0,0,1,0,0,0,0
+2_00031,I want some American food that is moderate priced.,0,9,1,0,0,0,1,0,0,0,0
+2_00031,"Yes, that sounds good. Can you reserve it for March 8th?",1,11,2,1,0,0,1,0,1,0,0
+2_00031,Make the reservation at seven pm.,0,6,1,0,0,1,0,0,0,0,0
+2_00031,"No, make it at one in the afternoon.",0,8,1,0,0,0,0,0,0,0,0
+2_00031,"No, make it for three people on the 14th of this month.",0,12,1,0,0,0,0,0,1,0,0
+2_00031,That should work.,1,3,1,0,0,0,0,0,0,0,1
+2_00031,Thank you. That is all the help I needed.,1,9,2,0,0,0,0,0,0,0,0
+2_00033,Could you help me find a place to eat?,1,9,1,1,0,0,0,0,0,0,1
+2_00033,Look for something in San Francisco.,0,6,1,0,0,1,1,0,0,0,0
+2_00033,"I'd definitely like something affordable. Actually, some Shabu-shabu sounds great right now.",1,13,2,0,0,0,0,0,0,1,1
+2_00033,Do they serve alcohol?,0,4,1,1,0,1,0,1,0,0,0
+2_00033,"Okay, then are there any other restaurants that'll work?",0,10,1,1,0,0,0,0,0,0,0
+2_00033,Do they have any liquor there?,0,6,1,1,0,1,0,1,0,0,0
+2_00033,"Okay, let's keep looking then. Let's look at pricey restaurants now. How about a Barbecue place?",1,18,3,1,1,1,0,0,0,0,0
+2_00033,"Alright, let's go with that.",0,6,1,0,0,0,0,0,0,0,0
+2_00033,"Yes, I would. Set one for a quarter past 5 in the evening.",0,13,2,0,0,1,0,0,1,0,1
+2_00033,"Actually, no, let's make the reservation for 7 pm.",0,10,1,0,0,0,0,0,1,0,0
+2_00033,"Yup, that'll be perfect.",1,5,1,0,0,0,0,0,0,0,0
+2_00033,Thank you. That's all I need for now.,1,9,2,0,0,0,0,0,0,0,0
+2_00034,I am searching for a place to eat.,0,8,1,0,0,0,0,0,0,0,0
+2_00034,"I want to order food in San Jose, specifically Spicy Indian food which would be perfect.",0,16,1,0,0,0,1,0,0,0,1
+2_00034,What other restaurants are available?,0,5,1,1,1,0,0,1,0,0,0
+2_00034,I am looking for a suggestion for a restaurant with moderate pricing.,0,12,1,0,0,0,0,0,0,0,0
+2_00034,The address is what?,0,4,1,1,1,0,0,1,0,0,0
+2_00034,What number can they be reached at?,0,7,1,1,1,0,0,0,0,0,0
+2_00034,"That works, I would like to book a reservation.",1,9,1,0,0,0,0,0,0,0,1
+2_00034,"I would like it on March 11th, morning 11.",1,9,1,0,0,0,1,0,1,0,1
+2_00034,That works for me.,1,4,1,0,0,0,0,0,0,0,0
+2_00034,"That is all I needed, thank you very much.",1,9,1,0,0,0,0,0,0,1,0
+2_00036,I am meeting a friend later and we plan to get food together. Can you find me a restaurant nearby?,1,20,2,1,0,0,0,0,0,0,0
+2_00036,Can you find me a restaurant that serves freshwater fish that's close by?,0,14,1,1,0,0,0,0,0,0,0
+2_00036,"I would like it to be in Half Moon Bay, please.",1,11,1,0,0,0,1,0,0,1,1
+2_00036,"Does this restaurant happen to serve liquor? If so, what is their address?",0,13,2,1,1,0,0,0,0,0,0
+2_00036,"Great, that works perfectly.",1,4,1,0,0,0,0,0,0,1,0
+2_00036,"Yes I would like to make a reservation for 4 people at 11:00, please.",1,14,1,0,0,0,0,0,1,1,1
+2_00036,"Yes, works for me. Can I ask for their contact number as well?",1,13,2,1,0,0,0,0,0,0,0
+2_00036,I want to make a reservation at this restaurant for another time. Let's try five pm this time.,0,19,2,0,0,1,0,0,0,0,0
+2_00036,"Yes, sounds good. All of the details are correct.",1,9,2,0,0,0,0,0,0,0,0
+2_00036,"Thank you very much. That will be all for today, I appreciate it.",1,13,2,0,0,0,0,0,0,1,0
+2_00041,I would like to eat out.,1,6,1,0,0,0,0,0,0,0,1
+2_00041,I want a place to eat in Berkeley.,0,8,1,0,0,0,1,0,0,0,0
+2_00041,I really want some Freshwater fish.,0,6,1,0,0,0,0,0,0,0,0
+2_00041,What is their phone number?,0,5,1,1,1,0,0,1,0,0,0
+2_00041,Give me their address. Is the menu pricey?,0,8,2,1,0,1,0,0,0,0,0
+2_00041,I would like to make a reservation at Akemi.,1,9,1,0,0,0,0,0,0,0,1
+2_00041,6:30 pm please.,1,3,1,0,0,0,0,0,1,1,0
+2_00041,Yes that is good.,0,4,1,0,0,0,0,0,0,0,0
+2_00041,Thank you very much.,1,4,1,0,0,0,0,0,0,1,0
+2_00044,"I will eat later, please find me a place.",1,9,1,0,0,0,0,0,0,1,0
+2_00044,"I don't know, some Sushi would be perfect, I guess.",1,11,1,0,0,0,0,0,0,0,1
+2_00044,I want to eat in Danville.,0,6,1,0,0,0,1,0,0,0,0
+2_00044,"I'm in the mood for live music, do they have it there?",1,13,1,1,0,0,0,0,0,0,0
+2_00044,Can you suggest me any other restaurant?,0,7,1,1,0,0,0,0,0,0,0
+2_00044,Can you give me more options? I want it in Milpitas now.,0,12,2,1,0,0,1,0,0,0,0
+2_00044,"Do they serve liquor there? Tell me their address, please.",0,10,2,1,0,1,0,0,0,1,0
+2_00044,"Yep, that is good for me. Please make one reservation for me on 11th of March.",1,16,2,0,0,0,1,0,1,1,0
+2_00044,1 pm.,0,2,1,0,0,0,0,0,1,0,0
+2_00044,"Yes, it is. What's their contact number? And how pricey are they?",0,13,3,1,1,0,0,0,0,0,0
+2_00044,Thanks.,1,1,1,0,0,0,0,0,0,0,0
+2_00044,Not anymore. Thank you very much.,1,6,2,0,0,0,0,0,0,1,0
+2_00045,I'm looking for a restaurant.,0,6,1,0,0,0,0,0,0,0,0
+2_00045,I want Pizza and Pasta in Santa Rosa.,0,8,1,0,0,0,1,0,0,0,0
+2_00045,Any other places?,0,3,1,1,0,0,0,1,0,0,0
+2_00045,Do they have live music and serve alcohol?,0,8,1,1,0,1,0,0,0,0,0
+2_00045,That works.,0,2,1,0,0,0,0,0,0,0,0
+2_00045,"Yes, for one.",0,3,1,0,0,0,0,0,0,0,0
+2_00045,For 7:30 pm.,0,3,1,0,0,0,0,0,1,0,0
+2_00045,That works.,0,2,1,0,0,0,0,0,0,0,0
+2_00045,"Try booking it again, for 4 people.",0,7,1,0,0,1,0,0,1,0,0
+2_00045,That's great.,0,3,1,0,0,0,0,0,0,1,0
+2_00045,"Try booking again, afternoon 12:30.",0,5,1,0,0,1,0,0,1,0,0
+2_00045,Yes. What's their phone number?,0,6,2,1,1,0,0,1,0,0,0
+2_00045,Thank you.,1,2,1,0,0,0,0,0,0,0,0
+2_00045,"No, thank you.",1,3,1,0,0,0,0,0,0,0,0
+2_00046,I want to eat something that is not very costly.,0,10,1,0,0,0,0,0,0,0,0
+2_00046,Alameda,0,1,1,0,0,0,1,0,0,0,0
+2_00046,Something like Freshwater fish.,0,4,1,0,0,0,0,0,0,0,0
+2_00046,"Ok, make a reservation at Pier 29 for today.",0,9,1,0,0,0,0,0,1,0,0
+2_00046,6 in the evening.,0,4,1,0,0,0,0,0,1,0,0
+2_00046,No I want it on the 3rd of this month and for six people.,0,14,1,0,0,0,0,0,1,0,0
+2_00046,Yes I confirm and do they serve liquor?,0,8,1,1,0,0,0,0,0,0,0
+2_00046,How about live music?,0,4,1,1,1,0,0,1,0,0,0
+2_00046,"Thank you, that's all I need.",1,7,1,0,0,0,0,0,0,0,0
+2_00047,I'm looking for an affordable place to eat.,0,9,1,0,0,0,0,0,0,0,0
+2_00047,I want to eat in Hercules and I'm in the mood for freshwater fish.,1,15,1,0,0,0,1,0,0,0,0
+2_00047,That'll work. I'd like a reservation there.,1,9,2,0,0,0,0,0,0,0,1
+2_00047,I'm gonna say 1:30 PM,1,7,1,0,0,0,0,0,1,0,0
+2_00047,Actually instead make it 6:30 in the evening.,0,8,1,0,0,0,0,0,1,0,0
+2_00047,That'll work. Will liquor be available at the restaurant?,0,10,2,1,0,0,0,0,0,0,0
+2_00047,Thanks. That'll be all.,1,5,2,0,0,0,0,0,0,0,0
+2_00048,Search eateries in San Fran. please,0,6,2,0,0,1,0,0,0,1,0
+2_00048,I think Korean Barbeque sound wonderful.,1,6,1,0,0,0,0,0,0,0,0
+2_00048,"Sure, that really sounds great. Let's make reservations for 2 people please.",1,13,2,0,0,1,0,0,1,1,0
+2_00048,"Let's say 1 pm, please.",1,6,1,0,0,1,0,0,1,1,0
+2_00048,"No, please change it to 7:30 in the evening. Let's also change it to tomorrow.",0,16,2,0,0,1,0,0,1,1,0
+2_00048,Perfect. Find out if they have live music please.,0,9,2,0,0,1,0,0,0,1,0
+2_00048,Thanks your a big help.,1,5,1,0,0,0,0,0,0,0,0
+2_00048,No. That will be all.,0,5,2,0,0,0,0,0,0,0,0
+2_00050,Find places to eat please.,0,5,1,0,0,1,0,0,0,1,0
+2_00050,Let's look in Concord. I am thinking Sushi sounds good.,1,11,2,0,0,1,1,0,0,0,0
+2_00050,What's the address and phone number please?,0,8,1,1,1,0,0,0,0,1,0
+2_00050,Give me other recommendations please.,0,5,1,0,0,1,0,0,0,1,0
+2_00050,Could you please give me suggestions for other restaurants that are budget friendly please.,1,14,1,0,0,0,0,0,0,1,1
+2_00050,Yes that will do. I'll need reservations please.,1,9,2,0,0,0,0,0,0,1,0
+2_00050,How about this evening 4:45 for 1 person please.,1,9,1,0,0,0,0,0,1,1,0
+2_00050,yes. That is right.,0,4,2,0,0,0,0,0,0,0,0
+2_00050,Thanks. your a big help.,1,5,2,0,0,0,0,0,0,0,0
+2_00050,No. That will be all.,0,5,2,0,0,0,0,0,0,0,0
+2_00051,Can you search for a place where Coffeehouse kind of food is available.,0,13,1,0,0,0,0,0,0,0,0
+2_00051,Search for the place around Pleasanton.,0,6,1,0,0,1,1,0,0,0,0
+2_00051,"Yes, That sounds great.",0,4,1,0,0,0,0,0,0,1,0
+2_00051,Yes please! Make a reservation for a table.,1,8,2,0,0,1,0,0,0,1,0
+2_00051,Make the reservation at quarter past 1 in the afternoon.,0,10,1,0,0,1,0,0,1,0,0
+2_00051,No. Change the time to 6 pm and date to March 2nd.,0,12,2,0,0,1,1,0,1,0,0
+2_00051,Okay that sounds good to me. Find me the address and search weather the price is lavish?,0,17,2,1,0,1,0,0,0,0,0
+2_00051,Okay. Thank you for your help.,1,6,2,0,0,0,0,0,0,1,0
+2_00051,No. That will be all. Thank you.,1,7,3,0,0,0,0,0,0,0,0
+2_00052,Can you help me find a low priced restaurant in the area?,0,12,1,1,0,0,0,0,0,0,0
+2_00052,I'd like to find some Punjabi food in Foster City.,1,11,1,0,0,0,1,0,0,0,1
+2_00052,That's fine. I'd like to make a reservation for two at 13:45.,1,14,2,0,0,0,0,0,1,0,1
+2_00052,Perfect. Can you tell me the address of the business?,0,10,2,1,0,0,0,0,0,0,0
+2_00052,That would be fine.,1,4,1,0,0,0,0,0,0,0,1
+2_00052,Thank you so much for your help.,1,7,1,0,0,0,0,0,0,1,0
+2_00052,"No, that will be all. Thank you again.",1,8,2,0,0,0,0,0,0,0,0
+2_00054,"I need a place to get a meal, can you help?",1,11,1,1,0,0,0,0,0,0,0
+2_00054,Please search in SFO.,1,4,1,0,0,0,0,0,0,1,0
+2_00054,"I want Pizza and Pasta, anything Italian really.",0,8,1,0,0,0,1,0,0,0,0
+2_00054,"Yeah, that sounds great.",0,4,1,0,0,0,0,0,0,1,0
+2_00054,"Yes thanks, please do it.",1,5,1,0,0,0,0,0,0,1,0
+2_00054,"evening 5, thanks.",1,3,1,0,0,0,0,0,1,0,0
+2_00054,"No, it's meant to be for three people on Sunday this week.",1,13,1,0,0,0,0,0,0,0,0
+2_00054,"No, it's for four people.",0,6,1,0,0,0,0,0,0,0,0
+2_00054,Yes that's perfect. Do they serve alcohol? Is it a budget restaurant?,0,13,3,1,0,1,0,0,0,0,0
+2_00054,Thanks a lot!,1,3,1,0,0,0,0,0,0,0,0
+2_00054,"No thanks, that's all.",1,5,1,0,0,0,0,0,0,0,0
+2_00056,Im searching for a place to eat.,0,7,1,0,0,0,0,0,0,0,0
+2_00056,I want it in Richmond.,0,5,1,0,0,0,1,0,0,0,0
+2_00056,Some Ramen kind of food will be great for me,0,10,1,0,0,0,0,0,0,1,0
+2_00056,How pricey will it be. Does they play live music?,0,10,2,1,1,0,0,0,0,0,0
+2_00056,Yes thats perfect for me.,0,5,1,0,0,0,0,0,0,0,0
+2_00056,Yes I want to make a booking. Make it at 18:00,0,11,2,0,0,1,0,0,1,0,0
+2_00056,No. Make it for 4 people.,0,6,2,0,0,1,0,0,1,0,0
+2_00056,No. Make it on next Friday for 3 people,0,9,2,0,0,1,0,0,1,0,0
+2_00056,Yes thats great for me,0,5,1,0,0,0,0,0,0,1,0
+2_00056,Thanks a lot. Thats all I want.,1,7,2,0,0,0,0,0,0,0,0
+2_00057,I am looking for somewhere to eat Lobster.,0,8,1,0,0,0,0,0,0,0,0
+2_00057,I want to eat in Hayward.,0,6,1,0,0,0,1,0,0,0,0
+2_00057,"Yes, that will work for me. Please make me a reservation for 5 in the evening.",1,16,2,0,0,0,0,0,1,1,0
+2_00057,Yes perfect. Do they serve liquor or have live music?,0,10,2,1,0,1,0,0,0,0,0
+2_00057,That would be great.,0,4,1,0,0,0,0,0,0,1,1
+2_00057,Thank you!,1,2,1,0,0,0,0,0,0,0,0
+2_00057,"No, thank you.",1,3,1,0,0,0,0,0,0,0,0
+2_00058,"I'm looking for a place to eat, that's also economical in price. Some Persian food sounds perfect.",1,19,2,0,0,0,0,0,0,0,0
+2_00058,Great! I am looking for food in Oakland.,0,8,2,0,0,0,1,0,0,1,0
+2_00058,"Alright, could you actually suggest any other restaurants for me? But in San Fran this time.",1,16,2,1,0,0,0,0,0,0,1
+2_00058,Sound great. What is their contact number? Do you know if they serve liquor?,0,14,3,1,1,1,0,0,0,1,0
+2_00058,Perfect! That sounds great. Can I make a reservation for two people?,1,12,3,1,0,0,0,0,0,1,0
+2_00058,Go ahead and make it at 1:15 pm.,0,8,1,0,0,1,0,0,1,0,0
+2_00058,Actually I would like the reservation for only one person for the 2nd of this month.,1,16,1,0,0,0,0,0,1,0,1
+2_00058,"Actually, can we make it for 7:30 pm on March 12th?",0,11,1,1,0,0,1,0,1,0,0
+2_00058,"Yes, that is perfect. Do they have live music?",0,9,2,1,0,1,0,0,0,0,0
+2_00058,"That's alright, thank you very much.",1,7,1,0,0,0,0,0,0,1,0
+2_00058,"No, that's all. Thanks, again!",1,6,2,0,0,0,0,0,0,0,0
+2_00059,Find me a place to eat that also serves alcohol.,0,10,1,0,0,1,0,0,0,0,0
+2_00059,Something like a Diner should do.,1,6,1,0,0,0,0,0,0,0,1
+2_00059,Find me something in Pleasanton that is priced above average.,0,10,1,0,0,1,1,0,0,0,0
+2_00059,Do they play live music?,0,5,1,1,0,1,0,1,0,0,0
+2_00059,Where are they located?,0,4,1,1,1,0,0,1,0,0,0
+2_00059,That sounds good to me.,0,5,1,0,0,0,0,0,0,0,0
+2_00059,I'd like to reserve a table at the restaurant.,1,10,1,0,0,0,0,0,0,0,1
+2_00059,I think 6 in the evening should be okay.,0,9,1,0,0,0,0,0,1,0,1
+2_00059,That sounds perfect!,0,3,1,0,0,0,0,0,0,0,0
+2_00059,Thank you for the help.,1,5,1,0,0,0,0,0,0,1,0
+2_00059,No. Thank you. That's all for now.,1,8,3,0,0,0,0,0,0,0,0
+2_00063,"I'm hungry, help me find some average priced grub",1,10,1,0,0,0,0,0,0,0,0
+2_00063,Somewhere in San Leandro,0,4,1,0,0,0,1,0,0,0,0
+2_00063,Actually I think I want some Persian food,1,8,1,0,0,0,0,0,0,0,0
+2_00063,Yes that works for me!,0,5,1,0,0,0,0,0,0,0,0
+2_00063,Yes please do,0,3,1,0,0,0,0,0,0,1,0
+2_00063,"Lunch time, twelve in the afternoon",0,6,1,0,0,0,0,0,0,0,0
+2_00063,Make it for four people instead,0,6,1,0,0,1,0,0,0,0,0
+2_00063,Yes that's good. Is there live music there? And where are they located?,0,14,3,1,1,0,0,0,0,0,0
+2_00063,"Try to book again, but just for one, and make it dinner time at 7:30 pm",0,16,1,0,0,1,0,0,1,0,0
+2_00063,"Yes, please do",0,3,1,0,0,0,0,0,0,1,0
+2_00063,"Great, that's it for now",0,6,1,0,0,0,0,0,0,1,0
+2_00064,I am looking for a place to eat in Fremont.,0,10,1,0,0,0,1,0,0,0,0
+2_00064,I love cantonese food.,0,4,1,0,0,0,0,0,0,0,0
+2_00064,Do you have something else?,0,5,1,1,0,1,0,1,0,0,0
+2_00064,Does live music play there?,0,5,1,1,0,0,0,1,0,0,0
+2_00064,That's okay. Book me a table there.,0,8,2,0,0,1,0,0,0,0,0
+2_00064,Evening 6:45 works fine for me.,0,6,1,0,0,0,0,0,1,0,0
+2_00064,"Actually, change that to march 8th instead at 12:00",0,9,1,0,0,0,0,0,1,0,0
+2_00064,cool. Do they serve liquor and whats their contact number?,0,10,2,1,0,1,0,0,0,0,0
+2_00064,Thanks a ton.,1,3,1,0,0,0,0,0,0,0,0
+2_00064,"No, thanks again.",1,3,1,0,0,0,0,0,0,0,0
+2_00065,"Hello, I am looking for a place to eat.",1,9,1,0,0,0,0,0,0,0,0
+2_00065,I would prefer something located in San Jose and on the lines of Punjabi cuisine.,1,15,1,0,0,0,1,0,0,0,1
+2_00065,May I have their contact number?,0,6,1,1,0,0,0,1,0,0,0
+2_00065,Are their prices expensive?,0,4,1,1,0,0,0,1,0,0,0
+2_00065,Could you suggest alternative restaurants?,1,5,1,1,0,0,0,1,0,0,1
+2_00065,Any alternatives? I would prefer one which serves alcohol.,0,9,2,1,0,0,0,0,0,0,1
+2_00065,That sounds great!,0,3,1,0,0,0,0,0,0,1,0
+2_00065,"Yes, that will be great.",0,5,1,0,0,0,0,0,0,1,0
+2_00065,Could you make it at 11:15 please?,1,7,1,1,0,0,0,0,1,1,1
+2_00065,"That is fine, may I have their address? Do they play live music at their venue?",0,16,2,1,0,1,0,0,0,0,0
+2_00065,"No issues, thank you very much.",1,6,1,0,0,0,0,0,0,1,0
+2_00065,"No, that's all the help I need.",1,8,1,0,0,0,0,0,0,0,0
+2_00066,"I want to eat somewhere in San Mateo, can you give me a recommendation?",0,14,1,1,0,0,1,0,0,0,0
+2_00066,Anywhere that serves fish would be perfect.,0,7,1,0,0,0,0,0,0,0,1
+2_00066,"Can you recommend me another restaurant, that is preferably more afforadable?",0,11,1,1,0,0,0,0,0,0,0
+2_00066,"That sounds great, can you make me a reservation for the 7th?",0,12,1,1,0,0,0,0,1,1,0
+2_00066,Set the reservation at 12:45 pm.,0,6,1,0,0,1,0,0,1,0,0
+2_00066,"That's all correct, however can you tell me their address and contact number?",1,14,1,1,0,0,0,0,0,0,0
+2_00066,"That is all, thank you very much.",1,7,1,0,0,0,0,0,0,1,0
+2_00067,I would like to find a restaurant in Santa Rosa,1,10,1,0,0,0,1,0,0,0,1
+2_00067,Barbecue would be excellent,0,4,1,0,0,0,0,0,0,0,1
+2_00067,Can you tell me if they have alcohol and live music?,0,11,1,1,0,0,0,0,0,0,0
+2_00067,Are there any additional restaurants that have alcohol available?,0,9,1,1,0,0,0,0,0,0,0
+2_00067,Are there any more places?,0,5,1,1,0,0,0,1,0,0,0
+2_00067,"Great, that's perfect!",0,4,1,0,0,0,0,0,0,1,0
+2_00067,"Yes please, go ahead and book a table",1,8,1,0,0,0,0,0,0,1,0
+2_00067,I would like a 19:00 reservation,1,6,1,0,0,0,0,0,1,0,1
+2_00067,That is incorrect. I would like the table for Friday next week,0,12,2,0,0,0,0,0,0,0,1
+2_00067,That is not correct. I would like a reservation for 1 person on the 6th.,0,15,2,0,0,0,0,0,1,0,1
+2_00067,"Sure, that works perfectly!",1,4,1,0,0,0,0,0,0,0,0
+2_00067,"Excellent. Thanks, that's it for me",1,7,2,0,0,0,0,0,0,0,0
+2_00068,I am feeling hungry so I need to find a place to eat and also for the place to be serving alcohol.,1,22,1,0,0,0,0,0,0,0,0
+2_00068,I will be walking around Healdsburg so I want for it to be there.,1,14,1,0,0,0,0,0,0,0,0
+2_00068,I like eating Ramen sometimes so that kind of food would be nice.,1,13,1,0,0,0,0,0,0,0,1
+2_00068,Can you tell me the phone number which I can use to contact them?,1,14,1,1,0,0,0,0,0,0,0
+2_00068,Can you tell me if they feature live music there? How much do the things cost in general there?,1,19,2,1,1,0,0,0,0,0,0
+2_00068,"Alright, that is nice for me.",1,6,1,0,0,0,0,0,0,0,0
+2_00068,"Yes, I would like to eat there, so I want to make a reservation for afternoon 1:15.",1,17,1,0,0,0,0,0,1,0,1
+2_00068,That's not what I want. I forgot about a couple that will join us so the reservation should be for four people and on the 8th.,1,27,2,0,0,0,0,0,1,0,1
+2_00068,It's wrong. I would like to eat there in evening 7:15.,0,12,2,0,0,0,0,0,1,0,1
+2_00068,That suits me well.,0,4,1,0,0,0,0,0,0,0,0
+2_00068,I appreciate it very much. That would be all.,1,9,2,0,0,0,0,0,0,0,1
+2_00069,"I'm looking to find a restaurant in the area. I'm taking my wife out to celebrate our anniversary, and I want it to be a nice place, something pricey. Also she loves fish so if they serve Freshwater fish they would be perfect.",1,45,3,0,0,0,0,0,0,0,1
+2_00069,In SFO.,0,2,1,0,0,0,0,0,0,0,0
+2_00069,"Eh, I've heard the food isn't too great there. How about something else?",1,15,2,1,1,0,0,0,0,1,0
+2_00069,"Hmm, what is their number?",0,5,1,1,1,0,0,1,0,0,0
+2_00069,"Okay yeah, sounds good to me. Make me a reservation there please.",0,12,2,0,0,1,0,0,0,1,0
+2_00069,"Make the reservation for 5 o""clock in the evening.",0,11,1,0,0,1,0,0,1,0,0
+2_00069,"Yes, that is all correct. Can you also tell me if they serve liquor or have live music?",0,18,2,1,0,0,0,0,0,0,0
+2_00069,"Okay, thank you very much for your assistance.",1,8,1,0,0,0,0,0,0,1,0
+2_00069,"No, that is all.",0,4,1,0,0,0,0,0,0,0,0
+2_00070,Find me a place to east in Santa Clara.,0,9,1,0,0,1,1,0,0,0,0
+2_00070,I am in the mood for Ramen food.,1,8,1,0,0,0,0,0,0,0,0
+2_00070,Is liquor served there?,0,4,1,1,0,0,0,1,0,0,0
+2_00070,Do they have live music and what is their phone number?,0,11,1,1,1,1,0,0,0,0,0
+2_00070,That will work.,0,3,1,0,0,0,0,0,0,0,0
+2_00070,"Yes, make a reservation.",0,4,1,0,0,0,0,0,0,0,0
+2_00070,I want a reservation for 2 people at 2 in the afternoon.,0,12,1,0,0,0,0,0,1,0,0
+2_00070,"Yes, that is correct.",0,4,1,0,0,0,0,0,0,0,0
+2_00070,Try to make a reservation for a quarter past 6 in the evening.,0,13,1,0,0,1,0,0,1,0,0
+2_00070,It is for 1 person.,0,5,1,0,0,0,0,0,1,0,0
+2_00070,"Yes, that is correct. How expensive is this place?",0,9,2,1,1,0,0,0,0,0,0
+2_00070,Thanks a lot. That is all.,1,6,2,0,0,0,0,0,0,0,0
+2_00071,I am searching for a place to eat at San Fran.,0,11,1,0,0,0,0,0,0,0,0
+2_00071,I prefer Peruvian type of food.,0,6,1,0,0,0,1,0,0,0,0
+2_00071,Yes. It is good for me. Please make a reservation on 8th of March.,0,14,3,0,0,0,1,0,1,1,0
+2_00071,Book it at 12:15.,0,4,1,0,0,1,0,0,1,0,0
+2_00071,Nope. Book it at quarter to 8 in the evening.,0,10,2,0,0,1,0,0,1,0,0
+2_00071,Yes. It is good for me.,0,6,2,0,0,0,0,0,0,0,0
+2_00071,Thank you. That is what I want.,1,7,2,0,0,0,0,0,0,0,0
+2_00072,I'm trying to find a restaurant.,0,7,1,0,0,0,0,0,0,0,0
+2_00072,I would like Izakaya cuisine.,1,5,1,0,0,0,0,0,0,0,1
+2_00072,I'm looking for a place in Pacifica.,0,8,1,0,0,0,1,0,0,0,0
+2_00072,Where are they located and what is the price range?,0,10,1,1,1,0,0,0,0,0,0
+2_00072,What else do you have?,0,5,1,1,1,0,0,1,0,0,0
+2_00072,That sounds good. Please make me a reservation on the 13th.,0,11,2,0,0,0,0,0,1,1,0
+2_00072,"I would like it at 1 o""clock in the afternoon.",0,12,1,0,0,0,0,0,1,0,1
+2_00072,Sounds good. What's the phone number and do they have live music?,0,13,2,1,1,0,0,0,0,0,0
+2_00072,"Thank you, I'm all set.",1,6,1,0,0,0,0,0,0,0,0
+2_00073,I need to find a place to dine.,0,8,1,0,0,0,0,0,0,0,0
+2_00073,I enjoy Szcheuan food.,0,4,1,0,0,0,0,0,0,0,0
+2_00073,I would like to dine in Sausalito at a place that serves alcohol,1,13,1,0,0,0,0,0,0,0,1
+2_00073,What is the location and price range?,0,7,1,1,1,0,0,0,0,0,0
+2_00073,"Yes, that sounds good.",0,4,1,0,0,0,0,0,0,0,0
+2_00073,Yes I would like a reservation for this Saturday.,1,9,1,0,0,0,0,0,0,0,1
+2_00073,I would like to make it at 4:45 pm and it is for 3 people.,1,15,1,0,0,0,0,0,1,0,1
+2_00073,Actually lets make it at 7:15 in the evening on the 7th.,0,12,1,0,0,0,0,0,1,0,0
+2_00073,I need the reservation for 2 people,0,7,1,0,0,0,0,0,1,0,0
+2_00073,"Correct, that is what i need.",0,6,1,0,0,1,0,0,0,0,0
+2_00073,No thank you.,0,3,1,0,0,0,0,0,0,0,0
+2_00074,Hello! I am looking for a place to have a nice meal.,1,12,2,0,0,0,0,0,0,0,0
+2_00074,I would prefer eating in Newark.,1,6,1,0,0,0,1,0,0,0,1
+2_00074,I would prefer some Filipino food which is affordable and not too expensive.,1,13,1,0,0,0,1,0,0,0,1
+2_00074,May I have their contact number?,0,6,1,1,0,0,0,1,0,0,0
+2_00074,That sounds great! Could you help me make a reservation there?,1,11,2,1,0,0,0,0,0,1,1
+2_00074,You can set the reservation at 17:30.,0,7,1,0,0,0,0,0,1,0,0
+2_00074,"Sure, that sounds great!",0,4,1,0,0,0,0,0,0,1,0
+2_00074,Do they serve liquor there?,0,5,1,1,0,1,0,1,0,0,0
+2_00074,May I have their address please? Do they play live music there?,0,12,2,1,0,1,0,0,0,1,0
+2_00074,That sounds great! Thank you.,1,5,2,0,0,0,0,0,0,1,0
+2_00074,"No, thank you very much!",1,5,1,0,0,0,0,0,0,1,0
+2_00076,I want to watch a movie.,0,6,1,0,0,0,0,0,0,0,0
+2_00076,I would love to watch Dr. Strangelove.,1,7,1,0,0,0,0,0,0,0,1
+2_00076,"No, I changed my mind, I want to watch Upside.",1,10,1,0,0,0,0,0,0,0,0
+2_00076,"Yes, that would be amazing.",1,5,1,0,0,0,0,0,0,0,1
+2_00076,Thank you very much.,1,4,1,0,0,0,0,0,0,1,0
+2_00076,"No. That would be all, thank you.",1,7,2,0,0,0,0,0,0,0,1
+2_00083,A friend and I would like to see a movie. I am available now and would like to purchase the ticket and watch the movie now.,1,26,2,0,0,0,0,0,0,0,1
+2_00083,My friend and I saw the trailer for Gloria Bell and would love to watch it!,1,16,1,0,0,0,0,0,0,0,1
+2_00083,Actually we have changed our mind and want to view Dr. Strangelove instead.,1,13,1,0,0,0,0,0,0,0,0
+2_00083,"Yes, I would like to confirm that.",1,7,1,0,0,0,0,0,0,0,1
+2_00083,What genre of movie would this classify under?,0,8,1,1,1,0,0,0,0,0,1
+2_00083,Thank you!,1,2,1,0,0,0,0,0,0,0,0
+2_00083,"No, that is all. Thank you!",1,6,2,0,0,0,0,0,0,0,0
+2_00084,Im would like to watch a movie now. I wish to watch Citizen Kane.,1,14,2,0,0,0,0,0,0,0,1
+2_00084,"Yes, Thats great. Who is the director?",0,7,2,1,1,0,0,0,0,1,0
+2_00084,Thanks a lot. Thats all I need for now.,1,9,2,0,0,0,0,0,0,0,0
+2_00086,I would like to see the movie now.,1,8,1,0,0,0,0,0,0,0,1
+2_00086,Hellboy.,0,1,1,0,0,0,0,0,0,0,0
+2_00086,"Yes, thanks. What type of movie is it?",1,8,2,1,1,0,0,0,0,0,0
+2_00086,Great.,0,1,1,0,0,0,0,0,0,1,0
+2_00086,Not at this time.,0,4,1,0,0,0,0,0,0,0,0
+2_00089,I would like to watch The birds movie.,1,8,1,0,0,0,0,0,0,0,1
+2_00089,Yes please.,1,2,1,0,0,0,0,0,0,1,0
+2_00089,"Thanks, that is all I need.",0,6,1,0,0,0,0,0,0,0,0
+2_00092,Find me a movie to watch right now. I'm super bored.,1,12,2,0,0,1,0,0,0,0,0
+2_00092,Yes. I want to watch Missing Link.,0,7,2,0,0,0,0,0,0,0,0
+2_00092,Confirm that shit.,1,3,1,0,0,1,0,0,0,0,0
+2_00092,Who's the director of this movie? I used to know but i'm totally drawing a blank.,0,18,2,1,1,0,0,0,0,0,0
+2_00092,Right! I knew that.,0,4,2,0,0,0,0,0,0,0,0
+2_00094,I would like to watch a movie.,1,7,1,0,0,0,0,0,0,0,1
+2_00094,Put on the Penguin Highway.,0,5,1,0,0,1,0,0,0,0,0
+2_00094,"Actually, I would like to watch it with subtitles.",1,9,1,0,0,0,0,0,0,0,1
+2_00094,"Yes, that is correct. What is the genre of the movie?",0,11,2,1,1,0,0,0,0,0,0
+2_00094,Thank you!,1,2,1,0,0,0,0,0,0,0,0
+2_00094,"No, thank you.",1,3,1,0,0,0,0,0,0,0,0
+2_00097,I'd like to watch a movie.,1,7,1,0,0,0,0,0,0,0,1
+2_00097,Breakthrough. And could you put subtitles on it please?,1,9,2,1,0,0,0,0,0,1,1
+2_00097,"Right. Do you know what genre of movie Breakthrough is? Also, who directed it?",1,14,3,1,1,1,0,0,0,0,0
+2_00097,"Great, thank you.",1,3,1,0,0,0,0,0,0,1,0
+2_00097,That's all! Thanks.,1,4,2,0,0,0,0,0,0,0,0
+2_00101,I would like to watch Blackmail - Cinemix Par Chloe,1,9,1,0,0,0,0,0,0,0,1
+2_00101,"Yes please, what is the movie genre and who is the director?",1,12,1,1,1,0,0,0,0,1,0
+2_00101,I would like to watch the movie Teen Spirit.,1,9,1,0,0,0,0,0,0,0,1
+2_00101,Yes please do not play the movie with subtitles.,1,9,1,0,0,0,0,0,0,1,0
+2_00101,Thank you.,1,2,1,0,0,0,0,0,0,0,0
+2_00101,No thank you.,1,3,1,0,0,0,0,0,0,0,0
+2_00103,I would like to watch a movie.,1,7,1,0,0,0,0,0,0,0,1
+2_00103,Is Body Double available?,0,4,1,1,0,0,0,1,0,0,0
+2_00103,No. I would rather watch JT LeRoy.,0,7,2,0,0,0,0,0,0,0,1
+2_00103,"Yes, that is correct.",0,4,1,0,0,0,0,0,0,0,0
+2_00103,Thank you! That's it.,1,5,2,0,0,0,0,0,0,0,0
+2_00104,Can you start the movie?,0,5,1,1,0,0,0,1,0,0,0
+2_00104,Let's watch Family.,0,4,1,0,0,1,0,0,0,0,0
+2_00104,"Actually, let's watch Body Double with the subtitles.",0,9,1,0,0,0,0,0,0,0,0
+2_00104,Yes. What is the genre? Who directed it?,0,8,3,1,1,0,0,0,0,0,0
+2_00104,"Thank you, that's it.",1,5,1,0,0,0,0,0,0,0,0
+2_00110,"I would like to watch The Man Who Knew Too Much now, and please have it with subtitles.",1,18,1,0,0,0,0,0,0,1,1
+2_00110,Yes please.,1,2,1,0,0,0,0,0,0,1,0
+2_00110,"What kind of movie is it, and who is the director?",0,11,1,1,1,0,0,0,0,0,0
+2_00110,"Thank you, that is all I need.",1,7,1,0,0,0,0,0,0,0,0
+2_00112,I would like to watch a movie now.,1,8,1,0,0,0,0,0,0,0,1
+2_00112,I would like to watch Missing Link.,1,7,1,0,0,0,0,0,0,0,1
+2_00112,I changed my mind. I would like to watch Blackmail - Cinemix Par Chloe with subtitles.,1,15,2,0,0,0,0,0,0,0,1
+2_00112,"Yes, I would like to watch that.",1,7,1,0,0,0,0,0,0,0,1
+2_00112,"No, thank you.",1,3,1,0,0,0,0,0,0,0,0
+2_00114,I would like to start the movie now.,1,8,1,0,0,0,0,0,0,0,1
+2_00114,I would like to watch How to Train Your Dragon.,1,10,1,0,0,0,0,0,0,0,1
+2_00114,Yes please. Who directed this movie?,1,6,2,1,1,0,0,1,0,1,0
+2_00114,"Okay, thanks.",1,2,1,0,0,0,0,0,0,0,0
+2_00114,"No, thank you.",1,3,1,0,0,0,0,0,0,0,0
+2_00115,Please find me a movie with subtitles,1,7,1,0,0,0,0,0,0,1,0
+2_00115,Please play Hotel Mumbai,1,4,1,0,0,0,0,0,0,1,0
+2_00115,"Yes, I do.",0,3,1,0,0,0,0,0,0,0,0
+2_00115,What category is this movie?,0,5,1,1,1,0,0,1,0,0,0
+2_00115,Who directed the movie?,0,4,1,1,1,0,0,1,0,0,0
+2_00115,Thank you I am all set.,1,6,1,0,0,0,0,0,0,0,0
+2_00118,I would like to watch a movie.,1,7,1,0,0,0,0,0,0,0,1
+2_00118,I would like to watch Penguin Highway.,1,7,1,0,0,0,0,0,0,0,1
+2_00118,"No, I would like to watch it with subtitles.",1,9,1,0,0,0,0,0,0,0,1
+2_00118,"Yes, please.",0,2,1,0,0,0,0,0,0,1,0
+2_00118,Who directed this movie and what is its genre?,0,9,1,1,1,0,0,0,0,0,0
+2_00118,Thank you. That will be all.,1,6,2,0,0,0,0,0,0,0,0
+2_00120,I would like to watch the movie Long Shot right now.,1,11,1,0,0,0,0,0,0,0,1
+2_00120,"No, I want to watch Sunset instead.",0,7,1,0,0,0,1,0,0,0,0
+2_00120,I'd like to watch it with subtitles.,1,8,1,0,0,0,0,0,0,0,1
+2_00120,"Yeah. What genre is the movie, and who is the director?",0,11,2,1,1,0,0,0,0,0,0
+2_00120,"Okay, thanks. That's all.",1,5,2,0,0,0,0,0,0,0,0
+2_00122,I want to watch a movie now.,0,7,1,0,0,0,0,0,0,0,0
+2_00122,I'd like to watch Supa Modo,1,7,1,0,0,0,0,0,0,0,1
+2_00122,"No, with subtitles. Actually, I'd like to watch Gloria Bell instead.",1,12,2,0,0,0,0,0,0,0,1
+2_00122,"Yes, please.",1,2,1,0,0,0,0,0,0,1,0
+2_00122,"Thanks, that's all for now.",0,6,1,0,0,0,0,0,0,0,0
+2_00126,I would like to watch the movie now.,1,8,1,0,0,0,0,0,0,0,1
+2_00126,I would like to watch visitor,1,6,1,0,0,0,0,0,0,0,1
+2_00126,"No, play with subtitles.",0,4,1,0,0,0,0,0,0,0,0
+2_00126,"I changed my mind, i would like to watch a madea family funeral",1,13,1,0,0,0,0,0,0,0,1
+2_00126,"Yes, what kind of movie is it? who directed it?",0,10,2,1,1,0,0,0,0,0,0
+2_00126,thanks,1,1,1,0,0,0,0,0,0,0,0
+2_00126,nothing. thank you,1,3,2,0,0,0,0,0,0,0,0
+3_00000,"Yes, I would like to watch Hellboy please.",1,8,1,0,0,0,0,0,0,1,1
+3_00000,Yes that is correct. Who directed Hellboy?,0,7,2,1,1,0,0,0,0,0,0
+3_00000,"Great, thats everything for now. Thanks.",1,6,2,0,0,0,0,0,0,0,0
+3_00002,I would love the watch the movie Searching for Sugar Man now,1,12,1,0,0,0,0,0,0,0,1
+3_00002,"Yes, can you tell me what kind of movie it is and who's the director?",0,16,1,1,1,0,0,0,0,0,0
+3_00002,Thank you very much that's all I need,1,9,1,0,0,0,0,0,0,1,0
+3_00007,I would like to watch a movie. Can you find the movie Fighting with My Family?,1,16,2,1,0,0,0,0,0,0,1
+3_00007,"Yes, please.",0,2,1,0,0,0,0,0,0,1,0
+3_00007,Who is the director?,0,4,1,1,1,0,0,1,0,0,0
+3_00007,Thanks.,1,1,1,0,0,0,0,0,0,0,0
+3_00007,"No, thank you.",1,3,1,0,0,0,0,0,0,0,0
+3_00008,I would like to watch the movie now.,1,8,1,0,0,0,0,0,0,0,1
+3_00008,I would love to watch Supa Modo.,1,7,1,0,0,0,0,0,0,0,1
+3_00008,"Yes, that sounds great. Who directed it?",1,7,2,1,1,0,0,0,0,1,0
+3_00008,"Thanks, that's all for now.",1,6,1,0,0,0,0,0,0,0,0
+3_00009,I need a restaurant reservation.,0,5,1,0,0,0,0,0,0,0,0
+3_00009,It has to be in San Fran.,0,7,1,0,0,0,0,0,0,0,0
+3_00009,It'll be afternoon 12.,0,5,1,0,0,0,0,0,1,0,0
+3_00009,I'd like Palmer's.,0,5,1,0,0,0,1,0,0,0,1
+3_00009,Perfect. What's their cuisine type and number?,0,8,2,1,1,0,0,0,0,0,0
+3_00009,"Thanks, a lot. That'll do it, for now.",1,9,2,0,0,0,0,0,0,1,0
+3_00010,On March 2nd we are going to celebrate my wedding anniversary. So please check for a reservation at a restaurant.,1,20,2,0,0,0,0,0,1,1,0
+3_00010,"Yes, I prefer jannah restaurant at 4:30 pm",0,8,1,0,0,0,0,0,1,0,0
+3_00010,It must be in SFO,0,5,1,0,0,0,0,0,0,0,0
+3_00010,"Sorry, Please change it the 8th at 11:30",1,8,1,0,0,0,0,0,1,1,0
+3_00010,"Great, thank you",1,3,1,0,0,0,0,0,0,1,0
+3_00010,Thank you very much.,1,4,1,0,0,0,0,0,0,1,0
+3_00011,id like to make a reservation for friday next week.,1,10,1,0,0,0,0,0,0,0,0
+3_00011,"yes, its called marnee in San Francisco.",0,7,1,0,0,0,1,0,0,0,0
+3_00011,id like it for 19:00.,1,5,1,0,0,0,0,0,1,0,0
+3_00011,"yes thats right, do they have live music? how expensive it the menu?",0,13,2,1,1,0,0,0,0,0,0
+3_00011,thank you that's all for now.,1,7,1,0,0,0,0,0,0,0,0
+3_00012,I would like to make a reservation at the restaurant Eric's.,1,12,1,0,0,0,0,0,0,0,1
+3_00012,It's in the SF area.,0,6,1,0,0,0,0,0,0,0,0
+3_00012,"I was thinking 17:45, for two guests.",1,7,1,0,0,0,0,0,1,0,0
+3_00012,Yes that is perfect.,0,4,1,0,0,0,0,0,0,0,0
+3_00012,"Absolutely, thank you.",1,3,1,0,0,0,0,0,0,0,0
+3_00012,Thank you very much for your efforts.,1,7,1,0,0,0,0,0,0,1,0
+3_00012,"No, that will be all. Thank you very much.",1,9,2,0,0,0,0,0,0,1,0
+3_00014,Hey! I would like to have dining today in the restaurant Clementine's. Please can you reserve me a table?,1,20,3,1,0,0,0,0,0,1,1
+3_00014,Please can you make it in San Ramon.,1,8,1,0,0,0,1,0,0,1,0
+3_00014,I would be available at 16:45.,1,6,1,0,0,0,0,0,1,0,1
+3_00014,"Nope, Please can you reserve at Sunnyvale.",1,7,1,0,0,0,1,0,0,1,0
+3_00014,Yup! perfect!,1,2,2,0,0,0,0,0,0,0,0
+3_00014,Please can you try the booking again for 1:15 in the afternoon.,1,12,1,0,0,0,0,0,1,1,0
+3_00014,Yup! that would work.,1,4,2,0,0,0,0,0,0,0,1
+3_00014,"Nope, thanks much.",1,3,1,0,0,0,0,0,0,0,0
+3_00016,I want to book a reservation at a restaurant.,0,9,1,0,0,0,0,0,0,0,0
+3_00016,Look in San Fran.,0,4,1,0,0,1,0,0,0,0,0
+3_00016,Book a table for four at Kusakabe for later today. Make the reservation for evening 6:45.,0,16,2,0,0,1,0,0,1,0,0
+3_00016,Actually change it to March 5th in El Cerrito.,0,9,1,0,0,0,1,0,1,0,0
+3_00016,"No, I want you to book at Yoshio and make it for three people instead.",1,15,1,0,0,0,0,0,0,0,0
+3_00016,"Yes, that sounds right. What's their number, and do they serve alcohol?",1,13,2,1,1,0,0,0,0,0,0
+3_00016,"Yes, try to make it for 18:30.",0,7,1,0,0,0,0,0,1,0,0
+3_00016,"Yup, that's right.",1,4,1,0,0,0,0,0,0,0,0
+3_00016,"Thanks, that's all.",1,4,1,0,0,0,0,0,0,0,0
+3_00017,"It's my friend's birthday and I want to take them to Aquitaine in SF, can you book me a reservation?",0,22,1,1,0,0,0,0,0,0,0
+3_00017,"Book the reservation for 12 o""clock in the afternoon",1,11,1,0,0,1,0,0,1,0,0
+3_00017,"That's incorrect, I was it to be on the 14th of this month.",1,14,1,0,0,0,0,0,1,0,0
+3_00017,Yes that works great,1,4,1,0,0,0,0,0,0,1,0
+3_00017,Will there be live music? What is their phone number?,1,10,2,1,1,0,0,0,0,0,0
+3_00017,Thank you!,0,2,1,0,0,0,0,0,0,0,0
+3_00017,"No that will be all, thank you.",1,7,1,0,0,0,0,0,0,0,0
+3_00019,I want to reserve a table at a restaurant.,0,9,1,0,0,0,0,0,0,0,0
+3_00019,I'd prefer the Lark restaurant in San Fran at five in the evening.,1,14,1,0,0,0,0,0,0,0,1
+3_00019,That sounds great. Can I know their address? Do they serve Spicy Indian food?,1,14,3,1,0,1,0,0,0,1,0
+3_00019,"Yes, let's try that.",1,5,1,0,0,0,0,0,0,0,0
+3_00019,Thank you very much. That is all I need for now.,1,11,2,0,0,0,0,0,0,1,0
+3_00020,I want to book the Taste of Burma restaurant for 2 persons. Can you help me?,1,16,2,1,0,0,0,0,1,0,0
+3_00020,I need to book it at quarter past 7 in the evening in Daly City.,0,15,1,0,0,0,1,0,1,0,0
+3_00020,"Yes, that is correct. Please make it.",1,7,2,0,0,0,0,0,0,1,0
+3_00020,"Yes, please check.",1,3,1,0,0,0,0,0,0,1,0
+3_00020,"Thanks, that's all.",0,4,1,0,0,0,0,0,0,0,0
+3_00022,Can you reserve a table for me?,0,7,1,1,0,0,0,0,0,0,0
+3_00022,I want SF. I want to eat at Crazy Pepper. Schedule fo night 8.,1,14,3,0,0,1,0,0,1,0,0
+3_00022,No. I have 3 people.,0,5,2,0,0,0,0,0,1,0,0
+3_00022,Got it. That's what I want.,1,7,2,0,0,1,0,0,0,0,0
+3_00022,"Ok, well try Taste of the Himalayas.",1,7,1,0,0,0,0,0,0,0,0
+3_00022,"Yes, correct. Can you tell if they have Taiwanese food?",1,10,2,1,0,0,1,0,0,0,0
+3_00022,"No, that's quite enough.",1,5,1,0,0,0,0,0,0,0,0
+3_00023,I'd like to book a spot at a diner.,1,10,1,0,0,0,0,0,0,0,1
+3_00023,I'd like to have it in Hayward at evening 5.,1,11,1,0,0,0,1,0,1,0,1
+3_00023,The diner is called Paya.,0,5,1,0,0,0,0,0,0,0,0
+3_00023,"Nope, I'd like to have it in Cotati, and the diner is China Chef.",1,15,1,0,0,0,0,0,0,0,1
+3_00023,"Yeah, that's perfect for me.",1,6,1,0,0,0,0,0,0,0,0
+3_00023,Thank you for your assistance.,1,5,1,0,0,0,0,0,0,1,0
+3_00023,"No, thank you for your assistance.",1,6,1,0,0,0,0,0,0,1,0
+3_00024,I would like to make reservations for 2 at Pescatore.,1,10,1,0,0,0,0,0,1,0,1
+3_00024,"A quarter to 1 in the afternoon, please.",1,8,1,0,0,0,0,0,1,1,0
+3_00024,I would like the reservation in SFO.,1,7,1,0,0,0,0,0,0,0,1
+3_00024,"Yes, that is correct.",1,4,1,0,0,0,0,0,0,0,0
+3_00024,"Yes, that will be fine.",1,5,1,0,0,0,0,0,0,0,0
+3_00024,Do they have live music and could you provide me with their contact number?,1,14,1,1,0,1,0,0,0,0,1
+3_00024,Thank you so much.,1,4,1,0,0,0,0,0,0,1,0
+3_00024,"No, that is all. Thank you.",1,6,2,0,0,0,0,0,0,0,0
+3_00027,Can you find me a restaurant so that I can make a reservation?,1,13,1,1,0,0,0,0,0,0,0
+3_00027,The place is Cupertino. Make a reservation at Yayoi and the time is quarter to 8 in the evening.,0,19,2,0,0,1,1,0,1,0,0
+3_00027,Yes that's correct. Do they serve liquor?,1,8,2,1,0,1,0,0,0,0,0
+3_00027,Please try booking again in The Mexican restaurant at 18:45,1,10,1,0,0,0,0,0,1,1,0
+3_00027,Can you change the city to Hayward?,0,7,1,1,0,0,1,0,0,0,0
+3_00027,Yes perfect.,1,2,1,0,0,0,0,0,0,0,0
+3_00027,Thanks a lot,1,3,1,0,0,0,0,0,0,0,0
+3_00028,My Anniversary is coming up. Can you find me a restaurant has reservations available on the 10th of this month?,1,20,2,1,0,0,0,0,1,0,0
+3_00028,"We would like to make reservations for two at 18:00, at the Pub Republic in Petaluma.",1,16,1,0,0,0,1,0,1,0,1
+3_00028,"Yes, thank you, Can you give me the address to the restaurant? I was wondering what kind of prices do they have?",1,22,2,1,1,0,0,0,0,0,0
+3_00028,Thank you so very much.,1,5,1,0,0,0,0,0,0,0,0
+3_00028,No. Thank you very much.,1,5,2,0,0,0,0,0,0,1,0
+3_00032,"Listen up, my friend. My co-worker and I want to celebrate the end of this tough project. Please use your magic to help me make a reservation for two at a nice restaurant.",1,33,3,0,0,1,0,0,0,1,0
+3_00032,"Let's go for Fairfield, please?",1,6,1,1,0,1,1,1,0,1,0
+3_00032,Let's do Mcdonald's at six in the evening on any day coming up.,1,15,1,0,0,1,0,0,0,0,0
+3_00032,"Yes, that's great to set up. But, tell me, is this going to be kind of over-priced? And, what is the phone number there?",1,25,3,1,1,0,0,0,0,1,0
+3_00032,Nice. Your assistance is highly appreciated.,1,6,2,0,0,0,1,0,0,0,0
+3_00032,I think not. Thanks for your diligence.,1,7,2,0,0,0,0,0,0,0,0
+3_00034,I wish to make a reservation at a restaurant in Pleasant Hill.,0,12,1,0,0,0,1,0,0,0,0
+3_00034,I want the restaurant to be Kobe for Saturday this week at afternoon 1:30.,0,14,1,0,0,0,1,0,1,0,0
+3_00034,That is not correct. I want the reservation to be at Homestead in Oakland.,1,14,2,0,0,0,1,0,0,0,0
+3_00034,That is correct. Can you tell me what the address is and if they serve Burger dishes?,1,17,2,1,1,0,0,0,0,0,0
+3_00034,Thank you for providing me with that information. That's all the help I need.,1,15,2,0,0,0,0,0,0,0,0
+3_00036,"Hello, Good morning!!! I wish to go out for dinner today. Can you make a dinner reservation at a good restaurant?",1,21,3,1,0,0,0,0,0,0,0
+3_00036,Probably by 6:30 pm.,0,4,1,0,0,0,0,0,1,0,0
+3_00036,"Yup! I would prefer a Mexican restaurant, the Crab House.",1,10,2,0,0,0,1,0,0,0,1
+3_00036,I would prefer SF.,1,4,1,0,0,0,0,0,0,0,1
+3_00036,"Nope, sorry please can you make it on the 13th in Sunnyvale?",1,12,1,1,0,0,1,0,1,1,0
+3_00036,Yup! sounds good.,1,3,2,0,0,0,0,0,0,0,0
+3_00036,"Nope, thanks a lot.",1,4,1,0,0,0,0,0,0,0,0
+3_00037,Make me a reservation at a restaurant please,1,8,1,0,0,1,0,0,0,1,0
+3_00037,Yes I would like to be in Oakland at restaurant Sukho on the 8th at 17:00,1,16,1,0,0,0,1,0,1,0,1
+3_00037,Yes perfect.Liquor they serve?,1,4,1,1,0,0,0,1,0,0,0
+3_00037,Thank you for your help.,1,5,1,0,0,0,0,0,0,1,0
+3_00037,No.Thanks.,0,1,1,0,0,0,0,0,0,0,0
+3_00038,I would like to make a 4:45 pm restuarant reservation.,1,10,1,0,0,0,0,0,1,0,1
+3_00038,"Yes, please look for the Burma Ruby restaurant in Palo Alto.",1,11,1,0,0,0,1,0,0,1,0
+3_00038,That is correct. What is the restaurant's adddress and what is the price range?,1,15,2,1,1,0,0,0,0,0,0
+3_00038,Thank you for your assistance.,1,5,1,0,0,0,0,0,0,1,0
+3_00038,Not at this time.,1,4,1,0,0,0,0,0,0,0,0
+3_00039,"I want to reserve a table at 7:45 in the evening, in a restaurant.",0,14,1,0,0,0,0,0,1,0,0
+3_00039,I need a table for one at the El Rancho restaurant in Concord.,0,13,1,0,0,0,1,0,0,0,0
+3_00039,"Yes, please. Can I have their contact number?",1,8,2,1,0,0,0,0,0,1,0
+3_00039,Do they have live music?,0,5,1,1,0,1,0,1,0,0,0
+3_00039,Thank you for your help.,1,5,1,0,0,0,0,0,0,1,0
+3_00039,No. Thank you. That's all I need for now.,1,10,3,0,0,0,0,0,0,0,0
+3_00040,Make a reservation in Dynasty restaurant for two people.,0,9,1,0,0,1,0,0,0,0,0
+3_00040,In San Jose on 12th of March at quarter past 7 in the evening.,0,14,1,0,0,0,1,0,1,0,0
+3_00040,Yeah exactly.,1,2,1,0,0,0,0,0,0,0,0
+3_00040,"No, that doesn't work for me",1,7,1,0,0,0,0,0,0,0,0
+3_00040,No. Thank you very much,1,5,2,0,0,0,0,0,0,1,0
+3_00041,i want to booking a restaurant for 2 people,0,9,1,0,0,0,0,0,1,0,0
+3_00041,i want san jose in village at 11:30 in the morning,0,11,1,0,0,0,0,0,1,0,0
+3_00041,no. it is for three people,0,6,2,0,0,0,0,0,0,0,0
+3_00041,"yes that works for me. how pricey are they, do they serve liquor",1,13,2,0,0,0,0,0,0,0,0
+3_00041,thanks you very much,1,4,1,0,0,0,0,0,0,1,0
+3_00041,no. thank you for your help,1,6,2,0,0,0,0,0,0,1,0
+3_00042,Can I make a restaurant reservation? I want it on March 12th.,1,12,2,1,0,0,1,0,1,0,0
+3_00042,"The restaurant is Tao San Jin. Please make it for 2 o""clock in the afternoon.",1,17,2,0,0,0,0,0,1,1,0
+3_00042,I want it in Antioch.,0,5,1,0,0,0,1,0,0,0,0
+3_00042,Yes that works for me. What is the address?,1,9,2,1,1,0,0,0,0,0,0
+3_00042,I want to try again. The restaurant is Khana Peena.,1,10,2,0,0,0,0,0,0,0,0
+3_00042,No. Can I change it to the 9th of March in Berkeley.,0,12,2,0,0,0,1,0,1,0,0
+3_00042,No. Make it at 12 in the afternoon.,0,8,2,0,0,1,0,0,1,0,0
+3_00042,Yes that works for me.,1,5,1,0,0,0,0,0,0,0,0
+3_00042,Thank you!,0,2,1,0,0,0,0,0,0,0,0
+3_00042,"No, that is all thank you.",0,6,1,0,0,0,0,0,0,0,0
+3_00043,I'd like to make a restaurant reservation at quarter to 7 in the evening.,1,15,1,0,0,0,0,0,1,0,1
+3_00043,I want to go to Sushi Omakase in Gilroy.,0,9,1,0,0,0,1,0,0,0,0
+3_00043,Sounds right. What kind of food do they have there?,1,10,2,1,1,0,0,0,0,0,0
+3_00043,"No, not right now.",1,4,1,0,0,0,0,0,0,0,0
+3_00044,I'd like to book a spot at a diner. I'd like to have it on the 8th of this month for 1 person.,1,25,2,0,0,0,0,0,1,0,1
+3_00044,I'd like to have it in Milpitas at 1:30 in the afternoon.,1,13,1,0,0,0,1,0,1,0,1
+3_00044,The diner is Darda.,0,4,1,0,0,0,0,0,0,0,0
+3_00044,"Yeah, that's perfect for me. Do they offer alcohol and Spicy Indian food?",1,14,2,1,0,1,0,0,0,0,0
+3_00044,Thank you for your assistance; that's all.,1,8,1,0,0,0,0,0,0,1,0
+3_00045,I won't have time to make dinner after my big meeting so I would like to make a dinner reservation.,1,21,1,0,0,0,0,0,0,0,1
+3_00045,"Can you make the reservation for 1 at Katsu, located in Los Gatos, for six in the evening, on the 12th of this month?",1,24,1,1,0,0,1,0,1,0,0
+3_00045,"Yes, that sound great. I can't wait.",1,8,2,0,0,0,0,0,0,1,0
+3_00045,"Thanks, that's one less thing I have to do.",1,10,1,0,0,0,0,0,0,0,0
+3_00045,"No, that will be all and thank you again.",1,9,1,0,0,0,0,0,0,0,0
+3_00046,I want to make a reservation for this evening 7.,0,10,1,0,0,0,0,0,1,0,0
+3_00046,"Make it at Mister Jiu's in SFO. Also, it should be noted the reservation is only for 1 person.",1,20,2,0,0,1,0,0,1,0,1
+3_00046,"Yes, I don't necessarily need a whole table but I think they will understand.",1,15,1,0,0,0,0,0,0,0,0
+3_00046,"Yeah, I guess that will work.",1,6,1,0,0,0,0,0,0,0,0
+3_00046,I will. Thank you very much.,1,6,2,0,0,0,0,0,0,1,0
+3_00047,I'd like to make a booking at a restaurant.,1,10,1,0,0,0,0,0,0,0,1
+3_00047,I want to book a table at Khana Peena in Berkeley at afternoon 1:30.,0,14,1,0,0,0,1,0,1,0,0
+3_00047,Yeah that's perfect. Where is the restaurant? What type of food do they serve?,1,15,3,1,1,0,0,0,0,0,0
+3_00047,"Thanks a lot, that'll be all.",1,7,1,0,0,0,0,0,0,0,0
+3_00048,I want booking at a restaurant on the 7th in SF,0,11,1,0,0,0,0,0,1,0,0
+3_00048,I am interested in Oneup at quarter to 5 in the evening,0,12,1,0,0,0,0,0,1,0,0
+3_00048,No the restaurant should be Bombay to Goa at 17:30,0,10,1,0,0,0,1,0,1,0,1
+3_00048,That is perfect. Do they provide liquor and live music?,1,10,2,1,0,1,0,0,0,0,0
+3_00048,Please try reserving again on the 7th,1,7,1,0,0,0,0,0,1,1,0
+3_00048,This is good for me,1,5,1,0,0,0,0,0,0,0,0
+3_00048,No thank you,0,3,1,0,0,0,0,0,0,0,0
+3_00050,I'd like to make reservations at a restaurant.,1,9,1,0,0,0,0,0,0,0,1
+3_00050,In San Rafael for the 5th of this month.,0,9,1,0,0,0,0,0,1,0,0
+3_00050,At 1 pm please.,0,4,1,0,0,0,0,0,1,1,0
+3_00050,A restaurant called Rangecafe.,0,4,1,0,0,0,0,0,0,0,0
+3_00050,"Yes, that works for me.",1,5,1,0,0,0,0,0,0,0,0
+3_00050,Do they serve liquor or have live music?,1,8,1,1,0,1,0,0,0,0,0
+3_00050,Thank you very much.,1,4,1,0,0,0,0,0,0,1,0
+3_00050,No. Thank you.,0,3,2,0,0,0,0,0,0,0,0
+3_00051,I would like to make a restaurant reservation in San Jose.,1,11,1,0,0,0,1,0,0,0,1
+3_00051,The restaurant is Spencer's.,0,5,1,0,0,0,0,0,0,0,0
+3_00051,Please make it on the 3rd of MArch at quarter past 1 in the afternoon.,1,15,1,0,0,0,1,0,1,1,0
+3_00051,Yes. Are they considered intermediate priced?,0,6,2,1,0,0,0,1,0,0,0
+3_00051,Thank you for your assitance.,1,5,1,0,0,0,0,0,0,1,0
+3_00051,"No, thank you for your help.",1,6,1,0,0,0,0,0,0,1,0
+3_00052,I want to make a reservation at restaurant Hisui 2.,0,10,1,0,0,0,0,0,1,0,0
+3_00052,"I would like to be at 8 o""clock in the night.",1,13,1,0,0,0,0,0,1,0,1
+3_00052,In Vacaville I want to be,1,6,1,0,0,0,0,0,0,0,0
+3_00052,No.Red Jade is the restaurant.,0,5,1,0,0,0,0,0,0,0,0
+3_00052,Yes is good .Tell me please their address,1,8,1,0,0,0,0,0,0,1,0
+3_00052,Try please make the booking again at 7:45 in the evening,1,11,1,0,0,1,0,0,1,1,0
+3_00052,Yes is perfect.You can tell me please what type of food is available and if they have live music?,1,19,1,1,1,0,0,0,0,1,0
+3_00052,"No,it s ok.Thnak you!",1,5,1,0,0,0,0,0,0,0,0
+3_00053,I would like to make a reservation to a restaurant for 5 pm.,1,13,1,0,0,0,0,0,1,0,1
+3_00053,"Yes, the restaurant is called Sociale and it will be for the one located in San Fran.",1,17,1,0,0,0,0,0,0,0,0
+3_00053,"Yes, that sounds great. Could I also have their contact number, please?",1,12,2,1,0,0,0,0,0,1,1
+3_00053,"No, not at this time.",1,5,1,0,0,0,0,0,0,0,0
+3_00053,"No, Thank you for your help.",1,6,1,0,0,0,0,0,0,1,0
+3_00057,Please help me to make a reservation at a place to eat.,1,12,1,0,0,0,0,0,0,1,0
+3_00057,We want to eat at the Claw Shack in San Jose. Please make the reservation for 11:30 am.,1,18,2,0,0,0,1,0,1,1,0
+3_00057,"I'd prefer to eat at the 3rd Cousin, and the reservation will need to be for four people.",1,19,1,0,0,0,0,0,1,0,1
+3_00057,"Yes, that would be very helpful.",1,6,1,0,0,0,0,0,0,0,1
+3_00057,"No, but thank you.",0,4,1,0,0,0,0,0,0,0,0
+3_00058,I hear Hunan Impression has great food. I'd like to make a reservation for it.,1,16,2,0,0,0,0,0,0,1,1
+3_00058,"I'd like my reservation to be in San Jose, and at morning 11.",1,14,1,0,0,0,1,0,1,0,1
+3_00058,"Actually, I need some more time to prepare. I instead want it in SFO on the 14th of this month.",1,20,2,0,0,0,0,0,1,0,0
+3_00058,"Yes, that is correct.",1,4,1,0,0,0,0,0,0,0,0
+3_00058,"Let me attempt to book Hunan Impression again. Let's instead for with the 5th of this month, at evening 5:30.",1,21,2,0,0,1,0,0,1,0,0
+3_00058,"Indeed, that all sounds good.",1,5,1,0,0,0,0,0,0,0,0
+3_00058,"I'll give up on booking a table for now. Thanks for the help, though.",1,15,2,0,0,0,0,0,0,0,0
+3_00059,I want to make a restaurant reservation please.,1,8,1,0,0,0,0,0,0,1,0
+3_00059,I'm thinking 5:15 pm.,0,5,1,0,0,0,0,0,1,0,0
+3_00059,I would like it in Danville.,1,6,1,0,0,0,1,0,0,0,1
+3_00059,I like Luna Loca and I would like it for the 6th of this month.,1,15,1,0,0,0,0,0,1,0,1
+3_00059,Yes that is perfect. How expensive is the restaurant?,1,9,2,1,1,0,0,0,0,0,0
+3_00059,Thank you so much.,1,4,1,0,0,0,0,0,0,1,0
+3_00059,No. Thank you.,0,3,2,0,0,0,0,0,0,0,0
+3_00061,I want to reserve a table at Cafe Vitale at 19:00.,0,11,1,0,0,0,0,0,1,0,0
+3_00061,It's in Los Altos.,0,5,1,0,0,0,1,0,0,0,0
+3_00061,"Yes, that sounds perfect.",1,4,1,0,0,0,0,0,0,0,0
+3_00061,Thank you for the assistance.,1,5,1,0,0,0,0,0,0,1,0
+3_00061,No. Thank you. That'll be all.,1,7,3,0,0,0,0,0,0,0,0
+3_00062,I need to reserve a table.,0,6,1,0,0,0,0,0,0,0,0
+3_00062,The evening 6:45.,0,3,1,0,0,0,0,0,1,0,0
+3_00062,I could go for some Taco Bell.,1,7,1,0,0,0,0,0,0,0,1
+3_00062,Try the one in Pleasanton.,0,5,1,0,0,1,1,0,0,0,0
+3_00062,"You got it. Hey, do they have Noodles? What's the price range?",1,13,3,1,1,0,0,0,0,0,0
+3_00062,"No, don't bother. I'm set.",1,7,2,0,0,0,0,0,0,0,0
+3_00064,I would like to make a reservation at the restaurant Anar.,1,11,1,0,0,0,0,0,0,0,1
+3_00064,San Fran.,0,2,1,0,0,0,0,0,0,0,0
+3_00064,Make it for 12 pm.,0,5,1,0,0,1,0,0,1,0,0
+3_00064,"No, I would like the reservation to be for three people.",1,11,1,0,0,0,0,0,0,0,1
+3_00064,"No, the name of the restaurant is El Amigo and it is for 1 person.",1,15,1,0,0,0,0,0,1,0,0
+3_00064,Yes that is correct. Are the prices inexpensive and do they have live music?,1,14,2,1,0,0,0,0,0,0,0
+3_00064,I want to make a reservation at a restaurant for 17:00.,0,11,1,0,0,0,0,0,1,0,0
+3_00064,Yes that is correct.,1,4,1,0,0,0,0,0,0,0,0
+3_00064,"No, thank you.",0,3,1,0,0,0,0,0,0,0,0
+3_00065,I'd like to make a reservation for 2 at Milpitas.,0,11,1,0,0,0,1,0,1,0,1
+3_00065,How about 17:30?,1,3,1,1,1,0,0,1,1,0,0
+3_00065,I like Ta restaurant.,0,4,1,0,0,0,0,0,0,0,0
+3_00065,"Yes, that sounds good. Where is the restaurant located? Can I get their phone number?",1,15,3,1,1,0,0,0,0,0,0
+3_00065,Thanks! That is all I need for now.,1,8,2,0,0,0,0,0,0,0,0
+3_00066,Please help me make a restaurant reservation for later today.,1,10,1,0,0,0,0,0,0,1,0
+3_00066,"I need something in Petaluma for 3 people, at six in the evening.",0,13,1,0,0,0,1,0,1,0,0
+3_00066,Please make it at Lemongrass.,1,5,1,0,0,0,0,0,0,1,0
+3_00066,"Yes, that's it. What is the street address for Lemongrass? Also, what type of food is on their menu?",1,20,3,1,1,0,0,0,0,0,0
+3_00066,"Thanks, that is all I needed.",1,6,1,0,0,0,0,0,0,0,0
+3_00067,I'l like to reserve a table at a restaurant for 6 people.,0,13,1,0,0,0,0,0,1,0,0
+3_00067,I'd like to make a reservation for the 14th of this month at Mendoza's in San Jose for 7:30 in the evening.,1,24,1,0,0,0,1,0,1,0,1
+3_00067,That's fine. How expensive is the restaurant?,0,8,2,1,1,0,0,0,0,0,0
+3_00067,"Thanks, that's everything for now.",1,6,1,0,0,0,0,0,0,0,0
+3_00068,I would like to make a restaurant reservation for three people.,1,11,1,0,0,0,0,0,0,0,1
+3_00068,Can you make me a reservation at Carnitas Michoacan in Gilroy at 11:15 am. Any day will work for me.,1,20,2,0,0,0,1,0,1,0,0
+3_00068,"Yes that works for me. Do you know if they serve liquor? Also, can i get the contact number please?",1,20,3,1,0,1,0,0,0,1,0
+3_00068,"No thanks, that will be all.",1,6,1,0,0,0,0,0,0,0,0
+3_00070,I'd like to make a reservation for a restaurant.,1,10,1,0,0,0,0,0,0,0,1
+3_00070,I'd like to make a reservation for 4 at Sumac in Belmont at half past 5 in the evening.,1,20,1,0,0,0,1,0,1,0,1
+3_00070,Sure that sounds good.,1,4,1,0,0,0,0,0,0,0,0
+3_00070,How pricey is the place?,0,5,1,1,1,0,0,1,0,0,0
+3_00070,"Thanks, that's all i need.",1,6,1,0,0,0,0,0,0,0,0
+3_00072,I would like to book a reservation for a place to eat.,1,12,1,0,0,0,0,0,0,0,1
+3_00072,"Cetrella restaurant in Half Moon Bay. Book it for 1 o""clock in the afternoon.",0,16,2,0,0,1,1,0,1,0,0
+3_00072,"Actually, scratch that. Make it Celia's and at 5:30 pm.",0,11,2,0,0,1,0,0,1,0,0
+3_00072,That is correct. Could you give me an idea of their price range?,1,13,2,1,0,0,0,0,0,0,1
+3_00072,No. Thanks anyway.,0,3,2,0,0,0,0,0,0,0,0
+3_00074,Can you make a reservation 1t 12:30 in the afternoon at a restaurant?,0,13,1,1,0,0,0,0,1,0,0
+3_00074,"I want it in SFO, a restaurant called Kabuto, just for one please",1,13,1,0,0,0,0,0,0,1,0
+3_00074,Yes that's good. Do they serve liquor there?,1,9,2,1,0,1,0,0,0,0,0
+3_00074,No need it's ok,1,5,1,0,0,0,0,0,0,0,0
+3_00074,No that's all thanks,1,5,1,0,0,0,0,0,0,0,0
+3_00078,My friend and I would like to make a reservation for 2 at restaurant.,1,14,1,0,0,0,0,0,1,0,1
+3_00078,The restaurant I would like to place a reservation at is called Bj's and I would like to place the reservation at the San Jose location of this restaurant.,1,30,1,0,0,0,1,0,0,0,1
+3_00078,I would like to make the reservation for 19:30 tonight.,1,10,1,0,0,0,0,0,1,0,1
+3_00078,"Yes, that is perfect. I was wondering if this location will have live music? Also what is the address of this restaurant?",1,22,3,1,1,0,0,0,0,0,0
+3_00078,I would like to make a different time which would be at half past 4 in the evening.,1,18,1,0,0,0,0,0,1,0,1
+3_00078,"No, I would actually like to make the reservation at a different restaurant. I would like it at Mazzat in San Fran.",1,22,2,0,0,0,0,0,0,0,1
+3_00078,Yes that is exactly what I would like.,1,8,1,0,0,0,0,0,0,0,1
+3_00078,"No, that is fine. Thank you very much for your help!",1,11,2,0,0,0,0,0,0,1,0
+3_00079,I'd like to book a spot at a diner.,1,10,1,0,0,0,0,0,0,0,1
+3_00079,"I'd like to have it in Antioch at evening 5:30, and the diner is Chili's Grill.",1,18,1,0,0,0,1,0,1,0,1
+3_00079,"Yeah, that's good for me. Do they play live songs?",1,11,2,1,0,1,0,0,0,0,0
+3_00079,Thank you for your assistance.,1,5,1,0,0,0,0,0,0,1,0
+3_00079,"No, thank you for your assistance.",1,6,1,0,0,0,0,0,0,1,0
+3_00080,I would like to make a reservation at a restaurant for three people.,1,13,1,0,0,0,0,0,0,0,1
+3_00080,Make it at half past 11 in the morning please.,1,10,1,0,0,1,0,0,1,1,0
+3_00080,In San Mateo the restaurant is Sushi Yoshizumi.,0,8,1,0,0,0,0,0,0,0,0
+3_00080,"Yes that works, do they serve liquor?",1,7,1,1,0,0,0,0,0,0,0
+3_00080,"Yes, I would like to book a table for 2 people.",1,11,1,0,0,0,0,0,1,0,1
+3_00080,What is their phone number and are they above average in pricing?,1,12,1,1,1,0,0,0,0,0,0
+3_00080,Thank you for your assistance.,1,5,1,0,0,0,0,0,0,1,0
+3_00084,I'd like to make a restaurant reservation please.,1,9,1,0,0,0,0,0,0,1,1
+3_00084,For 12:45 please.,1,3,1,0,0,0,0,0,1,1,0
+3_00084,"Yes, the name of the restaurant is Bikaner.",1,8,1,0,0,0,0,0,0,0,0
+3_00084,"In San Carlos, the restaurant I'd like to find is West Park.",1,13,1,0,0,0,0,0,0,0,1
+3_00084,Actually that should be tomorrow for 3 people.,1,8,1,0,0,0,0,0,1,0,1
+3_00084,Did they serve liquor and what kind of food do they serve?,1,12,1,1,1,0,0,0,0,0,0
+3_00084,"Yes, please try to do that.",1,6,1,0,0,0,0,0,0,1,0
+3_00084,"Thanks, I'm all set.",1,5,1,0,0,0,0,0,0,0,0
+3_00085,I want to make a reservation at a restaurant.,0,9,1,0,0,0,0,0,0,0,0
+3_00085,I want a restaurant in Hayward for the 11th.,0,9,1,0,0,0,1,0,1,0,0
+3_00085,I want a reservation at Buon Appetito at 1:30 pm.,0,10,1,0,0,0,0,0,1,0,0
+3_00085,"No, I want it on the 12th of this month at 13:00.",0,12,1,0,0,0,0,0,1,0,0
+3_00085,"Yes, that is correct.",1,4,1,0,0,0,0,0,0,0,0
+3_00085,Thank you very much!,1,4,1,0,0,0,0,0,0,1,0
+3_00085,"No, thank you.",0,3,1,0,0,0,0,0,0,0,0
+3_00087,I would like to make a reservation at a restaurant for the 1st of this month.,1,16,1,0,0,0,0,0,1,0,1
+3_00087,"It will be in Burlingame. The restaurant I would like to make a reservation for is Steelhead, for one person.",1,20,2,0,0,0,1,0,0,0,1
+3_00087,I would like it for 18:30.,1,6,1,0,0,0,0,0,1,0,1
+3_00087,"Yes, all of those details are correct.",1,7,1,0,0,0,0,0,0,0,0
+3_00087,Thank you very much. That is all I need for today.,1,11,2,0,0,0,0,0,0,1,0
+3_00089,Hi! I'm meeting a date today! Could you make a reservation at seven in the evening tonight?,1,18,3,1,0,0,0,0,0,0,1
+3_00089,"Yes! The Old Siam, it's my favorite. Could you book it for 4 people please?",1,16,3,1,0,0,0,0,1,1,1
+3_00089,It's in San Francisco.,0,5,1,0,0,0,1,0,0,0,0
+3_00089,"Actually, could you make it for five people?",1,8,1,1,0,0,0,0,0,0,1
+3_00089,That's perfect!,1,3,1,0,0,0,0,0,0,0,0
+3_00089,Thank you so much!,1,4,1,0,0,0,0,0,0,1,0
+3_00089,That's it! Thank you!,1,5,2,0,0,0,0,0,0,0,0
+3_00090,Make a reservation at the restaurant Navin.,0,7,1,0,0,1,0,0,0,0,0
+3_00090,I want the one in San Francisco for 12:15 pm.,0,10,1,0,0,0,1,0,1,0,0
+3_00090,"Yes, that's good. How pricey are they? Do they have live music?",1,13,3,1,1,1,0,0,0,0,0
+3_00090,Thanks.,0,1,1,0,0,0,0,0,0,0,0
+3_00090,"No, thank you.",0,3,1,0,0,0,0,0,0,0,0
+3_00092,I want to make a reservation at Broderick Roadhouse.,0,9,1,0,0,0,0,0,0,0,0
+3_00092,I want the reservation in Walnut Creek for 1 person.,0,10,1,0,0,0,1,0,1,0,0
+3_00092,I'd like it in the evening 5:30.,1,8,1,0,0,0,0,0,1,0,1
+3_00092,"No, I changed my mind. I want to go to Egg Roll King in Daly City.",1,16,2,0,0,0,1,0,0,0,0
+3_00092,"Yes, that's right.",1,4,1,0,0,0,0,0,0,0,0
+3_00092,What type of food can I eat there?,0,8,1,1,1,0,0,0,0,0,0
+3_00092,"Thanks, that's all I need today.",1,7,1,0,0,0,0,0,0,0,0
+3_00094,I'd like to make a dinner reservation.,1,8,1,0,0,0,0,0,0,0,1
+3_00094,"Yes, can you book me a table at Bob's Steakhouse in San Francisco at 5:15 pm on the 8th?",1,20,1,1,0,0,1,0,1,0,0
+3_00094,Yeps that's right. What's the price range?,1,9,2,1,1,0,0,0,0,0,0
+3_00094,Okay good to know.,1,4,1,0,0,0,0,0,0,0,0
+3_00096,I need to make a reservation for a date on the 2nd.,0,12,1,0,0,0,0,0,1,0,0
+3_00096,I'm looking for a reservation to Amami in San Bruno.,0,11,1,0,0,0,1,0,0,0,0
+3_00096,It should be around 5:30 in the evening.,0,8,1,0,0,0,0,0,1,0,1
+3_00096,Scratch that. Make it the 8th of March.,0,8,2,0,0,1,1,0,1,0,0
+3_00096,Yeah. Do they serve Pizza and Pasta styles of food? Is the price range lavish?,1,15,3,1,0,1,0,0,0,0,0
+3_00096,Thank you for all your help. That's all.,1,9,2,0,0,0,0,0,0,1,0
+3_00097,Can you find me a reservation at a restaurant in San Jose?,0,12,1,1,0,0,1,0,0,0,0
+3_00097,I would like a reservation in Flames Eatery at 19:00,1,10,1,0,0,0,0,0,1,0,1
+3_00097,No.Its book for 1 person.,0,5,1,0,0,0,0,0,1,0,0
+3_00097,"Yes, That's it.May I know the price ?",1,8,1,1,0,0,0,0,0,0,0
+3_00097,Thank you so much..That's all.,1,8,1,0,0,0,0,0,0,1,0
+3_00098,I want a reservation for a restaurant.,0,7,1,0,0,0,0,0,0,0,0
+3_00098,The restaurant is Jing-jing Szechwan in Palo Alto.,0,8,1,0,0,0,1,0,0,0,0
+3_00098,I want it for 12:15 pm next Friday.,0,8,1,0,0,0,0,0,1,0,0
+3_00098,Please make the reservation for 1 person.,1,7,1,0,0,0,0,0,1,1,0
+3_00098,Correct. What is their phone number?,0,6,2,1,1,1,0,1,0,0,0
+3_00098,"Sure, that's fine.",1,4,1,0,0,0,0,0,0,0,0
+3_00098,"Thanks, that will be all.",1,5,1,0,0,0,0,0,0,0,0
+3_00099,I would like to make a reservation at a restaurant.,1,10,1,0,0,0,0,0,0,0,1
+3_00099,"Yes, make the reservation for Broadway on March 12th at 12:30.",0,11,1,0,0,0,1,0,1,0,0
+3_00099,The restaurant is located in Burlingame.,0,6,1,0,0,0,1,0,0,0,0
+3_00099,"Yes, the information is correct. Is the restaurant very expensive? Do they have live music?",1,15,3,1,0,1,0,0,0,0,0
+3_00099,Thank you very much.,1,4,1,0,0,0,0,0,0,1,0
+3_00100,"Hello, I'd like to make a reservation at My No.1 Sushi for 1.",1,14,1,0,0,0,0,0,1,0,1
+3_00100,Milpitas. In the morning 10:45.,0,5,2,0,0,0,1,0,1,0,0
+3_00100,"Yes, please.",1,2,1,0,0,0,0,0,0,1,0
+3_00100,"Yes, that's fine too.",1,5,1,0,0,0,0,0,0,0,0
+3_00100,Do they Tacos there? What's the phone number?,1,9,2,1,1,1,0,0,0,0,0
+3_00100,Thanks for everything.,1,3,1,0,0,0,0,0,0,0,0
+3_00100,"No, thank you, that's all.",1,6,1,0,0,0,0,0,0,0,0
+3_00101,I want to reserve a restaurant in Walnut Creek,0,9,1,0,0,0,1,0,0,0,0
+3_00101,Make it a eleven am at Kana for two people,0,10,1,0,0,1,0,0,0,0,0
+3_00101,"Confirmed, what is the address?",0,5,1,1,1,0,0,1,0,0,0
+3_00101,Is there live music?,0,4,1,1,0,0,0,1,0,0,0
+3_00101,Thanks a lot,1,3,1,0,0,0,0,0,0,0,0
+3_00101,No thank you.,0,3,1,0,0,0,0,0,0,0,0
+3_00102,I'd like to make a reservation at China Villa.,1,10,1,0,0,0,0,0,0,0,1
+3_00102,18:00 on the 4th of this month.,0,7,1,0,0,0,0,0,1,0,0
+3_00102,"Actually, make the time 1 in the afternoon. The city is San Fran.",1,13,2,0,0,0,0,0,1,0,0
+3_00102,No. The restaurant is now Wooden Charcoal Barbecue on March 9th.,0,11,2,0,0,0,1,0,1,0,0
+3_00102,Yes.,0,1,1,0,0,0,0,0,0,0,0
+3_00102,Thank you.,0,2,1,0,0,0,0,0,0,0,0
+3_00102,"No, that is all.",0,4,1,0,0,0,0,0,0,0,0
+3_00106,I want a reservation at the Santa Rosa restaurant.,0,9,1,0,0,0,1,0,0,0,0
+3_00106,Let's meet at 7 pm at the Jojo Restaurant.,0,10,1,0,0,1,0,0,1,0,0
+3_00106,That is fine with .me. Do they serve liquor?,1,9,2,1,0,1,0,0,0,0,0
+3_00106,Thanks a lot.,1,3,1,0,0,0,0,0,0,0,0
+3_00106,"Thanks, but no.",0,3,1,0,0,0,0,0,0,0,0
+3_00107,I would like to set up a reservation at a restaurant please.,1,12,1,0,0,0,0,0,0,1,1
+3_00107,I would like to make the reservation for four people. It will be in the morning 11:30. It will be in San Fran.,1,23,3,0,0,0,0,0,1,0,1
+3_00107,"Sushi Hashiri, please.",1,3,1,0,0,0,0,0,0,1,0
+3_00107,"No, make it for two people.",0,6,1,0,0,0,0,0,0,0,0
+3_00107,No it does not. I would like to change the restaurant to El Amigo in Santa Clara.,1,17,2,0,0,0,1,0,0,0,1
+3_00107,"Yes, this works great. Are the prices very expensive? Is there live music?",1,13,3,1,0,0,0,0,0,1,0
+3_00107,"Okay, thanks!",0,2,1,0,0,0,0,0,0,0,0
+3_00108,I would like to make a reservation.,1,7,1,0,0,0,0,0,0,0,1
+3_00108,"Please, make it at quarter past 5 in the evening.",1,10,1,0,0,0,0,0,1,1,0
+3_00108,"Please, make it at 7:15 pm. The restaurant is Hikari Sushi in San Fran.",1,14,2,0,0,0,0,0,1,1,0
+3_00108,"No, it's for 1 person. I want to book it for March 12th.",1,14,2,0,0,0,1,0,1,0,0
+3_00108,"Yes, that's correct. Do they have live music, by the way?",1,12,2,1,0,1,0,0,0,0,0
+3_00108,"Thanks, that's all I need.",1,6,1,0,0,0,0,0,0,0,0
+3_00110,I would like to make a reservation.,1,7,1,0,0,0,0,0,0,0,1
+3_00110,Evening 7:15 at Mcdonald's.,0,5,1,0,0,0,0,0,1,0,0
+3_00110,Hayward.,0,1,1,0,0,0,1,0,0,0,0
+3_00110,Great.,1,1,1,0,0,0,0,0,0,1,0
+3_00110,"No, thanks.",0,2,1,0,0,0,0,0,0,0,0
+3_00110,"No, that's all for now.",1,6,1,0,0,0,0,0,0,0,0
+3_00113,I would like to make a reservation at a restaurant in Half Moon Bay.,1,14,1,0,0,0,1,0,0,0,1
+3_00113,I would like a reservation for two people at Shiki at one in the afternoon.,1,15,1,0,0,0,1,0,0,0,1
+3_00113,"Yes, that sounds great.",1,4,1,0,0,0,0,0,0,1,0
+3_00113,Does this restaurant serve Tacos?,0,5,1,1,0,0,0,1,0,0,0
+3_00113,How expensive is this restaurant?,0,5,1,1,1,0,0,1,0,0,0
+3_00113,Thank you for all your help. That is everything.,1,9,2,0,0,0,0,0,0,1,0
+3_00114,"My old college roommates are visiting me soon, and I would like to make a reservation at an upscale restaurant to impress them. Do you know of any such places nearby?",1,31,2,1,0,1,0,0,0,0,1
+3_00114,"I am having a get together on the 14th in Livermore, most likely at around a quarter past 1 in the afternoon.",1,22,1,0,0,0,1,0,1,0,0
+3_00114,I would like to go to Walia in San Jose.,1,10,1,0,0,0,1,0,0,0,1
+3_00114,"No, can you please change the reservation to 7:30 pm.",0,10,1,0,0,0,0,0,1,1,0
+3_00114,Thats perfect.,1,2,1,0,0,0,0,0,0,0,0
+3_00114,What number do I contact to make a reservation?,0,9,1,1,1,0,0,0,0,0,0
+3_00114,I think I am all set. Thank you!,1,8,2,0,0,0,0,0,0,0,0
+3_00115,I'd like to make a reservation at a restaurant please.,1,11,1,0,0,0,0,0,0,1,1
+3_00115,I would like the reservation to be made at the Parkside restaurant and I will need the reservation to be the 7th of this month please.,1,26,1,0,0,0,0,0,1,1,1
+3_00115,please make the reservation for 1:30 in the afternoon in Portola Valley.,1,12,1,0,0,0,0,0,1,1,0
+3_00115,Yes that's right. What is the phone number for the restaurant and what is their price range?,1,18,2,1,1,0,0,0,0,0,0
+3_00115,Thank you. I don't need anything else.,1,8,2,0,0,0,0,0,0,0,0
+3_00118,"I want to eat out today, and would like a reservation at a restaurant.",1,14,1,0,0,0,0,0,0,0,1
+3_00118,"Please search in SF, for 4 people.",1,7,1,0,0,0,0,0,1,1,0
+3_00118,Please make a reservation at Limon for the 13th at morning 11:45.,1,12,1,0,0,0,0,0,1,1,0
+3_00118,"Yes, that's perfect. Do you have their address, as well as contact number?",1,14,2,1,0,1,0,0,0,0,0
+3_00118,Much appreciated.,1,2,1,0,0,0,1,0,0,0,0
+3_00118,"Nothing else, thanks a lot.",1,5,1,0,0,0,0,0,0,0,0
+3_00120,I am planning to go to dinner with some friends and I would like to choose a restaurant and secure a reservation.,1,22,1,0,0,0,0,0,0,0,1
+3_00120,I am looking for a morning 11:30 reservation at McDonald's in Berkeley.,0,13,1,0,0,0,1,0,1,0,0
+3_00120,I am fine with that. Can you tell me what kind of food they serve and if they have live music?,1,21,2,1,1,0,0,0,0,0,0
+3_00120,Excellent. Thank you.,1,3,2,0,0,0,0,0,0,0,0
+3_00120,No. I am all set. Thanks again.,1,7,3,0,0,0,0,0,0,0,0
+3_00122,I would like to make a reservation at a restaurant,1,10,1,0,0,0,0,0,0,0,1
+3_00122,The restaurant is named Foreign Cinema. I want to reserve it for later today.,1,14,2,0,0,0,0,0,0,0,0
+3_00122,Reserve it for this evening 7 pm for 6 people.,0,10,1,0,0,1,0,0,1,0,0
+3_00122,Please search in SFO.,1,4,1,0,0,0,0,0,0,1,0
+3_00122,This is incorrect. The restaurant is Black Angus.,1,8,2,0,0,0,0,0,0,0,0
+3_00122,Yes this is correct.,1,4,1,0,0,0,0,0,0,0,0
+3_00122,I would like to make a reservation at a restaurant. Please reserve it for half past 7 in the evening.,1,20,2,0,0,0,0,0,1,1,1
+3_00122,Yes this is good. What is the address of this restaurant? Does it serve American food?,1,16,3,1,1,0,1,0,0,0,0
+3_00122,"No, thank you.",0,3,1,0,0,0,0,0,0,0,0
+3_00125,I want to make a reservation at a restaurant. I want it in Oakland.,0,14,2,0,0,0,1,0,0,0,0
+3_00125,The restaurant is Shakewell. Make it at 11:30 in the morning.,0,11,2,0,0,1,0,0,1,0,0
+3_00125,No. The restaurant is Villa D'este. I want it in San Francisco.,0,12,3,0,0,0,1,0,0,0,0
+3_00125,No. Make it at 4:30 pm.,0,6,2,0,0,1,0,0,1,0,0
+3_00125,Yes that works for me.,1,5,1,0,0,0,0,0,0,0,0
+3_00125,No. Thank you very much.,1,5,2,0,0,0,0,0,0,1,0
+3_00127,"I'm meeting a friend soon, and we'd like to make a reservation at a restaurant.",1,17,1,0,0,0,0,0,0,0,1
+3_00127,"I'm thinking about Rice Bowl, at morning 11:30",0,9,1,0,0,0,0,0,1,0,0
+3_00127,"Antioch please, on the 7th of this month.",1,8,1,0,0,0,1,0,1,1,0
+3_00127,"Yes, that's correct. What is their address?",1,8,2,1,1,0,0,0,0,0,0
+3_00127,What's their phone number? Do you know if they serve pasta?,1,12,2,1,1,1,0,0,0,0,0
+3_00127,Thank you very much?,1,4,1,1,0,0,0,1,0,1,0
+3_00127,No. Thank you,0,3,2,0,0,0,0,0,0,0,0
+4_00000,I need to make a reservation for a lunch date,0,10,1,0,0,0,0,0,0,0,0
+4_00001,I would like to make a restaurant reservation.,1,8,1,0,0,0,0,0,0,0,1
+4_00001,I would like to make a reservation at the Firehouse Grill in Sunnyvale at 6:45 pm on the 12th of this month.,1,22,1,0,0,0,1,0,1,0,1
+4_00001,"Yes. Do they serve Pizza and Pasta, and also liquor?",1,10,2,1,0,1,0,0,0,0,0
+4_00001,Thank you very much!,1,4,1,0,0,0,0,0,0,1,0
+4_00001,No. Thank you.,0,3,2,0,0,0,0,0,0,0,0
+4_00002,"I want to go out to dinner next week. Can you make me a reservation for 7 o""clock in the evening?",1,23,2,1,0,0,0,0,1,0,0
+4_00002,"No I left LA yesterday, find restaurants in Lafayette please.",1,10,1,0,0,0,1,0,0,1,0
+4_00002,"Yes, I really want to try The Park. See if it's available on the 6th.",1,16,2,0,0,1,0,0,1,0,0
+4_00002,Yes that's perfect. Do you know if a band is playing that night? Also do they serve Burrito food at the bar?,1,23,3,1,0,1,0,0,0,0,0
+4_00002,"Awesome, thank you!",1,3,1,0,0,0,0,0,0,0,0
+4_00002,"No that's it, thanks again.",1,6,1,0,0,0,0,0,0,0,0
+4_00005,I'd like to make a reservation at a restaurant.,1,10,1,0,0,0,0,0,0,0,1
+4_00005,The restaurant is Coupa Cafe in Palo Alto.,0,8,1,0,0,0,1,0,0,0,0
+4_00005,Please make it for 4:45 pm.,1,6,1,0,0,0,0,0,1,1,0
+4_00005,Yes that works for me. Is it in the bargain price range?,1,12,2,1,0,0,0,0,0,0,0
+4_00005,What is their contact number?,0,5,1,1,1,0,0,1,0,0,0
+4_00005,Thank you.,0,2,1,0,0,0,0,0,0,0,0
+4_00005,"No, thank you.",0,3,1,0,0,0,0,0,0,0,0
+4_00006,I would like to reserve a table at a restaurant.,1,10,1,0,0,0,0,0,0,0,1
+4_00006,"The name of the restaurant is Marche Aux Fleurs. The location is in Ross, and the date is on the 10th.",1,21,2,0,0,0,0,0,1,0,0
+4_00006,I would like it to be a eleven am.,1,9,1,0,0,0,0,0,0,0,1
+4_00006,Yup sounds great to me.,1,5,1,0,0,0,0,0,0,1,0
+4_00006,Thanks a ton!,1,3,1,0,0,0,0,0,0,0,0
+4_00006,"Nope, that's it, thanks!",1,5,1,0,0,0,0,0,0,0,0
+4_00009,I would like to reserve a table at a restaurant.,1,10,1,0,0,0,0,0,0,0,1
+4_00009,"I'd like to eat at Little Nepal, evening 6:30.",1,10,1,0,0,0,0,0,1,0,1
+4_00009,I would like the reservation on the 7th; it's in SF.,1,12,1,0,0,0,0,0,1,0,1
+4_00009,"Yes, that would be great. Do they serve liquor? What's the exact address?",1,14,3,1,1,1,0,0,0,1,1
+4_00009,Thanks a lot!,1,3,1,0,0,0,0,0,0,0,0
+4_00009,No. Thanks a lot.,1,4,2,0,0,0,0,0,0,0,0
+4_00010,I'd like to make a restaurant reservation.,1,8,1,0,0,0,0,0,0,0,1
+4_00010,"I'd like Rubio's in Cupertino, if possible.",1,9,1,0,0,0,1,0,0,0,1
+4_00010,"17:30, please.",1,2,1,0,0,0,0,0,1,1,0
+4_00010,"Yes, that's perfect.",1,4,1,0,0,0,0,0,0,0,0
+4_00010,What's Rubio's address? Do they serve Taiwanese food?,1,10,2,1,1,1,1,0,0,0,0
+4_00010,Thank you!,0,2,1,0,0,0,0,0,0,0,0
+4_00010,"No, thank you.",0,3,1,0,0,0,0,0,0,0,0
+4_00011,"Hi, I am going out with my friend soon. I would like to make a reservation at a restaurant.",1,19,2,0,0,0,0,0,0,0,1
+4_00011,I would like a reservation for March 11th in San Rafael at 18:00.,1,13,1,0,0,0,1,0,1,0,1
+4_00011,I would like to go to Bj's.,1,8,1,0,0,0,0,0,0,0,1
+4_00011,"Actually, can you make the reservation for twelve in the afternoon.",0,11,1,0,0,0,0,0,0,0,0
+4_00011,Yes that works. What is the address?,1,7,2,1,1,0,0,0,0,0,0
+4_00011,What is the price range? What is the phone number?,1,10,2,1,1,0,0,0,0,0,0
+4_00011,Thank you!,0,2,1,0,0,0,0,0,0,0,0
+4_00011,No. Thank you !,0,3,2,0,0,0,0,0,0,0,0
+4_00014,I'd like to make a reservation at a restaurant.,1,10,1,0,0,0,0,0,0,0,1
+4_00014,I want to go to Campo Fina in Healdsburg at 5:45 pm.,1,12,1,0,0,0,0,0,1,0,0
+4_00014,"Yes, that's good. What type of food can I eat there?",1,12,2,1,1,0,0,0,0,0,0
+4_00014,"Thank you, that's all I need.",1,7,1,0,0,0,0,0,0,0,0
+4_00016,I would like to make a reservation at Chef Zhao restaurant at 11 am,1,14,1,0,0,0,0,0,1,0,1
+4_00016,Palo Alto would be great,1,5,1,0,0,0,1,0,0,1,1
+4_00016,Yes! That works for me.,1,5,2,0,0,0,0,0,0,0,0
+4_00016,Is the restaurant costly?,0,4,1,1,0,0,0,1,0,0,0
+4_00016,What is their address?,0,4,1,1,1,0,0,1,0,0,0
+4_00016,Thank you!,0,2,1,0,0,0,0,0,0,0,0
+4_00016,No. Thank you very much,1,5,2,0,0,0,0,0,0,1,0
+4_00017,I am meeting my brother to have a meal together so I want to make a reservation at seven in the evening.,1,22,1,0,0,0,0,0,0,0,0
+4_00017,I want the restaurant Yi Yuan in Millbrae.,0,8,1,0,0,0,1,0,0,0,0
+4_00017,Great! That is perfect. Now I need to know if they have live music?,1,14,3,1,0,0,0,0,0,1,0
+4_00017,Thank you for all of your work.,1,7,1,0,0,0,0,0,0,1,0
+4_00017,"No. Everything is great, thank you.",1,6,2,0,0,0,0,0,0,0,0
+4_00018,I'd like to reserve a table at a nearby restaurant.,1,11,1,0,0,0,0,0,0,0,1
+4_00018,Let's set it up for 6:30 pm at Sakoon.,0,10,1,0,0,1,0,0,1,0,0
+4_00018,It's located in Mountain View.,0,6,1,0,0,0,1,0,0,0,0
+4_00018,"Actually, let's make it 7 pm.",0,7,1,0,0,0,0,0,1,0,0
+4_00018,"Let's make the restaurant Peacock's Koriander, on the 10th.",0,11,1,0,0,1,0,0,1,0,0
+4_00018,That's right. What is their contact information?,1,8,2,1,1,0,0,0,0,0,0
+4_00018,"That's it, thank you.",1,5,1,0,0,0,0,0,0,0,0
+4_00021,I would like to know when events are taking place.,1,10,1,0,0,0,0,0,0,0,1
+4_00021,I want to know if Cher is having any event in SFO.,1,12,1,0,0,0,0,0,0,0,0
+4_00021,Where is the venue and what is the start time?,0,10,1,1,1,0,0,0,0,0,0
+4_00021,Are there any other dates available?,0,6,1,1,0,0,0,1,0,0,0
+4_00021,What else is available on other dates? I want to see Michael Feinstein in NY.,1,15,2,1,1,0,0,0,0,0,0
+4_00021,That is awesome.,1,3,1,0,0,0,0,0,0,0,0
+4_00021,"Yes, I want one ticket.",1,5,1,0,0,0,0,0,0,0,0
+4_00021,I would like three tickets.,1,5,1,0,0,0,0,0,0,0,1
+4_00021,That would be great. Where is the show taking place and at what time?,1,14,2,1,1,0,0,0,0,1,1
+4_00021,I appreciate your assistance.,1,4,1,0,0,0,0,0,0,0,0
+4_00021,"No, you have been very helpful.",1,6,1,0,0,0,0,0,0,0,0
